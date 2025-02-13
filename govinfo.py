@@ -5,8 +5,8 @@ from typing import Union
 from typing import Optional
 
 BASE_URL='https://api.govinfo.gov/'
-header_key = {'X-Api-key': 'ARqzwi0cCCjsdpdoeVv2Iv4I0FbhTVoSo7urYs1e'}
-
+header_key = {'X-Api-key': 'ARqzwi0cCCjsdpdoeVv2Iv4I0FbhTVoSo7urYs1e'} # PPP
+#header_key = {'X-Api-key': '0y40jiRIp8yg6cnZXVKI9cZqo1izWnExmDjNIKdm'} # CPD
 class GovInfo:
 
     def gpo_collections(
@@ -25,7 +25,6 @@ class GovInfo:
         nature_suit_code: Optional[str] = None,
         nature_suit: Optional[str] = None,
         offset_mark: str = "*",
-        api_key: str = None
     ) -> Union[pd.DataFrame, None]:
         """
         Retrieve GPO collections data.
@@ -62,9 +61,9 @@ class GovInfo:
             url += f"/{start_date}"
         if end_date:
             url += f"/{end_date}"
-
+            
         # Making the API request
-        headers = {"X-Api-Key": api_key} if api_key else {}
+        headers = {"X-Api-Key": header_key['X-Api-key']} if header_key['X-Api-key'] else {}
         response = requests.get(url, headers=headers, params={k: v for k, v in params.items() if v is not None})
         response.raise_for_status()
         body = response.json()
@@ -116,6 +115,26 @@ class GovInfo:
         #print('Available download types:')
         #for link_type in summary['download']:
         #    print(link_type,summary['download'][link_type])
+        #file_type= "pdfLink"#input("Which file type do you want? ")
+        #link = summary['download'][file_type]
+        return summary # link
+
+    def package_data_verbose(package_id):
+        '''request JSON summary of the package and return list of download options'''
+        response = requests.get(
+            BASE_URL+'packages/'+package_id+'/summary',
+            headers = header_key
+            )
+        summary=json.loads(response.text)
+        print(f"Title: {summary['title']}")
+        print(f"This package was originally published on {summary['dateIssued']}")
+        if summary['relatedLink']:
+            print(f"There are relationships available at {summary['relatedLink']}")
+            print()
+        print('Available download types:')
+        for link_type in summary['download']:
+            print(link_type,summary['download'][link_type])
+        print()
         #file_type= "pdfLink"#input("Which file type do you want? ")
         #link = summary['download'][file_type]
         return summary # link
