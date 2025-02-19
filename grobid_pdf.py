@@ -3,9 +3,38 @@ import sys
 import json
 from grobid_client.grobid_client import GrobidClient
 
-def process_pdfs_with_grobid(input_folder):
+def process_pdfs_with_grobid(pdf_dir, output_dir):
     """
-    Process PDFs using GROBID to extract references and log results.
+    Process PDFs using GROBID to extract full-text information and log results.
+    
+    Args:
+        pdf_dir (str): Path to the directory containing PDF files.
+        output_dir (str): Path to the directory where GROBID output (TEI XML) will be saved.
+    """
+    # Ensure the output directory exists
+    os.makedirs(output_dir, exist_ok=True)
+    
+    # Initialize the GROBID client
+    client = GrobidClient(config_path="./config.json")
+    
+    # Process all PDFs in the directory
+    pdf_files = [os.path.join(pdf_dir, f) for f in os.listdir(pdf_dir) if f.endswith(".pdf")]
+    
+    if not pdf_files:
+        raise FileNotFoundError(f"No PDF files found in directory: {pdf_dir}")
+    
+    
+    client.process("processFulltextDocument", pdf_dir, output_dir)
+    
+    # List all generated TEI XML files
+    tei_files = [os.path.join(output_dir, f) for f in os.listdir(output_dir) if f.endswith(".tei.xml")]
+    print(f"Successfully processed {len(tei_files)} PDFs. TEI XML files saved to: {output_dir}")
+    
+    return tei_files
+
+def process_folder(input_folder):
+    """
+    Process all PDFs in subdirectories and log results.
     
     Args:
         input_folder (str): The name of the main folder inside "zip".
@@ -19,9 +48,6 @@ def process_pdfs_with_grobid(input_folder):
     if not os.path.exists(zip_path):
         raise FileNotFoundError(f"Input folder '{zip_path}' does not exist.")
     
-    # Initialize the GROBID client
-    client = GrobidClient(config_path="./config.json")
-    
     log_data = []
     success_count = 0
     failure_count = 0
@@ -33,33 +59,18 @@ def process_pdfs_with_grobid(input_folder):
             continue  # Skip non-directory files
         
         pdf_dir = os.path.join(subfolder_path, "pdf")
-        output_dir = os.path.join(output_base, subfolder, "grobid")
+        output_dir = os.path.join(output_base, subfolder)
         os.makedirs(output_dir, exist_ok=True)
         
         status = "Success"
         reason = ""
         
-        # Process PDFs if the pdf directory exists
-        if os.path.exists(pdf_dir):
-            pdf_files = [os.path.join(pdf_dir, f) for f in os.listdir(pdf_dir) if f.endswith(".pdf")]
-            
-            if pdf_files:
-                try:
-                    print(f"Processing {len(pdf_files)} PDFs in {pdf_dir}...")
-                    client.process("processReferences", pdf_files, output_dir)
-                    print(f"TEI XML files saved in: {output_dir}")
-                    success_count += 1
-                except Exception as e:
-                    status = "Failed"
-                    reason = str(e)
-                    failure_count += 1
-            else:
-                status = "Failed"
-                reason = "No PDFs found"
-                failure_count += 1
-        else:
+        try:
+            tei_files = process_pdfs_with_grobid(pdf_dir, output_dir)
+            success_count += 1
+        except Exception as e:
             status = "Failed"
-            reason = "No 'pdf' folder found"
+            reason = str(e)
             failure_count += 1
         
         log_data.append({
@@ -89,4 +100,4 @@ if __name__ == "__main__":
         sys.exit(1)
     
     folder_name = sys.argv[1]
-    process_pdfs_with_grobid(folder_name)
+    process_folder(folder_name)
