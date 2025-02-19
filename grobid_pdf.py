@@ -1,22 +1,30 @@
 import os
 import sys
+import json
 from grobid_client.grobid_client import GrobidClient
 
 def process_pdfs_with_grobid(input_folder):
     """
-    Process PDFs using GROBID to extract references.
+    Process PDFs using GROBID to extract references and log results.
     
     Args:
         input_folder (str): The name of the main folder inside "zip".
     """
     zip_path = os.path.join("zip", input_folder)
     output_base = os.path.join("grobid", input_folder)
+    log_dir = "logs"
+    os.makedirs(log_dir, exist_ok=True)
+    log_file = os.path.join(log_dir, f"{input_folder}_grobid.json")
     
     if not os.path.exists(zip_path):
         raise FileNotFoundError(f"Input folder '{zip_path}' does not exist.")
     
     # Initialize the GROBID client
     client = GrobidClient(config_path="./config.json")
+    
+    log_data = []
+    success_count = 0
+    failure_count = 0
     
     # Iterate through all subfolders inside the input folder
     for subfolder in os.listdir(zip_path):
@@ -28,18 +36,51 @@ def process_pdfs_with_grobid(input_folder):
         output_dir = os.path.join(output_base, subfolder, "grobid")
         os.makedirs(output_dir, exist_ok=True)
         
+        status = "Success"
+        reason = ""
+        
         # Process PDFs if the pdf directory exists
         if os.path.exists(pdf_dir):
             pdf_files = [os.path.join(pdf_dir, f) for f in os.listdir(pdf_dir) if f.endswith(".pdf")]
             
             if pdf_files:
-                print(f"Processing {len(pdf_files)} PDFs in {pdf_dir}...")
-                client.process("processFulltextDocument", pdf_files, output_dir)
-                print(f"TEI XML files saved in: {output_dir}")
+                try:
+                    print(f"Processing {len(pdf_files)} PDFs in {pdf_dir}...")
+                    client.process("processReferences", pdf_files, output_dir)
+                    print(f"TEI XML files saved in: {output_dir}")
+                    success_count += 1
+                except Exception as e:
+                    status = "Failed"
+                    reason = str(e)
+                    failure_count += 1
             else:
-                print(f"No PDFs found in {pdf_dir}, skipping...")
+                status = "Failed"
+                reason = "No PDFs found"
+                failure_count += 1
         else:
-            print(f"No 'pdf' folder found in {subfolder_path}, skipping...")
+            status = "Failed"
+            reason = "No 'pdf' folder found"
+            failure_count += 1
+        
+        log_data.append({
+            "subfolder": subfolder,
+            "status": status,
+            "reason": reason
+        })
+    
+    # Add summary statistics
+    log_data.append({
+        "summary": {
+            "total_processed": success_count + failure_count,
+            "successful": success_count,
+            "failed": failure_count
+        }
+    })
+    
+    with open(log_file, "w") as f:
+        json.dump(log_data, f, indent=4)
+    
+    print(f"Log saved at: {log_file}")
 
 # Example usage
 if __name__ == "__main__":
