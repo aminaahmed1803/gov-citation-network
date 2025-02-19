@@ -34,7 +34,7 @@ def process_pdfs_with_grobid(input_folder):
             
             if pdf_files:
                 print(f"Processing {len(pdf_files)} PDFs in {pdf_dir}...")
-                client.process("processReferences", pdf_files, output_dir)
+                client.process("processFulltextDocument", pdf_files, output_dir)
                 print(f"TEI XML files saved in: {output_dir}")
             else:
                 print(f"No PDFs found in {pdf_dir}, skipping...")
