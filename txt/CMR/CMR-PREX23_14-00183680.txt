@@ -1,0 +1,133 @@
+ACRL Information Literacy Competency Standards Review Task Force. (2012). “Task Force Recommendations.” ACRL AC12 Doc 13.1. https://www.ala.org/acrl/sites/ala.org.acrl/files/content/standards/ils_recomm.pdf
+
+Ally, M. (2008). Foundations of educational theory for online learning. The Theory and Practice of Online Learning (2nd ed., 15-44). https://eddl.tru.ca/wp-content/uploads/2018/12/01_Anderson_2008-Theory_and_Practice_of_Online_Learning.pdf
+
+American Association for School Librarians. (2007). Standards for the 21st-Century Learner. Chicago: American Library Association.
+
+Association of College and Research Libraries. (2000). Information Literacy Competency Standards for Higher Education. Association of College & Research Libraries. https://alair.ala.org/bitstream/handle/11213/7668/ACRL%20Information%20Literacy%20Competency%20Standards%20for%20Higher%20Education.pdf?sequence=1
+
+Association of College and Research Libraries. (1989). Presidential Committee on Information Literacy: Final Report. American Library Association. https://www.ala.org/acrl/publications/whitepapers/presidential
+
+Bartholomew, S. R., Zhang, L., & Weitlauf, J. (2018). Engineering design and coding through quadcopters. Technology and Engineering Teacher, 78(1), 14-21. https://eric.ed.gov/?id=EJ1190262
+
+Bauer, J. (2020). What COVID-19 underscores about how broadband connectivity affects educational attainment. The Pew Charitable Trusts. https://www.pewtrusts.org/en/research-and-analysis/articles/2020/12/08/what-covid-19-underscores-about-how-broadband-connectivity-affects-educational-attainment
+
+Bergan-Roller, H. E., Galt, N. J., Chizinski, C. J., Helikar, T., & Dauer, J. T. (2018). Simulated Computational Model Lesson Improves Foundational Systems Thinking Skills and Conceptual Knowledge in Biology Students. BioScience, 68(8), 612-621. https://doi.org/10.1093/biosci/biy054
+
+Börner, K., Bueckle, A., & Ginda, M. (2019). Data visualization literacy: Definitions, conceptual frameworks, exercises, and assessments. Proceedings of the National Academy of Sciences, 116(6), 1857-1864. https://doi.org/10.1073/pnas.1807180116
+
+Coonan, E. (2011). A New Curriculum for Information Literacy: Teaching learning: perceptions of information literacy. Arcadia Project, Cambridge University Library. https://ccfil.pbworks.com/f/emma_report_final.pdf
+
+Digital US Coalition. (2020). Building a Digitally Resilient Workforce: Creating On-Ramps to Opportunity, https://digitalus.org/wp-content/uploads/2020/06/DigitalUS-Report-pages-20200602.pdf
+
+DiSessa, A. A. (2018). Computational literacy and “the big picture” concerning computers in mathematics education. Mathematical Thinking and Learning, 20(1), 3-31. https://doi.org/10.1080/10986065.2018.1403544
+
+Ehsan, H., Rehmat, A. P., & Cardella, M. E. (2021). Computational thinking embedded in engineering design: capturing computational thinking of children in an informal engineering design activity. International Journal of Technology and Design Education, 31(3), 441-464. https://doi.org/10.1007/s10798-020-09562-5
+
+Erkens, R. (2018). Sharing good practices for teaching biogeography. Frontiers of Biogeography, 10(1-2). https://doi.org/10.21425/F5FBG37652
+
+Erwin, R. (2015). Data Literacy: Real-World Learning Through Problem-Solving With Data Sets. American Secondary Education, 43(2), 18-26. https://www.jstor.org/stable/43694208?seq=4
+
+Fairlie, R. W., & Robinson, J. (2013). Experimental Evidence on the Effects of Home Computers on Academic Achievement among Schoolchildren. American Economic Journal: Applied Economics, 5(3), 211-240. https://www.aeaweb.org/articles?id=10.1257/app.5.3.211
+
+Garrison, R.D., & Kanuka H. (2004). Blended Learning: Uncovering its transformative potential in higher education. The Internet and Higher Education, 7(1), 95–105. https://doi.org/10.1016/j.iheduc.2004.02.001
+
+Gibson, C., & Jacobson, T. (2014). Informing and extending the draft ACRL information literacy framework for higher education: An overview and avenues for research.” College and Research Libraries. 75(3), 250–254. https://doi.org/10.5860/0750250
+
+Gould, R. (2021). Toward data-scientific thinking. Teacher Statistics, 43, S11-S22. https://doi.org/10.1111/test.12267
+
+Grover, S., & Pea, R. (2013). Computational thinking in K–12: A review of the state of the field. Educational Researcher, 42(1), 38-43. https://doi.org/10.3102/0013189X12463051
+
+Grover, S., Pea, R., & Cooper, S. (2015). Designing for deeper learning in a blended computer science course for middle school students. Computer Science Education, 25(2), 199-237. https://doi.org/10.1080/08993408.2015.1033142
+
+Gunckel, K. L., Covitt, B. A., Love, G., Cooper-Wagoner, J. A., & Moreno, D. (2022). Unplugged to Plugged In. The Science Teacher, 89(3): https://www.nsta.org/science-teacher/science-teacher-januaryfebruary-2022/unplugged-plugged
+
+Hampton, K., Fernandez, L., Robertson, C., & Bauer, J. M. (2020). Broadband and student performance gaps. Quello Center, Michigan State University. https://quello.msu.edu/wp-content/uploads/2020/03/Broadband_Gap_Quello_Report_MSU.pdf
+
+Horton, N., & Hardin, S. (2021). Integrating Computing in the Statistics and Data Science Curriculum: Creative Structures, Novel Skills and Habits, and Ways to Teach Computational Thinking. Journal of Statistics and Data Science Education, 29:sup1, S1-S3. https://doi.org/10.1080/10691898.2020.1870416
+
+Hsu, T. C., Chang, S. C., & Hung, Y. T. (2018). How to learn and how to teach computational thinking: Suggestions based on a review of the literature. Computers & Education, 126, 296-310. https://doi.org/10.1016/j.compedu.2018.07.004
+
+Hudson, E. (2020). What Research Does—and Does Not—Tell Us About On-line Learning. Global Online Academy. https://globalonlineacademy.org/insights/articles/what-research-does-and-does-not-tell-us-about-online-learning
+
+Jacobson, T. E., & Mackey, T. P. (2013). Proposing a metaliteracy model to redefine information literacy. Communications in Information Literacy, 7(2), 84–91. https://files.eric.ed.gov/fulltext/EJ1089056.pdf
+
+Jordan, M. (2018). On Computational Thinking, Inferential Thinking, and Data Science. https://stat.tamu.edu/big-data-modeling-conf/jordan-abstr/
+
+Kay, R. H. (2006). Evaluating Strategies Used To Incorporate Technology Into Preservice Education: A Review of the Literature. Journal of Research on Technology in Education, 38(4), 383-408. https://files.eric.ed.gov/fulltext/EJ768720.pdf
+
+KewalRamani, A., Zhang, J., Wang, X., Rathbun, A., Corcoran, L., Diliberti, M., & Zhang, J. (2018). Student Access to Digital Learning Resources Outside of the Classroom (NCES 2017-098). U.S. Department of Education. https://nces.ed.gov/pubsearch/pubsinfo.asp?pubid=2017098
+
+Kintu, M.J., Zhu, C., & Kagambe, E. (2017). Blended learning effectiveness: the relationship between student characteristics, design features and outcomes. Int J Educ Technol High Educ, 14, 7. https://doi.org/10.1186/s41239-017-0043-4
+
+Konstantinidou, E., & Scherer, R. (2022). Teaching with technology: A large-scale, international, and multilevel study of the roles of teacher and school characteristics. Computers & Education, 179. https://doi.org/10.1016/j.compedu.2021.104424
+
+Kuhlthau, C.C. (2013). Rethinking the 2000 ACRL Standards: Some things to consider. Communications in Information Literacy, 7(3), 92–97. http://archives.pdx.edu/ds/psu/22406  
+
+Lee, H., & Lovett, J. (2017). New Standards Require Teaching More Statistics: Are Preservice Secondary Mathematics Teachers Ready? Journal of Teacher Education, 68(3), 299-311. https://doi.org/10.1177%2F0022487117697918  
+
+LinkedIn. (2020). New LinkedIn Research: Upskill Your Employees with the Skills Companies Need Most in 2020. https://www.linkedin.com/business/learning/blog/learning-and-development/most-in-demand-skills-2020  
+
+Lloyd, A. (2010). Information Literacy Landscapes: Information Literacy in Education, Workplace and Everyday Contexts. Oxford: Chandos Publishing.  
+
+Long, D., & Magerko, B. (2020). What is AI literacy? Competencies and design considerations. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems. Association for Computing Machinery, New York, NY, USA (pp. 1-16). https://dl.acm.org/doi/abs/10.1145/3313831.3376727  
+
+Li, Lung-Yu, & Lee, Long-Yuan. (2016). Computer Literacy and Online Learning Attitude toward GSOE Students in Distance Education Programs. Higher Education Studies, 6(3). https://files.eric.ed.gov/fulltext/EJ1111001.pdf  
+
+Lye, S. Y., & Koh, J. H. L. (2014). Review on teaching and learning of computational thinking through programming: What is next for K-12? Computers in Human Behavior, 41, 51-61. https://doi.org/10.1016/j.chb.2014.09.012  
+
+Lyon, J. A., & Magana, A. J. (2021). The use of engineering model‐building activities to elicit computational thinking: A design‐based research study. Journal of Engineering Education, 110(1), 184-206. https://doi.org/10.1002/jee.20372  
+
+Makar, K., & Rubin, A. (2009). A Framework for Thinking about Informal Statistical Inference. Statistics Education Research Journal. 8(1), 82-105. https://iase-web.org/documents/SERJ/SERJ8(1)_Makar_Rubin.pdf?1402525008  
+
+Montoya S., & Barbosa, A. (2020). The importance of monitoring and improving ICT use in education post-confinement. UNESCO Institute for Statistics. https://uis.unesco.org/en/blog/importance-monitoring-and-improving-ict-use-education-post-confinement.  
+
+National Center for Education Evaluation and Regional Assistance, Guide for Building and Using Evidence in Data Science Education. (forthcoming)  
+
+National Academies of Sciences, Engineering, and Medicine. (2022). Foundations of Data Science for Students in Grades K-12: A Workshop. Washington, DC: The National Academies Press: https://www.nationalacademies.org/our-work/foundations-of-data-science-for-students-in-grades-k-12-a-workshop  
+
+National Academies of Sciences, Engineering, and Medicine. (2020). Roundtable on Data Science Postsecondary Education: A Compilation of Meeting Highlights. Washington, DC: The National Academies Press. https://doi.org/10.17226/25804  
+
+National Center for Education Research. (2022). Catalyzing a New Field: Data Science in K-12 Education. https://ies.ed.gov/ncer/whatsnew/techworkinggroup/pdf/DataScienceTWG.pdf  
+
+Ng, D. T. K., Leung, J. K. L., Chu, S. K. W., & Qiao, M. S. (2021). Conceptualizing AI literacy: An exploratory review. Computers and Education: Artificial Intelligence, 2, 100041. http://dx.doi.org/10.1016/j.caeai.2021.100041  
+
+Niess, M. L. (1990). Preparing computer-using educators for the 90s. Journal of Computing in Teacher Education, 7(2), 11-14.  
+
+Nikolopoulou, K. (2015). ICT – Computer Play and Children‘s Development of Skills in Science. International Journal of New Technology and Research, 1(5), 18-22. https://www.ijntr.org/download_data/IJNTR01050013.pdf  
+
+Oakleaf, M. (2014). A Roadmap for Assessing Student Learning Using the New Framework for Information Literacy for Higher Education. Journal of Academic Librarianship, 40(5), 510–514. https://meganoakleaf.info/framework.pdf  
+
+Peytcheva-Forsyth, R., Yovkova, B., & Aleksieva, L. (2018). Factors affecting students’ attitudes towards online learning - The case of Sofia University, AIP Conference Proceedings 2048, 20025. https://doi.org/10.1063/1.5082043  
+
+Rappolt-Schlichtmann, G. (2020). Distance learning: 6 UDL best practices for online learning. https://www.understood.org/en/articles/video-distance-learning-udl-best-practices  
+
+Rohaan, E. J., Taconis, R., & Jochems, W. M. (2012). Analysing teacher knowledge for technology education in primary schools. International Journal of Technology and Design Education, 22(3), 271-280. https://doi.org/10.1007/s10798-010-9147-z  
+
+Rubin, A. (2021). What to consider when we consider data. Teaching Statistics, 43(S1), S23-S33. https://doi.org/10.1111/test.12275  
+
+Sang, G., Valcke, M., Van Braak, J., & Tondeur, J. (2010). Student teachers’ thinking processes and ICT integration: Predictors of prospective teaching behaviors with educational technology. Computers & Education, 54(1), 103-112. https://www.sciencedirect.com/science/article/abs/pii/S0360131509001870  
+
+Schanzer, E., Pfenning, N., Denny, F., Dooman., S., Politz, J., Lerner, B., Fisler, K., & Krishnamurthi, S. (2022). Integrated Data Science for Secondary Schools: Design and Assessment of a Curriculum. Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2022), March 3– 5, 2022, Providence, RI, USA. ACM, New York, NY, USA. https://doi.org/10.1145/3478431.3499311  
+
+Sengupta, P., Kinnebrew, J. S., Basu, S., Biswas, G., & Clark, D. (2013). “Integrating computational thinking with K-12 science education using agent-based computation: A theoretical framework.” Education and Information Technologies, 18(2), 351–380. https://dl.acm.org/doi/10.1007/s10639-012-9240-x  
+
+Strimel, G. J., Morehouse, A., Bartholomew, S. R., Swift, C., & Woessner, J. (2019). integrating computational thinking through wearable technologies and programmable e-textiles. Technology and Engineering Teacher, 78(8), 16-19. https://scholarsarchive.byu.edu/facpub/5562  
+
+Sung, E. (2019). Fostering computational thinking in technology and engineering education: An unplugged hands-on engineering design approach. Technology and Engineering Teacher. 78(5). 8-13. https://eric.ed.gov/?id=EJ1203698  
+
+Touretzky, D., Gardner-McCune, C., Martin, F., & Seehorn, D. (2019). Envisioning AI for K-12: What Should Every Child Know about AI? Proceedings of the AAAI Conference on Artificial Intelligence, 33(01), 9795-9799: https://doi.org/10.1609/aaai.v33i01.33019795  
+
+Urdan, T. A., & Weggen, C. C. (2000). Corporate e-learning: Exploring a new frontier. WR Hambrecht Co. http://papers.cumincad.org/data/works/att/2c7d.content.pdf.  
+
+Weintrop, D., Beheshti, E., Horn, M., Orton, K., Jona, K., Trouille, L., & Wilensky, U. (2016). Defining Computational Thinking for Mathematics and Science Classrooms. Journal of Science Education and Technology, 25(1), 127-147. https://ccl.northwestern.edu/2015/Weintrop%20et%20al.%20-%202015%20-%20Defining%20Computational%20Thinking%20for%20Mathematics%20an.pdf  
+
+Wilensky, U., Brady, C. E., & Horn, M. S. (2014). Fostering computational literacy in science classrooms. Communications of the ACM, 57(8), 24-28. https://dl.acm.org/doi/10.1145/2633031  
+
+Wong, K. T., Teo, T., & Russo, S. (2012). Influence of gender and computer teaching efficacy on computer acceptance among Malaysian student teachers: An extended technology acceptance model. Australasian Journal of Educational Technology, 28(7). https://ajet.org.au/index.php/AJET/article/view/796  
+
+Yang, W. (2022). Artificial Intelligence education for young children: Why, what, and how in curriculum design and implementation. Computers and Education: Artificial Intelligence, 3, 100061. https://www.sciencedirect.com/science/article/pii/S2666920X22000169  
+
+Zee, M., & Koomen, H. M. (2016). Teacher Self-Efficacy and Its Effects on Classroom Processes, Student Academic Adjustment, and Teacher Well-Being: A Synthesis of 40 Years of Research. Review of Educational research, 86(4), 981-1015. https://journals.sagepub.com/doi/10.3102/0034654315626801  
+
+Zhu, Y., Au W., & Yates, G. (2013). University students’ attitudes toward online learning in a blended course. AARE Annual Conference, Adelaide. https://files.eric.ed.gov/fulltext/ED603297.pdf  

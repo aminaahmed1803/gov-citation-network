@@ -1,0 +1,375 @@
+Health Information Technology Advisory Committee. (2022, November 10). Public Health Data Systems Task Force 2022 Report to the HITAC. https://www.healthit.gov/sites/default/files/page/2022-11/2022-11-10_PHDS_TF_Recommendations_Report_Transmittal_Letter_508.pdf  
+
+Artiga, S. (2021, October 27). Advancing health equity requires more and better data. Kaiser Family Foundation. https://www.kff.org/policy-watch/advancing-health-equity-requires-more-better-data/  
+
+Wang, W. F., LaVeist, T. A., & Sharfstein, J. M. (2015, March 9). Achieving Health Equity by Design. Journal of the American Medical Association. 313(14): 1417-1418. Doi: 10.1001/jama.2015.2434  
+
+Argentieri, R., Mason, T. A., Hefcart, J., & Henry, J. (2022, February 22). Embracing Health Equity by Design. Health IT Buzz. Department of Health and Human Services, Office of the National Coordinator of Health Information Technology. https://www.healthit.gov/buzz-blog/health-it/embracing-health-equity-by-design  
+
+Nelson, H. (2021, September 23) Feds: "Health Equity by Design" key to health IT, interoperability. EHRIntelligence. https://ehrintelligence.com/news/feds-health-equity-by-design-key-to-health-it-interoperability  
+
+Hailu, R. (2019, July 24). Fitbits and other wearables may not accurately track heart rates in people of color. Stat News. https://www.statnews.com/2019/07/24/fitbit-accuracy-dark-skin/  
+
+Brewer, L. C.; Fortuna, K. L., Jones, C., Walker, R., Hayes., S. N., Patten, C. A., & Copper, L. A. (2020, January 14). Back to the future: advancing health equity through health informatics and digital health. JMIR Mhealth and Uhealth. 8(1): e14512. https://doi.org/10.2196/14512  
+
+Richardson, S., Lawrence, K., Schoenthaler, A., & Mann, D. (2022, August 18). A framework for digital health equity. Digital Medicine, Volume 5, Article No. 119. https://doi.org/10.1038/s41746-022-00663-0  
+
+Raslevich, A. & Kwon, Y. (2022, March 21). Improving health equity in Medicaid: data needs, challenges, and opportunities. Academy Health. https://academyhealth.org/blog/2022-03/improving-health-equity-medicaid-data-needs-challenges-and-opportunities  
+
+Nelson, H. (2022, July 5). Improved SDOH data collection, interoperability needed for health equity. EHRIntelligence. https://ehrintelligence.com/news/improved-sdoh-data-collection-interoperability-needed-for-health-equity  
+
+Henry, J., Andriesen, B., Chaney, K., Okubo, T., & Dennis, A. (2021, August 11). By LEAPS and Bounds: Newest Round of Awardees Seek to Advance Health Equity and Research. Health IT Buzz. Department of Health and Human Services, Office of the National Coordinator of Health Information Technology. https://www.healthit.gov/buzz-blog/interoperability/by-leaps-and-bounds-newest-round-of-awardees-seek-to-advance-health-equity-and-research  
+
+Health Information Technology Advisory Committee. (2022, March 10). Transcript: Health Information Technology Advisory Committee (HITAC) meeting. https://www.healthit.gov/sites/default/files/facas/2022-03-10_HITAC_Transcript_508.pdf  
+
+Bagley, K., Mason, T. A., Argentieri, R., & Myers, E. (2022, June 30). Key themes from HITAC hearing on Health Equity by Design. Health IT Buzz. Department of Health and Human Services, Office of the National Coordinator of Health IT. https://www.healthit.gov/buzz-blog/health-information-technology-advisory-committee/key-themes-from-hitac-hearing-on-health-equity-by-design  
+
+McClure, R. & Horn, R. (Updated 2022, August 1). The Gender Harmony Project. Confluence. https://confluence.hl7.org/display/VOC/The+Gender+Harmony+Project  
+
+McClure, R. C., Macumber, C. L., Kronk, C., Grasso, C., Horn, R. J., Queen, R., Posnack, S., & Davison, K., (2022, February 22). Gender harmony: improved standards to support affirmative care of gender-marginalized people through inclusive gender and sex representation. Journal of the American Medical Informatics Association, Volume 29, Issue 2, Pages 354–363. https://doi.org/10.1093/jamia/ocab196  
+
+Hughes, D. L. (2022, March 3). CMS Innovation Center launches new initiative to advance health equity. Health Affairs. https://www.healthaffairs.org/do/10.1377/forefront.20220302.855616/  
+
+Farah, J., Oguntuga, A., Sudaria, T., et al. (2021). How electronic health record data enrichment can generate insights into clinical challenges and therapeutic opportunities. Veradigm. https://veradigm.com/img/resource-EHR-Data-Enrichment-White-Paper.pdf  
+
+Hanks, A. & Dowling, S. (2021, May 27). Presentation: From vaccine management to ICU planning how CRISP unlocked the power of data during a pandemic. https://www.databricks.com/session_na21/from-vaccine-management-to-icu-planning-how-crisp-unlocked-the-power-of-data-during-a-pandemic  
+
+Wisconsin Department of Health Services. (2022, July 28). Vulnerability Indices. https://www.dhs.wisconsin.gov/climate/wihvi.htm  
+
+Agency for Toxic Substances and Disease Registry. (2022, March 15). ICDC/ATSDR Social Vulnerability Index. Department of Health and Human Services, Centers for Disease Control and Prevention. https://www.atsdr.cdc.gov/placeandhealth/svi/index.html  
+
+UCLA Center for Neighborhood Knowledge. (2022). Los Angeles County COVID-19 medical vulnerability indicators. https://knowledge.luskin.ucla.edu/covid-19-medical-vulnerability/  
+
+Lousberg, C. & Behal, S. (Updated 2022, July 29). The Gravity Project. Confluence. https://confluence.hl7.org/pages/viewpage.action?pageId=91996855#TheGravityProject-Announcements  
+
+Office of the National Coordinator for Health Information Technology. (2022, March 29). ONC Social Determinants of Health Information Exchange Learning Forum. Department of Health and Human Services. https://www.healthit.gov/sites/default/files/2022-04/March%20ONC%20SDOH%20Information%20Exchange%20Learning%20Forum_FINAL_032922.pdf  
+
+Federal Trade Commission. (2022, June). Combatting Online Harms Through Innovation: A Report to Congress. https://www.ftc.gov/reports/combatting-online-harms-through-innovation  
+
+Office of Science and Technology Policy. (2022, October). Blueprint for an AI Bill of Rights. The White House. https://www.whitehouse.gov/ostp/ai-bill-of-rights/  
+
+Tong, M. & Atriga, S. (2021, December 9). Use of race in clinical diagnosis and decision making: overview and implications. Kaiser Family Foundation. www.kff.org/racial-equity-and-health-policy/issue-brief/use-of-race-in-clinical-diagnosis-and-decision-making-overview-and-implications/  
+
+Sun, M., Oliwa, T., Peek, M., & Lung, E. (2022, January 19). Negative Patient Descriptors: Documenting Racial Bias In The Electronic Health Record. Health Affairs. Volume 41, No. 2. https://www.healthaffairs.org/doi/10.1377/hlthaff.2021.01423  
+
+Centers for Disease Control and Prevention. (2022, March 30). DMI Snapshot 2021: Building a Strong Foundation. CDC's Data Modernization Initiative. Department of Health and Human Services. https://www.cdc.gov/surveillance/pdfs/319521-AE_DMI-Snapshot_clean_032422c_508pass.pdf  
+
+Centers for Disease Control and Prevention. (2021, December 22). Data Modernization Initiative Strategic Implementation Plan. Department of Health and Human Services. https://www.cdc.gov/surveillance/pdfs/FINAL-DMI-Implementation-Strategic-Plan-12-22-21.pdf  
+
+Centers for Disease Control and Prevention. (2022, June 23). OE22-2203 Strengthening U.S. Public Health Infrastructure, Workforce, and Data Systems. Department of Health and Human Services. https://www.cdc.gov/workforce/resources/infrastructuregrant/pdfs/PHI_Grant_One_Pager.pdf  
+
+Centers for Disease Control and Prevention. (2020, July 16). Listening Session on Real-World Testing of 21st Century Cures Act Requirements. Department of Health and Human Services. https://futureofpublichealth.org/wp-content/uploads/2022/01/Summit-2-Slides_Final_small.pdf  
+
+Centers for Disease Control and Prevention (2022, July 22). Advancing Interoperability for Public Health. Department of Health and Human Services. https://www.cdc.gov/surveillance/policy-standards/interoperability.html  
+
+HL7 International. (2021, November 9) Bulk Data Access IG. https://build.fhir.org/ig/HL7/bulk-data/  
+
+Public Health Data Systems Task Force 2022. (2022, October 19). Transcript: Public Health Data Systems Task Force 2022 meeting. https://www.healthit.gov/sites/default/files/facas/2022-10-19_PHDS_TF_Transcript_508.pdf  
+
+Baker, A. & Myers, E. (2022, October 25). Interoperability in Action: ONC Informs CMS Ruling on Hospital Measures for Public Health and Health Equity Reporting. Department of Health and Human Services, Office of the National Coordinator for Health Information Technology. https://www.healthit.gov/buzz-blog/blog-series-cms-ipps-rule/interoperability-in-action-onc-informs-cms-ruling-on-hospital-measures-for-public-health-and-health-equity-reporting  
+
+Centers for Disease Control and Prevention. (2022, February 21). Electronic Case Reporting (eCR) Fact Sheet. Department of Health and Human Services. https://www.cdc.gov/ecr/docs/eCR-Fact-Sheet-508.pdf  
+
+Raths, D. (2022, July 1). Pandemic Accelerates Use of Electronic Case Reporting. Healthcare Innovation. https://www.hcinnovationgroup.com/policy-value-based-care/public-health/article/21272976/pandemic-accelerates-use-of-electronic-case-reporting  
+
+Association of Public Health Laboratories. (n.d.). AIMS Platform. https://www.aphl.org/programs/informatics/Pages/aims_platform.aspx  
+
+Centers for Disease Control and Prevention. (2021, April 12). Electronic Lap Reporting. Department of Health and Human Services. https://www.cdc.gov/elr/about.html  
+
+Association of Public Health Laboratories. (n.d.). ELR (Electronic Lab Reporting). https://www.aphl.org/aboutAPHL/publications/Documents/INFO-2020-ELR.pdf  
+
+Centers for Disease Control and Prevention. (2022, April 29). National Syndromic Surveillance Program. Department of Health and Human Services. https://www.cdc.gov/nssp/overview.html  
+
+Centers for Disease Control and Prevention. (2022, June). Case Surveillance News. Department of Health and Human Services. https://www.cdc.gov/nndss/trc/news/issues/case-surveillance-news-202206.html  
+
+Centers for Disease Control and Prevention (2021, September). Public Health Workforce Development Strategies. Department of Health and Human Services. https://www.cdc.gov/csels/dsepd/workforce-strategies.html  
+
+2021 Public Health Workforce Interests and Needs Survey. (2021, May). deBeaumont Foundation, Association of State and Territorial Health Officials (ASTHO). https://debeaumont.org/phwins/2021-findings/  
+
+Office of the National Coordinator for Health Information Technology (2022, May 17). Building the Public Health Informatics Workforce of the Future. Health IT Buzz. Department of Health and Human Services. https://www.healthit.gov/buzz-blog/health-it/building-the-public-health-informatics-workforce-of-the-future  
+
+Pylypchuk Y., Everson, J., Charles, D., & Patel, V. (February, 2022). Interoperability Among Office-Based Physicians in 2015, 2017, and 2019. (ONC Data Brief no.59). Department of Health and Human Services, Office of the National Coordinator for Health Information Technology. https://www.healthit.gov/data/data-briefs/interoperability-among-office-based-physicians-2019  
+
+Rodriguez, S. (2022, July 19). Health Data Exchange Barriers Impede Widespread Interoperability. EHRIntelligence. https://ehrintelligence.com/news/health-data-exchange-barriers-impede-widespread-interoperability.  
+
+Johnson, C. & Pylypchuk, Y. (February, 2021) Use of Certified Health IT and Methods to Enable Interoperability by U.S. Non-Federal Acute Care Hospitals, 2019. (ONC Data Brief No.54). Department of Health and Human Services, Office of the National Coordinator for Health Information Technology. https://www.healthit.gov/sites/default/files/page/2021-03/Hospital%20Use%20of%20Certified%20HIT_Interop%20v10_1.pdf  
+
+Rodriguez, S. (2022, June 23). New England HIE Collaboration Enables Regional Interoperability. EHRIntelligence. https://ehrintelligence.com/news/new-england-hie-collaboration-enables-regional-interoperability.  
+
+Wong, A. & Chang, W. (2022, July 26). An Innovative Program to Expand the Use of HIE Data for Patient-Centered Outcomes Research. Health IT Buzz. Department of Health and Human Services, Office of the National Coordinator for Health Information Technology. https://www.healthit.gov/buzz-blog/health-it/an-innovative-program-to-expand-the-use-of-hie-data-for-patient-centered-outcomes-research  
+
+Raths, D. (2022, August 1). Federal Agencies Can Now Participate in Carequality Framework. Healthcare Innovation. https://www.hcinnovationgroup.com/interoperability-hie/standards/news/21275937/federal-agencies-can-now-participate-in-carequality-framework  
+
+Hirsch, M. D. (2022, May 20). Qualified Health Information Network (QHIN) application process details released. Health Data Management. https://www.healthdatamanagement.com/articles/qualified-health-information-network-qhin-application-process-details-released?id=130244
+
+Social Solutions. (2021, November 16). Social Solutions Announces New Closed-Loop Referrals Platform. https://www.socialsolutions.com/about-us/news-press/social-solutions-announces-new-closed-loop-referrals-platform/
+
+Dell Medical School. (2021, December 14). New Digital Tool Closes the Loop, Helps Clinicians Follow Up on Patient Care Referrals. https://dellmed.utexas.edu/news/new-digital-tool-closes-the-loop-helps-clinicians-follow-up-on-patient-care-referrals
+
+Nelson, H. (2022, January 7). Health IT Specification Set to Enable PCP, Specialist Care Coordination. EHRIntelligence. https://ehrintelligence.com/features/health-it-specification-set-to-enable-pcp-specialist-care-coordination
+
+Allen, L. (2021, April 28). PACIO Project. Confluence. https://confluence.hl7.org/display/PC/PACIO+Project
+
+Rizvi, S. (2021, June 14). PACIO Project Dashboard. Confluence. https://confluence.hl7.org/display/PC/Dashboard.
+
+Ellimoottil, C., Zhu, Z., Dunn, R., & Thompson, M. (June 21, 2022). Trends in telehealth use for Medicare fee-for-service beneficiaries and its impact on overall volume of healthcare services. MedRxiv. https://mhealthintelligence.com/news/telehealth-use-remained-steady-in-2021-for-medicare-beneficiaries#:~:text=Data%20showed%20that%2017%20percent,living%20in%20non%2Drural%20areas.
+
+Karimi, M., Lee, E. C., Gonzales, A., Grigorescu, V., Smith, S. R., De Lew, N., & Sommer, B. D. (2022). National Survey Trends in Telehealth Use in 2021: Disparities in Utilization and Audio vs. Video Services. Assistant Secretary for Planning and Evaluation. Department of Health and Human Services. https://aspe.hhs.gov/sites/default/files/documents/4e1853c0b4885112b2994680a58af9ed/telehealth-hps-ib.pdf
+
+Centers for Medicare & Medicaid Services. (2020, December 10). Reducing Provider and Patient Burden by Improving Prior Authorization Processes, and Promoting Patients' Electronic Access to Health Information CMS-9123-P: Fact Sheet. Department of Health and Human Services. https://www.cms.gov/newsroom/fact-sheets/reducing-provider-and-patient-burden-improving-prior-authorization-processes-and-promoting-patients
+
+Pestaina, K. & Pollitz, K. (2022, July 6). Examining Prior Authorization in Health Insurance. KFF. https://www.kff.org/policy-watch/examining-prior-authorization-in-health-insurance/#:~:text=Prior%20authorization%20(also%20called%20%E2%80%9Cpreauthorization,medically%20necessary%20and%20otherwise%20covered
+
+Bailey, V. (2022, February 11). AMA: Prior authorization creates physician burden, patient care delays. RevCycleIntelligence. https://revcycleintelligence.com/news/ama-prior-authorization-creates-physician-burden-patient-care-delays
+
+Centers for Medicare & Medicaid Services. (2020, December 18). Medicaid Program; Patient Protection and Affordable Care Act; Reducing Provider and Patient Burden by Improving Prior Authorization Processes, and Promoting Patients' Electronic Access to Health Information for Medicaid Managed Care Plans, State Medicaid Agencies, CHIP Agencies and CHIP Managed Care Entities, and Issuers of Qualified Health Plans on the Federally-facilitated Exchanges; Health Information Technology Standards and Implementation Specifications. https://www.federalregister.gov/documents/2020/12/18/2020-27593/medicaid-program-patient-protection-and-affordable-care-act-reducing-provider-and-patient-burden-by
+
+Department of Health and Human Services. (2022, January 21). ONC Seeks Public Comment on Electronic Prior Authorization Standards, Implementation Specifications and Certification Criteria. https://www.hhs.gov/about/news/2022/01/21/onc-seeks-public-comment-electronic-prior-authorization-standards-implementation-specifications-and-certification-criteria.html
+
+Office of the National Coordinator for Health Information Technology. (2022, February 15). Request for Information: Electronic Prior Authorization Standards, Implementation Specifications, and Certification Criteria. Department of Health and Human Services. https://www.healthit.gov/topic/laws-regulation-and-policy/request-information-electronic-prior-authorization-standards-implementation-specifications
+
+Health Information Technology Advisory Committee. (2020, November 17). Intersection of Clinical and Administrative Data Task Force A Path Toward Further Clinical and Administrative Data Integration. https://www.healthit.gov/sites/default/files/page/2021-02/2020-11-17_ICAD_TF_FINAL_Report_HITAC_508_0.pdf
+
+Office of the National Coordinator for Health Information Technology. (2022, March 28). Patient Identity and Patient Record Matching. Department of Health and Human Services. https://www.healthit.gov/topic/patient-identity-and-patient-record-matching.
+
+Nelson, H. (2021, June 21). Feds Release Patient Matching Specification Draft for Public Comment. EHRIntelligence. https://ehrintelligence.com/news/feds-releases-patient-matching-specification-draft-forpublic-comment
+
+Nelson, H. (2022, January 10). ONC Releases Health IT Specification for Patient Matching. EHRIntelligence. https://ehrintelligence.com/news/onc-releases-health-it-specification-for-patient-matching
+
+Carin Alliance. (n.d.) Digital Identity. https://www.carinalliance.com/our-work/digitalidentity/
+
+National Institutes of Health, Office of Data Science Strategy (2021, June 30). NIH Workshop on the Policy and Ethics of Record Linkage: Workshop Summary. Department of Health and Human Services. https://datascience.nih.gov/nih-policy-and-ethics-of-record-linkage-workshop-summary
+
+Nelson, H. (2021, December 23). How Regenstrief's Privacy-Preserving EHR Linkage Fuels Clinical Research. EHRIntelligence. https://ehrintelligence.com/features/how-regenstriefs-privacy-preserving-ehr-linkage-fuels-clinical-research
+
+East Tennessee Health Information Network (etHIN). (2020, July 6). New CMS Rule Requires Digital Contact Information in NPPES. https://www.ethin.org/new-cms-rule-requires-digital-contact-information-in-nppes/#:~:text=The%20Rule%20states%20that%20providers,the%20second%20half%20of%202020
+
+Centers for Medicare & Medicaid Services. (2016). Health Information Exchange (HIE). National Plan and Provider Enumeration System. Department of Health and Human Services. https://nppes.cms.hhs.gov/webhelp/nppeshelp/HEALTH%20INFORMATION%20EXCHANGE.html
+
+DirectTrust. (2022, July 14). Directory Data Sharing Services. https://directtrust.org/what-we-do/directory-services
+
+The Sequoia Project. (2022, January). Common Agreement for Nationwide Health Information Interoperability. https://rce.sequoiaproject.org/wp-content/uploads/2022/01/Common-Agreement-for-Nationwide-Health-Information-Interoperability-Version-1.pdf
+
+Centers for Medicare & Medicaid Services. (2022, October 5). CMS Asks for Public Input on Establishing First, National Directory of Health Care Providers and Services. Department of Health and Human Services. https://www.cms.gov/newsroom/press-releases/cms-asks-public-input-establishing-first-national-directory-health-care-providers-and-services
+
+Barker, W., Patel, V., & Smith, J. (2022, February 1). Shining a Light on FHIR Implementation: Progress Toward Publishing FHIR Endpoints. Health IT Buzz. Department of Health and Human Services, Office of the National Coordinator for Health Information Technology. https://www.healthit.gov/buzz-blog/healthit-certification/shining-a-light-on-fhir-implementation-progress-toward-publishing-fhir-endpoints
+
+FHIR At Scale Taskforce. (2021, November 3). 2021 Fast Action Plan. Confluence. https://oncprojectracking.healthit.gov/wiki/display/TechLabSC/FAST+Action+Plan
+
+Nelson, H. (2022, April 5). FHIR API Interoperability Relies on Standardized Endpoint Publication. EHRIntelligence. https://ehrintelligence.com/news/fhir-api-interoperability-relies-on-standardized-endpoint-publication
+
+Office for Civil Rights. (2021, June 28). Minimum necessary requirement. Department of Health and Human Services. https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/minimum-necessary-requirement/index.html
+
+HL7. (2022, May 28). Resource Observation - Examples. Observation - FHIR V4.3.0. https://www.hl7.org/fhir/observation-examples.html
+
+Office of the National Coordinator for Health Information Technology. (2022, January). Common Agreement for Nationwide Health Information. Department of Health and Human Services. https://www.healthit.gov/sites/default/files/page/2022-01/Common_Agreement_for_Nationwide_Health_Information_Interoperability_Version_1.pdf
+
+Milken Institute of Public Health. (2012). Health Information & the Law: States. http://www.healthinfolaw.org/state
+
+McKeon, J. (2022, June 29). How new federal, state laws impact healthcare data privacy. HealthITSecurity. https://healthitsecurity.com/features/how-new-federal-state-laws-impact-healthcare-data-privacy
+
+Assistant Secretary for Public Affairs (ASPA). (2022, June 29). HHS issues guidance to protect patient privacy in wake of Supreme Court decision on Roe. Department of Health and Human Services. https://www.hhs.gov/about/news/2022/06/29/hhs-issues-guidance-to-protect-patient-privacy-in-wake-of-supreme-court-decision-on-roe.html
+
+HL7. (2019, October 30). HL7 FHIR ® Release 4. Index - FHIR v4.0.1. http://hl7.org/fhir/
+
+Office of the National Coordinator of Health Information Technology. (2020, July). Privacy and Security Framework for Patient-Centered outcomes Research (PCOR): Enabling Granular Choice for Health Care Delivery and Research Consent. Department of Health and Human Services. https://www.healthit.gov/sites/default/files/page/2020-07/Granular%20Choice%20Use%20Case.pdf
+
+Ponemon Institute. (2022). (rep.). Cost of a Data Breach. IBM Security. https://www.ibm.com/downloads/cas/XZNDGZKA
+
+SonicWall. (2022, June 30). MID-YEAR UPDATE 2022 SonicWall Cyber Threat Report. https://www.sonicwall.com/medialibrary/en/white-paper/mid-year-2022-cyber-threat-report.pdf
+
+Jeffries, H. S. (2022, March 15). Text - H.R.2471 - 117th Congress (2021-2022): Consolidated ... Congress.gov. https://www.congress.gov/bill/117th-congress/house-bill/2471/text
+
+Office for Civil Rights. (2022, April 6). HHS' Office for Civil Rights Seeks Public Comment on Recognized Security Practices and Sharing Civil Money Penalties and Monetary Settlements Under the HITECH Act. Department of Health and Human Services. https://www.hhs.gov/about/news/2022/04/06/hhs-ocr-seeks-public-comment-on-recognized-security-practices-sharing-civil-money-penalties-monetary-settlements-under-hitech-act.html
+
+Monson, J. (2022, May 10). Recommendations to Strengthen Cybersecurity in Healthcare. Department of Health and Human Services, National Committee on Vital and Health Statistics. https://ncvhs.hhs.gov/wp-content/uploads/2022/05/NCVHS-Recommendations-to-Strengthen-Cybersecurity-in-HC-05-10-2022-508.pdf
+
+McKeon, J. (2022, July 22). NIST updates healthcare cybersecurity, HIPAA Security Rule guidance. HealthITSecurity. https://healthitsecurity.com/news/nist-updates-healthcare-cybersecurity-hipaa-security-rule-guidance
+
+Department of Health and Human Services. (n.d.). 405(d) Program and Task Group. HHS 405(d) Aligning Health Care Industry Security Approaches. https://405d.hhs.gov/about
+
+Office for Civil Rights (2022, October 25). Guidance Regarding Methods for De-identification of Protected Health Information in Accordance with the Health Insurance Portability and Accountability Act (HIPAA) Privacy Rule. Department of Health and Human Services. https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html
+
+Rich, J. (2021, January 28). How our outdated privacy laws doomed contact-tracing apps. Brookings. https://www.brookings.edu/blog/techtank/2021/01/28/how-our-outdated-privacy-laws-doomed-contacttracing-apps/
+
+Anthony, R. (2021, January 4). New Resources to Help Health IT Developers Understand ONC Cures Act Final Rule Requirements. Health IT Buzz. Department of Health and Human Services, Office of the National Coordinator for Health Information Technology. https://www.healthit.gov/buzz-blog/healthit-certification/new-resources-to-help-health-it-developers-understand-onc-cures-act-final-rule-requirements
+
+Cohen, K. (2019, October 26). Provider groups say privacy, not liability is top concern with patient apps. Modern Healthcare. https://www.modernhealthcare.com/technology/provider-groups-say-privacy-not-liability-topconcern-patient-apps
+
+Russell, N. C., Schaub, F., McDonald, A., & Sierra-Rocafort, W. (2019, January). APIs and Your Privacy. Fordham Center on Law and Information Policy and the University of Michigan. https://news.law.fordham.edu/wp-content/uploads/2019/02/CLIP-UMSI-APIs-and-Your-Privacy.pdf
+
+American Medical Association. (2019, May 31). Comment Letter on 21st Century Cures Act: Interoperability, Information Blocking, and the ONC Health IT Certification Program proposed rule. https://www.regulations.gov/comment/HHS-ONC-2019-0002-1914
+
+CHIME & AEHIT. (2019, May 15). Comment Letter on "Medicare and Medicaid Programs; Patient Protection and Affordable Care Act; Interoperability and Patient Access for Medicare Advantage Organization and Medicaid Managed Care Plans, State Medicaid Agencies, CHIP Agencies and CHIP Managed Care Entities, Issuers of Qualified Health Plans in the Federally-facilitated Exchanges and Health Care Providers" and the Office of the National Coordinator for Health IT's (ONC) rule, "21st Century Cures Act: Interoperability, Information Blocking, and the ONC Health IT Certification Program. https://www.regulations.gov/comment/HHS-ONC-2019-0002-0674
+
+Office for Civil Rights (2019, April 18). Does a HIPAA covered entity that fulfills an individual's request to transmit electronic protected health information (ePHI) to an application or other software (collectively "app") bear liability under the HIPAA Privacy, Security, or Breach Notification Rules (HIPAA Rules) for the app's use or disclosure of the health information it received? Department of Health and Human Services. https://www.hhs.gov/hipaa/for-professionals/faq/3009/does-a-hipaa-covered-entity-bear-liability.html
+
+Office for Civil Rights (2021, July 27). Summary of the HIPAA Privacy Rule. Department of Health and Human Services. https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html
+
+National Interoperability Collaborative. (n.d.). The Imperative for Modernizing Informed Consent. NIC. https://nic-us.org/the-imperative-for-modernizing-informed-consent/
+
+Ellinport, B. & Andriesen, B. (2022, April 12). San Diego Health Connect takes a big leap over the barrier of consent management. Health IT Buzz. Department of Health and Human Services, Office of the National Coordinator for Health Information Technology. https://www.healthit.gov/buzz-blog/health-it/san-diego-health-connect-takes-a-big-leap-over-the-barrier-of-consent-management
+
+Sweeney, E. A. (2021, October 21). A Care Coordinated Journey: Breast Cancer & Technology-Enabled Care. Health IT Buzz. Department of Health and Human Services, Office of the National Coordinator for Health Information Technology. https://www.healthit.gov/buzz-blog/health-it/a-care-coordinated-journey-breast-cancer-technology-enabled-care
+
+Johnson, C., Richwine, C., & Patel, V. (2021, September). Individuals' Access and Use of Patient Portals and Smartphone Health Apps, 2020. (ONC Data Brief no.57). Department of Health and Human Services, Office of the National Coordinator for Health IT. https://www.healthit.gov/data/data-briefs/individuals-access-and-use-patient-portals-and-smartphone-health-apps-2020
+
+Holmgren, A. J. & Apathy, N. C. (2022, July 13). Assessing the impact of patient access to clinical notes on clinician EHR documentation. Journal of the American Medical Informatics Association. https://doi.org/10.1093/jamia/ocac120
+
+Office of the National Coordinator for Health Information Technology. (2022, March). Accelerating Application Programming Interfaces for Scientific Discovery: App Developer and Data Integrator Perspectives. Department of Health and Human Services. https://www.healthit.gov/sites/default/files/page/2022-06/App-Developer-and-Integrator-Perspectives.pdf
+
+Kuraitis, V. & Ranck, J. (2022, September 12). Today's Patient Portals CAN NOT Work: Friction Across Portals. The Healthcare Platform Blog. https://e-caremanagement.com/friction-across-portals/
+
+HIStalk. (2022, September 12). Monday Morning Update. https://histalk2.com/2022/09/11/monday-morning-update-9-12-22/
+
+Nelson, H. (2022, November 16). Federal Policy Drives Healthcare API Adoption, but EHR Data Barriers Persist. EHRIntelligence. https://ehrintelligence.com/features/federal-policy-drives-healthcare-api-adoption-but-ehr-data-barriers-persist
+
+Halstead, N., Tankle, V., Hayes, A., & Bartnick, W. (2022, July 13). ONC's Trusted Exchange Framework and Common Agreement (TEFCA): Impacts on Health Information Networks and Health Care Organizations. Reed Smith Health Industry Washington Watch. https://www.healthindustrywashingtonwatch.com/2022/07/articles/other-health-policy-developments/other-hhs-developments/office-of-the-national-coordinator-for-health-information-technology/oncs-trusted-exchange-framework-and-common-agreement-tefca-impacts-on-health-information-networks-and-health-care-organizations/
+
+Vaidya, A. (2022, November 22). Providers can glean useable health metrics from wearable tracker data. mHealthIntelligence. https://mhealthintelligence.com/news/providers-can-glean-useable-health-metrics-from-wearable-tracker-data
+
+Johnson, C., Richwine, C., & Patel, V. (2021, September). Individuals' Access and Use of Patient Portals and Smartphone Health Apps, 2020. (ONC Data Brief no.57). Department of Health and Human Services, Office of the National Coordinator for Health Information Technology. https://www.healthit.gov/data/data-briefs/individuals-access-and-use-patient-portals-and-smartphone-health-apps-2020
+
+The IQVIA Institute. (2021, July 22). Digital Health Trends 2021. https://www.iqvia.com/-/media/iqvia/pdfs/institute-reports/digital-health-trends-2021/iqvia-institute-digital-health-trends-2021.pdf
+
+Barker, W. & Johnson, C. (2021, November). The Ecosystem of Apps and Software Integrated with Certified Health Information Technology. Journal of American Medical Informatics Association, Volume 28, Issue 11, Pages 2379-2384. https://doi.org/10.1093/jamia/ocab171
+
+Office of the National Coordinator for Health Information Technology. (2022, October 1). Hospital capabilities to enable patient electronic access to health information, 2021. HealthIT.gov. Department of Health and Human Services. https://www.healthit.gov/data/data-briefs/hospital-capabilities-enable-patient-electronic-access-health-information-2021
+
+Day, S., Shah, V., Kaganoff S, Powelson. S., & Mathews, S. (2022, June 20). Assessing the Clinical Robustness of Digital Health Startups: Cross-sectional Observational Analysis. Journal of Medical Internet Research, 2022;24(6):e37677. DOI: 10.2196/37677
+
+Horowitz, B. (2021, February 24). Mobile health apps leak sensitive data through apis, report finds. Fierce Healthcare. https://www.fiercehealthcare.com/tech/mobile-health-apps-leak-sensitive-data-through-apis-report-finds
+
+Connor, B. (2022, May 2). American College of Physicians and the American Telemedicine Association Collaborate on New Digital Health Assessment Framework. ATA. https://www.americantelemed.org/press-releases/american-college-of-physicians-and-the-american-telemedicine-association-collaborate-on-new-digital-health-assessment-framework/
+
+Digital Health Assessment Framework. (n.d.). https://dhealthframework.org/
+
+ORCHA. (2022, December 2). https://orchahealth.com/
+
+The CARIN Alliance. Trust Framework and Code of Conduct. (2020, May). https://www.carinalliance.com/our-work/trust-framework-and-code-of-conduct/
+
+Food and Drug Administration, Center for Devices and Radiological Health. (2022, September). Policy for device software functions and mobile medical applications. Department of Health and Human Services. https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-device-software-functions-and-mobile-medical-applications
+
+Spitzer, J. (2018, December 10). Medical Record Errors are Common, Hard to Fix, Report Finds. Becker's Health IT. https://www.beckershospitalreview.com/ehrs/medical-record-errors-are-common-hard-to-fix-report-finds.html
+
+Bell, S., Delbanco, T., & Elmore, J., et. al (2020, June 9). Frequency and Types of Patient-reported Errors in Electronic Health Record Ambulatory Care Notes. JAMA Network Open, 3(6). https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2766834
+
+Office for Civil Rights.(n.d.) The HIPAA Privacy Rule and Electronic Health Information Exchange in a Networked Environment. Department of Health and Human Services. https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/understanding/special/healthit/correction.pdf
+
+Graham, J. (2018, November 21). Check your Medical Records for Dangerous Errors. KHN. https://khn.org/news/check-your-medical-records-for-dangerous-errors/
+
+Office of the National Coordinator for Health Information Technology. (2018, January). Conceptualizing a Data Infrastructure for the Capture, Use, and Sharing of Patient-Generated Health Data in Care Delivery and Research through 2024. Department of Health and Human Services. https://www.healthit.gov/sites/default/files/onc_pghd_final_white_paper.pdf
+
+Heath, S. (2021, April 26). What Is Patient-Generated Health Data, Why Is It Important? PatientEngagementHIT. from https://patientengagementhit.com/news/what-is-patient-generated-health-data-why-is-it-important
+
+Centers for Medicare & Medicaid Services. (2022, January 31). Transparency in Coverage. Department of Health and Human Services. https://www.cms.gov/healthplan-price-transparency
+
+Centers for Medicare & Medicaid Services. (2020, October 29). Transparency in Coverage Final Rule Fact Sheet. Department of Health and Human Services. https://www.cms.gov/newsroom/fact-sheets/transparency-coverage-final-rule-fact-sheet-cms-9915-f
+
+Patient Rights Advocate.Org. (2022, February). Semi-annual hospital price transparency compliance report. https://www.patientrightsadvocate.org/semi-annual-compliance-report-2022
+
+HealthCare Cost Institute. (2022). Healthy Marketplace Index. https://healthcostinstitute.org/hcci-originals/healthy-marketplace-index/hmi
+
+Tripathi, M. & Posnack, S. (2021, August 5). E Pluribus Unum. Health IT Buzz. Department of Health and Human Services, Office of the National Coordinator for Health Information Technology. https://www.healthit.gov/buzz-blog/interoperability/e-pluribus-unum
+
+Marchesini, K. & Lipinski, M. (2021, December 20). Say Hi to EHI. Health IT Buzz. Department of Health and Human Services, Office of the National Coordinator for Health Information Technology. https://www.healthit.gov/buzz-blog/information-blocking/say-hi-to-ehi
+
+Nelson, R. & Weaver, C. (2022, February 28). Information Blocking Claims: By the Numbers. Health IT Buzz. Department of Health and Human Services, Office of the National Coordinator for Health Information Technology. https://www.healthit.gov/buzz-blog/21st-century-cures-act/information-blocking-claims-by-the-numbers
+
+Office of the National Coordinator for Health Information Technology. (2022, August). Information Blocking Claims: By the Numbers. (Health IT Quick-Stat #59). Department of Health and Human Services. https://www.healthit.gov/data/quickstats/information-blocking-claims-numbers
+
+Myers, T. & Clark, A. (2022, April 13). Real World Testing Update: 100% of Developers Submit Plans to ONC. Health IT Buzz. Department of Health and Human Services, Office of the National Coordinator for Health Information Technology. https://www.healthit.gov/buzz-blog/healthit-certification/real-world-testing-update-100-of-developers-submit-plans-to-onc
+
+Monk, C. & Paul, P. (2022, July 14). We Can Attest: 100% Compliance for First-Time Attestations. Health IT Buzz. Department of Health and Human Services, Office of the National Coordinator for Health Information Technology. https://www.healthit.gov/buzz-blog/healthit-certification/we-can-attest-100-compliance-for-first-time-attestations
+
+Office of the National Coordinator for Health Information Technology. (2022, July). ONC Health IT Standards Bulletin Issue 2022-2. Department of Health and Human Services. https://www.healthit.gov/sites/default/files/page/2022-07/Standards_Bulletin_2022-2.pdf
+
+Anthony, R. & Shanbhag, A. (2022, June 8). What's New in the 2022 Approved Standards via Standards Version Advancement Process. Health IT Buzz. Department of Health and Human Services, Office of the National Coordinator for Health Information Technology. https://www.healthit.gov/buzz-blog/healthit-certification/whats-new-in-the-2022-approved-standards-via-standards-version-advancement-process
+
+Argentieri, R., Myers, E., Posnack, S., & Tripathi, M. (2021, October 8). Thinking Outside the Box: The USCDI+ Initiative. Health IT Buzz. Department of Health and Human Services, Office of the National Coordinator for Health Information Technology. https://www.healthit.gov/buzz-blog/health-it/thinkingoutside-the-box-the-uscdi-initiative
+
+Argentieri, R., Rahn, M. Agostino, J., & Sripipatana, A. (2022, August 29) USCDI+ In Action! ONC and HRSA launch USCDI+ Initiative to support UDS Modernization. Health IT Buzz. Department of Health and Human Services, Office of the National Coordinator for Health Information Technology. https://www.healthit.gov/buzz-blog/health-it/uscdi-in-action-onc-and-hrsa-launch-uscdi-initiative-to-support-uds-modernization
+
+Tripathi, M. & Yeager, M. (2022, January 18). 3...2...1...TEFCA is Go for Launch. Health IT Buzz. Department of Health and Human Services, Office of the National Coordinator for Health Information Technology. https://www.healthit.gov/buzz-blog/interoperability/321tefca-is-go-for-launch
+
+Anthony, E. S., Hall, L. P., & Yeager, M. (2022, May 16). Marching Forward: The Path to Operationalize TEFCA. Health IT Buzz. Department of Health and Human Services, Office of the National Coordinator for Health Information Technology. https://www.healthit.gov/buzz-blog/interoperability/marching-forward-the-path-to-operationalize-tefca
+
+Posnack, S. & Smiley, C. (2022, January 7). Today's the day for Project US@. Health IT Buzz. Department of Health and Human Services, Office of the National Coordinator for Health Information Technology. https://www.healthit.gov/buzz-blog/health-data/todays-the-day-for-project-us
+
+Substance Abuse and Mental Health Services Administration. (2021, April 9). Statement on 42 CFR Part 2 Amendments Process. Department of Health and Human Services. https://www.samhsa.gov/newsroom/statements/2021/42-cfr-part-2-amendments-process
+
+Miliard, M. (2021, March 12). ONC chief Micky Tripathi talks public health data systems and 'health equity by design.' Healthcare IT News. https://www.healthcareitnews.com/news/onc-chief-micky-tripathi-talks-public-health-data-systems-and-health-equity-design
+
+Health Information Technology Advisory Committee. (2022, March 10). Transcript: Health Information Technology Advisory Committee (HITAC) meeting. https://www.healthit.gov/sites/default/files/facas/2022-03-10_HITAC_Transcript_508.pdf
+
+Nelson, H. (2022, July 5). Improved SDOH data collection, interoperability needed for health equity. EHRIntelligence. https://ehrintelligence.com/news/improved-sdoh-data-collection-interoperability-needed-for-health-equity
+
+HIMSS. (2022, May). Public Health Information and Technology Infrastructure Modernization Funding Report. https://www.himss.org/sites/hde/files/media/file/2022/04/29/pubpolicydatamodernization_final.pdf
+
+Bipartisan Policy Center (2021, June). Positioning America's Public Health System for the Next Pandemic. https://bipartisanpolicy.org/download/?file=/wp-content/uploads/2021/06/Public-Health-Report_RV2.pdf
+
+Trust for America's Health. (2020). The Impact of Chronic Underfunding on America's Public Health System: Trends, Risks, and Recommendations, 2020. https://www.tfah.org/wp-content/uploads/2020/04/TFAH2020PublicHealthFunding.pdf
+
+Kumar, P., Lurie, E., & Parthasarathy, R. (2022, February 2). Building the US public-health workforce of the future. McKinsey & Company. https://www.mckinsey.com/industries/public-and-social-sector/our-insights/building-the-us-public-health-workforce-of-the-future
+
+Pylypchuk Y., Everson, J., Charles, D., & Patel, V. (2022, February). Interoperability Among Office-Based Physicians in 2015, 2017, and 2019. (ONC Data Brief no.59). Department of Health and Human Services, Office of the National Coordinator for Health Information Technology. https://www.healthit.gov/data/data-briefs/interoperability-among-office-based-physicians-2019
+
+Institute for Healthcare Improvement. (2022). Telemedicine Can't Get Safer Without Bridging the Digital Divide. https://www.ihi.org/communities/blogs/telemedicine-can-t-get-safer-without-bridging-the-digital-divide
+
+Health Resources and Services Administration. (2022, June 3). Health equity in telehealth. Department of Health and Human Services. https://telehealth.hhs.gov/providers/health-equity-in-telehealth/
+
+America's Health Insurance Plans. (2020, April). https://www.ahip.org/documents/Prior_Authorization_Survey_Infographic.pdf
+
+Office of the National Coordinator for Health Information Technology. (2020). Intersection of Clinical and Administrative Data Task Force A Path Toward Further Clinical and Administrative Data Integration. Department of Health and Human Services. https://www.healthit.gov/sites/default/files/page/2021-02/2020-11-17_ICAD_TF_FINAL_Report_HITAC_508_0.pdf
+
+American Medical Association. (2022, February 10). AMA Prior Authorization (PA) Physician Survey. https://www.ama-assn.org/system/files/prior-authorization-survey.pdf
+
+Riplinger, L., Piera-Jiménez, J., & Dooling, J. P. (2020). Patient Identification Techniques – Approaches, Implications, and Findings. Yearbook of Medical Informatics, 29(1), 81–86. https://doi.org/10.1055/s-0040-1701984
+
+Ponemon Institute. (2016). (rep.). 2016 National Patient Misidentification Report. https://security.imprivata.com/rs/413-FZZ-310/images/PS-AR-2016-National-Patient-Misidentification-Report-1216.pdf
+
+Aroditis, A. (2019, April 23). Why Addressing SDOH Starts With Patient Matching. Managed Healthcare Executive. https://www.managedhealthcareexecutive.com/view/why-addressing-sdoh-starts-patient-matching
+
+Patient ID Now. (2021). Framework for a National Strategy on Patient Identity. AHIMA. https://catalog.ahima.org/view/251156390/.
+
+National Institutes of Health, Office of Data Science Strategy (2021, June 30). NIH Workshop on the Policy and Ethics of Record Linkage: Workshop Summary. Department of Health and Human Services. https://datascience.nih.gov/nih-policy-and-ethics-of-record-linkage-workshop-summary
+
+Siao, E. & Silas, J. (2021, July). Breaking Down Silos: How to Share Data to Improve the Health of People Experiencing Homelessness. California Health Care Foundation. https://www.chcf.org/wp-content/uploads/2021/07/BreakingDownSilosShareDataHomelessness.pdf
+
+Centers for Medicare & Medicaid Services. (n.d.) Public Reporting of Missing Digital Contact Information. Department of Health and Human Services. https://data.cms.gov/provider-compliance/public-reporting-of-missing-digital-contact-informationn
+
+Epic. (2021, October 21). Detailed Feedback on the Elements of the Common Agreement. https://rce.sequoiaproject.org/wp-content/uploads/2021/10/Comments-on-Elements-of-the-Common-Agreement-Epic.pdf
+
+Milken Institute of Public Health. (2012). States Health Information & the Law. http://www.healthinfolaw.org/state
+
+Lagasse, J. (2022, July 25). Vulnerabilities in health data privacy causing tension among patients. Healthcare Finance News. https://www.healthcarefinancenews.com/news/vulnerabilities-health-data-privacy-causing-tension-among-patients
+
+Ponemon Institute. (2022). (rep.). Cost of a Data Breach. IBM Security. https://www.ibm.com/downloads/cas/XZNDGZKA
+
+Barahona, D. (2022, April 10). What is API privacy and how to protect your sensitive data. APIsec. https://www.apisec.ai/blog/the-key-to-maintaining-api-privacy
+
+American Medical Association. (2022). Patient perspectives around data privacy. https://www.ama-assn.org/system/files/ama-patient-data-privacy-survey-results.pdf
+
+Kennedy, D. (2022). 451 research report - the 2022 API security trends. Noname Security - The Complete API Security Platform. https://nonamesecurity.com/api-security-trends-report
+
+Kuraitis, V. & Ranck, J. (2022, September 12). Today's Patient Portals CAN NOT Work: Friction ACROSS Portals. The Healthcare Platform Blog. https://e-caremanagement.com/friction-across-portals/
+
+Office of the National Coordinator for Health Information Technology. (2022, March). Accelerating Application Programming Interfaces for Scientific Discovery: App Developer and Data Integrator Perspectives. Department of Health and Human Services. https://www.healthit.gov/sites/default/files/page/2022-06/App-Developer-and-Integrator-Perspectives.pdf
+
+Bathija, P. (2022, July 15). Four ways to improve digital health equity. American Hospital Association. https://www.aha.org/news/blog/2022-07-15-four-ways-improve-digital-health-equity
+
+Levy, H. & Janke, A. (2016, April 4). Health literacy and access to care. J Health Commun. 2016;21(suppl 1)43–50. doi: 10.1080/10810730.2015.1131776
+
+Warner, D. (2022, June 6). Interoperability: Best Practices in Patient Amendments to Protected Health Information. AHIMA. https://journal.ahima.org/page/interoperability-best-practices-in-patient-amendments-to-protected-health-information
+
+Murakami, H., Kawakami, R., & Nakae, S., et al (2016, May). Accuracy of Wearable Devices for Estimating Total Energy Expenditure. JAMA Internal Medicine, 2016;176(5):702-703. https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2500062
+
+Office of the National Coordinator for Health Information Technology. (2018, January). Conceptualizing a Data Infrastructure for the Capture, Use, and Sharing of Patient-Generated Health Data in Care Delivery and Research through 2024. Department of Health and Human Services https://www.healthit.gov/sites/default/files/onc_pghd_final_white_paper.pdf
+
+Patient Rights Advocate.Org. (2022, February). Semi-annual hospital price transparency compliance report. https://www.patientrightsadvocate.org/semi-annual-compliance-report-2022
+
+Sullivan, T. (2022, July 24). CMS issues first fines to non-compliant hospitals under price transparency rules. Policy & Medicine. https://www.policymed.com/2022/07/cms-issues-first-fines-to-non-compliant-hospitals-under-price-transparency-rules.html
+
+American Hospital Association. (2019, December 4). Hospital Groups File Lawsuit Over Illegal Rule Mandating Public Disclosure of Individually Negotiated Rates. https://www.aha.org/press-releases/2019-12-03-hospital-groups-file-lawsuit-over-illegal-rule-mandating-public
+
+Appleby, J. (2022, July 27). Health Insurance Price Data: It's Out There, But It's Not for the Faint of Heart. Kaiser Health News. https://khn.org/news/article/health-insurance-price-data-access/

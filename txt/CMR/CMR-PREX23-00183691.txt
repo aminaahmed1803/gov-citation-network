@@ -1,0 +1,911 @@
+IPCC. (2001). Climate Change 2001: The Scientific Basis. Contribution of Working Group I to the Third Assessment Report of the Intergovernmental Panel on Climate Change [Houghton, J.T., Y. Ding, D.J. Griggs, M. Noguer, P.J. van der Linden, X. Dai, K. Maskell, and C.A. Johnson (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, 881pp.
+
+Engle, N. L. (2011). Adaptive capacity and its assessment. Global Environmental Change, 21(2), 647-656.
+
+Luers, A. L. (2005). The surface of vulnerability: an analytical framework for examining environmental change. Global Environmental Change, 15(3), 214-223.
+
+Ekstrom, J. A., Suatoni, L., Cooley, S. R., Pendleton, L. H., Waldbusser, G. G., Cinner, J. E., Ritter, J., Langdon, C., van Hooidonk, R., Gledhill, D., Wellman, K., Beck, M. W., Brander, L. M., Rittschof, D., Doherty, C., Edwards, P. E. T., & Portela, R. (2015). Vulnerability and adaptation of US shellfisheries to ocean acidification. Nature Climate Change, 5(3), 207-214.
+
+Monnereau, I., Mahon, R., McConney, P., Nurse, L., Turner, R., & Vallès, H. (2017). The impact of methodological choices on the outcome of national-level climate change vulnerability assessments: an example from the global fisheries sector. Fish and Fisheries, 18(4), 717-731.
+
+Folke, C., Hahn, T., Olsson, P., & Norberg, J. (2005). Adaptive governance of social-ecological systems. Annual Review of Environment and Resources, 30, 441-473.
+
+Waldbusser, G. G., & Salisbury, J. E. (2014). Ocean acidification in the coastal zone from an organism's perspective: multiple system parameters, frequency domains, and habitats. Annual Review of Marine Science, 6, 221-247.
+
+Rosenau, N. A., Galavotti, H., Yates, K. K., Bohlen, C. C., Hunt, C. W., Liebman, M., Brown, C. A., Pacella, S. R., Largier, J. L., Nielsen, K. J., Hu, X., McCutcheon, M. R., Vasslides, J. M., Poach, M., Ford, T., Johnston, K., & Steele, A. (2021). Integrating High-Resolution Coastal Acidification Monitoring Data Across Seven United States Estuaries. Frontiers in Marine Science, 1066.
+
+Salisbury, J. E., & Jönsson, B. F. (2018). Rapid warming and salinity changes in the Gulf of Maine alter surface ocean carbonate parameters and hide ocean acidification. Biogeochemistry, 141(3), 401-418.
+
+Siedlecki, S. A., Salisbury, J., Gledhill, D. K., Bastidas, C., Meseck, S., McGarry, K., Hunt, C. W., Alexander, M., Lavoie, D.,Wang, Z. A., Scott, J., Brady, D. C., Mlsna, I., Azetsu-Scott, K., Liberti, C. M., Melrose, D. C.,White, M. M., Pershing, A.,Vandemark, D., Townsend, D. W., Chen, C., Mook,W., & Morrison, R. (2021). Projecting ocean acidification impacts for the Gulf of Maine to 2050: New tools and expectations. Elementa: Science of the Anthropocene, 9(1), 00062.
+
+Wallace, R. B., & Gobler, C. J. (2021). The role of algal blooms and community respiration in controlling the temporal and spatial dynamics of hypoxia and acidification in eutrophic estuaries. Marine Pollution Bulletin, 172, 112908.
+
+Wallace, R. B., Baumann, H., Grear, J. S., Aller, R. C., & Gobler, C. J. (2014). Coastal ocean acidification: The other eutrophication problem. Estuarine, Coastal and Shelf Science, 148, 1-13.
+
+National Marine Fisheries Service. (2022). Fisheries Economics of the United States, 2019. U.S. Dept. of Commerce, NOAA Tech. Memo. NMFS-F/SPO-229A, 236 p.
+
+Massachusetts Special Legislative Commission on Ocean Acidification. (2021). Report on the Ocean Acidification Crisis in Massachusetts. Retrieved from https://www.mass.gov/files/documents/2021/12/15/massachusetts-ocean-acidification-report-feb-2021.pdf
+
+Jewett, E. B., Osborne, E. B., Armentrout, K. M., Osgood, K., DeAngelo, B. J., Mintz., J. M., Eds. (2020). NOAA Ocean, Coastal, and Great Lakes Acidification Research Plan: 2020-2029, https://oceanacidification.noaa.gov/ResearchPlan2020
+
+USDA. (2019). 2018 Census of Aquaculture. Retrieved from https://www.nass.usda.gov/Publications/AgCensus/2017/Online_Resources/Aquaculture/Aqua.pdf
+
+Grabowski, J. H., Brumbaugh, R. D., Conrad, R. F., Keeler, A. G., Opaluch, J. J., Peterson, C. H., Piehler, M. F., Powers, S. P., & Smyth, A. R. (2012). Economic valuation of ecosystem services provided by oyster reefs. Bioscience, 62(10), 900-909.
+
+Lemasson, A. J., Fletcher, S., Hall-Spencer, J. M., & Knights, A. M. (2017). Linking the biological impacts of ocean acidification on oysters to changes in ecosystem services: a review. Journal of Experimental Marine Biology and Ecology, 492, 49-62.
+
+Colburn, L. L., Jepson, M., Weng, C., Seara, T., Weiss, J., & Hare, J. A. (2016). Indicators of climate change and social vulnerability in fishing dependent communities along the Eastern and Gulf Coasts of the United States. Marine Policy, 74, 323-333.
+
+NECAN (2018). Industry Working Group Fall 2018 Survey Report. Retrieved from http://necan.org/sites/default/files/Industry%20Survey%20Report_Formatted_2020.pdf
+
+Rheuban, J. E., Doney, S. C., McCorkle, D. C., & Jakuba, R. W. (2019). Quantifying the effects of nutrient enrichment and freshwater mixing on coastal ocean acidification. Journal of Geophysical Research: Oceans, 124.
+
+Gledhill, D. K., White, M. M., Salisbury, J., Thomas, H., Mlsna, I., Liebman, M., Mook, B., Grear, J., Candelmo, A. C., Chambers, R. C., Gobler, C. J., Hunt, C. W., King, A. L., Price, N. N., Signorini, S. R., Stancioff, E., Stymiest, C., Wahlee, R. A., Waller, J. D., Rebuke, N. D., Wang, Z. A., Capson, T. L., Morrison, J. R., Cooley, S. R., & Doney, S. C. (2015). Ocean and coastal acidification off New England and Nova Scotia. Oceanography, 28(2), 182-197.
+
+Pimenta, A. R., & Grear, J. S. (2018). Guidelines for Measuring Changes in Seawater pH and Associated Carbonate Chemistry in Coastal Environments of the Eastern United States. EPA/600/R-17/483. Atlantic Ecology Division National Health and Environmental Effects Research Laboratory Narragansett, Office of Research and Development U.S. Environmental Protection Agency Washington, DC 20460. https://www.epa.gov/sciencematters/guidelines-measuring-changes-seawater-ph
+
+Gassett, P. R., O’Brien-Clayton, K., Bastidas, C., Rheuban, J. E., Hunt, C. W., Turner, E., Liebman, M., Silva, E., Pimenta, A.R., Grear, J., Motyka, J., McCorkle, D., Stancioff, E., Brady, D.C., & Strong, A. L. (2021). Community Science for Coastal Acidification Monitoring and Research. Coastal Management, 49(5), 510-531.
+
+Lavoie, D., Lambert, N., Starr, M., Chasse, J., Riche, O., Le Clainche, Y., Azetsu-Scott, K., Bejaoui, B., Christian, J. R., & Gilbert, D. (2021). The Gulf of St. Lawrence Biogeochemical Model: A Modelling Tool for Fisheries and Ocean Management. Frontiers in Marine Science (Web), 8, 732269.
+
+Hare, J. A., Morrison, W. E., Nelson, M. W., Stachura, M. M., Teeters, E. J., Griffis, R. B., Alexander, M. A., Scott, J. D., Alade, L., Bell, R. J., Chute, A. S., Curti, K. L., Curtis, T. H., Kircheis, D., Kocik, J. F., Lucey, S. M., McCandless, C. T., Milke, L. M., Richardson, D. E., Robillard, E., Walsh, H. J., McManus, M. C., Marancik, K. E., & Griswold, C. A. (2016). A vulnerability assessment of fish and invertebrates to climate change on the Northeast US Continental Shelf. PloS one, 11(2), e0146756.
+
+Salisbury, J., Green, M., Hunt, C., & Campbell, J. (2008). Coastal acidification by rivers: a threat to shellfish?. Eos, Transactions American Geophysical Union, 89(50), 513-513.
+
+Grear, J. S., Leary, C. O., Nye, J. A., Tettelbach, S. T., & Gobler, C. J. (2020). Effects of coastal acidification on North Atlantic bivalves: interpreting laboratory responses in the context of in situ populations. Marine ecology progress series, 633, 89-104.
+
+Waller, J. D., Wahle, R. A., McVeigh, H., & Fields, D. M. (2017). Linking rising pCO2 and temperature to the larval development and physiology of the American lobster (Homarus americanus). ICES Journal of Marine Science, 74(4), 1210-1219.
+
+McLean, E. L., Katenka, N. V., & Seibel, B. A. (2018). Decreased growth and increased shell disease in early benthic phase Homarus americanus in response to elevated CO2. Marine Ecology Progress Series, 596, 113-126.
+
+Chambers, R. C., Candelmo, A. C., Habeck, E. A., Poach, M. E., Wieczorek, D., Cooper, K. R., Greenfield, C. E., & Phelan, B. A. (2014). Effects of elevated CO2 in the early life stages of summer flounder, Paralichthys dentatus, and potential consequences of ocean acidification. Biogeosciences, 11(6), 1613-1626.
+
+Baumann, H. (2019). Experimental assessments of marine species sensitivities to ocean acidification and co-stressors: how far have we come?. Canadian Journal of Zoology, 97(5), 399-408.
+
+Baumann, H., Talmage, S. C., & Gobler, C. J. (2012). Reduced early life growth and survival in a fish in direct response to increased carbon dioxide. Nature Climate Change, 2(1), 38-41.
+
+Fay, G., Link, J. S., & Hare, J. A. (2017). Assessing the effects of ocean acidification in the Northeast US using an end-to-end marine ecosystem model. Ecological Modelling, 347, 1-10.
+
+Cooley, S. R., Rheuban, J. E., Hart, D. R., Luu, V., Glover, D. M., Hare, J. A., & Doney, S. C. (2015). An integrated assessment model for helping the United States sea scallop (Placopecten magellanicus) fishery plan ahead for ocean acidification and warming. PLoS One, 10(5), e0124145.
+
+Rheuban, J. E., Doney, S. C., Cooley, S. R., & Hart, D. R. (2018). Projected impacts of future climate change, ocean acidification, and management on the US Atlantic sea scallop (Placopecten magellanicus) fishery. PLoS One, 13(9), e0203536.
+
+Kavanaugh, M. T., Rheuban, J. E., Luis, K. M., & Doney, S. C. (2017). Thirty-three years of ocean benthic warming along the US northeast continental shelf and slope: Patterns, drivers, and ecological consequences. Journal of Geophysical Research: Oceans, 122(12), 9399-9414.
+
+Wanninkhof, R., Barbero, L., Byrne, R., Cai, W. J., Huang, W. J., Zhang, J. Z., Baringer, M., & Langdon, C. (2015). Ocean acidification along the Gulf Coast and East Coast of the USA. Continental Shelf Research, 98, 54-71.
+
+Wang, Z. A., Wanninkhof, R., Cai, W. J., Byrne, R. H., Hu, X., Peng, T. H., & Huang, W. J. (2013). The marine inorganic carbon system along the Gulf of Mexico and Atlantic coasts of the United States: Insights from a transregional coastal carbon study. Limnology and Oceanography, 58(1), 325-342.
+
+Goldsmith, K. A., Lau, S., Poach, M. E., Sakowicz, G. P., Trice, T. M., Ono, C. R., Nye, J., Shadwick, E. H., St. Laurent, K. A., & Saba, G. K. (2019). Scientific considerations for acidification monitoring in the US Mid-Atlantic Region. Estuarine, Coastal and Shelf Science, 225, 106189.
+
+Brooke, S. D., Watts, M. W., Heil, A. D., Rhode, M., Mienis, F., Duineveld, G. C. A., Davies, A. J., & Ross, S. W. (2017). Distributions and habitat associations of deep-water corals in Norfolk and Baltimore Canyons, Mid-Atlantic Bight, USA. Deep Sea Research Part II: Topical Studies in Oceanography, 137, 131-147.
+
+Cai, W. J., Hu, X., Huang, W. J., Murrell, M. C., Lehrter, J. C., Lohrenz, S. E., Chou, W.-C., Zhai, W., Hollibaugh, J. T., Wang, Y., Zhao, P., Guo, X., Gundersen, K., Dai, M., & Gong, G. C. (2011). Acidification of subsurface coastal waters enhanced by eutrophication. Nature Geoscience, 4(11), 766-770.
+
+Xu, Y. Y., Cai, W. J., Gao, Y., Wanninkhof, R., Salisbury, J., Chen, B., Reimer, J. J., Gonski, S., & Hussain, N. (2017). Short-term variability of aragonite saturation state in the central Mid-Atlantic Bight. Journal of Geophysical Research: Oceans, 122(5), 4274-4290.
+
+Northeast Fisheries Science Center (2021). State of the Ecosystem 2021: Mid-Atlantic Revised. Retrieved from https://doi.org/10.25923/jd1w-dc26
+
+Morrell, B. K., & Gobler, C. J. (2020). Negative effects of diurnal changes in acidification and hypoxia on early-life stage estuarine fishes. Diversity, 12(1), 25.
+
+Calvo, L. (2018). New Jersey Shellfish Aquaculture Situation and Outlook Report 2016 Production Year, New Jersey Sea Grant Publication #18- 931. Retrieved from http://njseagrant.org/new-jersey-shellfish-aquaculture-situation-outlook-report-new/
+
+Hudson, K. (2018). Virginia Shellfish Aquaculture Situation and Outlook Report. VIMS Marine Resource Report No. 2018-9, Virginia Sea Grant Publication #18-3. Retrieved from https://www.vims.edu/research/units/centerspartners/map/aquaculture/docs_aqua/vims_mrr_2018-9.pdf.
+
+Newell, R. I., Fisher, T. R., Holyoke, R. R., & Cornwell, J. C. (2005). Influence of eastern oysters on nitrogen and phosphorus regeneration in Chesapeake Bay, USA. In The comparative roles of suspension-feeders in ecosystems (pp. 93-120). Springer, Dordrecht.
+
+Newell, R. I., & Koch, E. W. (2004). Modeling seagrass density and distribution in response to changes in turbidity stemming from bivalve filtration and seagrass sediment stabilization. Estuaries, 27(5), 793-806.
+
+Saba, G. K., Goldsmith, K. A., Cooley, S. R., Grosse, D., Meseck, S. L., Miller, W., Phelan, B., Poach, M., Rheault, R., St. Laurent, K., Testa, J., Weis, J. S., & Zimmerman, R. (2019). Recommended Priorities for Research on Ecological Impacts of Coastal and Ocean Acidification in the U.S. Mid-Atlantic. Estuarine, Coastal and Shelf Science 225: 106188. Retrieved from https://doi.org/10.1016/j.ecss.2019.04.022.
+
+Brodeur, J. R., Chen, B., Su, J., Xu, Y. Y., Hussain, N., Scaboo, K. M., Zhang, Y., Testa, J. M., & Cai, W. J. (2019). Chesapeake Bay inorganic carbon: Spatial distribution and seasonal variability. Frontiers in Marine Science, 6, 99.
+
+Cai, W. J., Huang, W. J., Luther, G. W., Pierrot, D., Li, M., Testa, J., Xue, M., Joesoef, A., Mann, R., Brodeur, J., Xu, Y..-Y., Chen, B., Hussain, N., Waldbusser, G. G., Cornwell, J., & Kemp, W. M. (2017). Redox reactions and weak buffering capacity lead to acidification in the Chesapeake Bay. Nature Communications, 8(1), 1-12.
+
+Cai, W. J., Xu, Y. Y., Feely, R. A., Wanninkhof, R., Jönsson, B., Alin, S. R., Barbero, L., Cross, J. N., Azetsu-Scott, K., Fassbender, A. J., Carter, B. R., Jiang, L.-Q., Pepin, P., Chen, B., Hussain, N., Reimer, J. J., Xue, L., Salisbury, J. E., Hernandez-Ayon. J. M., Langdon, C., Li, Q., Sutton, A. J., Chen, C.-T. A., & Gledhill, D. K. (2020). Controls on surface water carbonate chemistry along North American ocean margins. Nature Communications, 11(1), 1-13.
+
+Chen, B., Cai, W. J., Brodeur, J. R., Hussain, N., Testa, J. M., Ni, W., & Li, Q. (2020). Seasonal and spatial variability in surface pCO2 and air–water CO2 flux in the Chesapeake Bay. Limnology and Oceanography, 65(12), 3046-3065.
+
+Joesoef, A., Huang, W. J., Gao, Y., & Cai, W. J. (2015). Air–water fluxes and sources of carbon dioxide in the Delaware Estuary: spatial and seasonal variability. Biogeosciences, 12(20), 6085-6101.
+
+Joesoef, A., Kirchman, D. L., Sommerfield, C. K., & Cai, W. J. (2017). Seasonal variability of the inorganic carbon system in a large coastal plain estuary. Biogeosciences, 14(21), 4949-4963.
+
+Su, J., Cai, W. J., Brodeur, J., Hussain, N., Chen, B., Testa, J. M., Scaboo, K. M., Jaisi, D. P., Li, Q., Dai, M., & Cornwell, J. (2020). Source partitioning of oxygen-consuming organic matter in the hypoxic zone of the Chesapeake Bay. Limnology and Oceanography, 65(8), 1801-1817.
+
+Su, J., Cai, W. J., Testa, J. M., Brodeur, J. R., Chen, B., Scaboo, K. M., Li, M., Shen, C., Dolan, M., Xu, Y. Y., Zhang, Y., & Hussain, N. (2021). Supply-controlled calcium carbonate dissolution decouples the seasonal dissolved oxygen and pH minima in Chesapeake Bay. Limnology and Oceanography, 66(10), 3796-3810.
+
+Saba, G., Herb, J., & Barr, J. (2020). Opportunities to Address Ocean Acidification Impacts in New Jersey. https://njclimateresourcecenter.rutgers.edu/wp-content/uploads/2021/04/Opportunities-to-Address-Ocean-Acidification-Impacts-in-New-Jersey.pdf
+
+Boulais, M., Chenevert, K. J., Demey, A. T., Darrow, E. S., Robison, M. R., Roberts, J. P., & Volety, A. (2017). Oyster reproduction is compromised by acidification experienced seasonally in coastal regions. Scientific Reports, 7(1), 1-9.
+
+Gobler, C. J., & Talmage, S. C. (2014). Physiological response and resilience of early life-stage Eastern oysters (Crassostrea virginica) to past, present and future ocean acidification. Conservation Physiology, 2(1), cou004.
+
+Miller, A. W., Reynolds, A. C., Sobrino, C., & Riedel, G. F. (2009). Shellfish face uncertain future in high CO2 world: influence of acidification on oyster larvae calcification and growth in estuaries. Plos one, 4(5), e5661.
+
+Talmage, S. C., & Gobler, C. J. (2009). The effects of elevated carbon dioxide concentrations on the metamorphosis, size, and survival of larval hard clams (Mercenaria mercenaria), bay scallops (Argopecten irradians), and Eastern oysters (Crassostrea virginica). Limnology and Oceanography, 54(6), 2072-2080.
+
+Ivanina, A. V., Dickinson, G. H., Matoo, O. B., Bagwe, R., Dickinson, A., Beniash, E., & Sokolova, I. M. (2013). Interactive effects of elevated temperature and CO2 levels on energy metabolism and biomineralization of marine bivalves Crassostrea virginica and Mercenaria mercenaria. Comparative Biochemistry and Physiology Part A: Molecular & Integrative Physiology, 166(1), 101-111.
+
+Vargas, C. A., De La Hoz, M., Aguilera, V., Martín, V. S., Manríquez, P. H., Navarro, J. M., Torres, R., Lardies, M. A., & Lagos, N. A. (2013). CO2-driven ocean acidification reduces larval feeding efficiency and changes food selectivity in the mollusk Concholepas concholepas. Journal of plankton research, 35(5), 1059-1068.
+
+Miller, A. W., Reynolds, A., Minton, M. S., & Smith, R. (2020). Evidence for stage-based larval vulnerability and resilience to acidification in Crassostrea virginica. Journal of Molluscan Studies, 86(4), 342-351.
+
+Glandon, H. L., Kilbourne, K. H., Schijf, J., & Miller, T. J. (2018). Counteractive effects of increased temperature and pCO2 on the thickness and chemistry of the carapace of juvenile blue crab, Callinectes sapidus, from the Patuxent River, Chesapeake Bay. Journal of Experimental Marine Biology and Ecology, 498, 39-45.
+
+Glandon, H. L., & Miller, T. J. (2017). No effect of high pCO2 on juvenile blue crab, Callinectes sapidus, growth and consumption despite positive responses to concurrent warming. ICES Journal of Marine Science, 74(4), 1201-1209.
+
+Glaspie, C. N., Longmire, K., & Seitz, R. D. (2017). Acidification alters predator-prey interactions of blue crab Callinectes sapidus and soft-shell clam Mya arenaria. Journal of Experimental Marine Biology and Ecology, 489, 58-65.
+
+Lonthair, J., Ern, R., & Esbaugh, A. J. (2017). Early life stages of an estuarine-dependent fish are tolerant of ocean acidification. ICES Journal of Marine Science, 74(4), 1042-1050.
+
+Perry, D. M., Redman, D. H., Widman Jr, J. C., Meseck, S., King, A., & Pereira, J. J. (2015). Effect of ocean acidification on growth and otolith condition of juvenile scup, Stenotomus chrysops. Ecology and Evolution, 5(18), 4187-4196.
+
+Young, C. S., Peterson, B. J., & Gobler, C. J. (2018). The bloom-forming macroalgae, Ulva, outcompetes the seagrass, Zostera marina, under high CO2 conditions. Estuaries and Coasts, 41(8), 2340-2355.
+
+Mid-Atlantic Coastal Acidification Network. (2019). Workshop Summary: Filling Gaps and Identifying Decision Points. Retrieved from https://www.monmouth.edu/uci/wp-content/uploads/sites/58/2019/08/MACAN-2019-Workshop-Summary.pdf
+
+Ries, J. B., Ghazaleh, M. N., Connolly, B., Westfield, I., & Castillo, K. D. (2016). Impacts of seawater saturation state (ΩA= 0.4–4.6) and temperature (10, 25 C) on the dissolution kinetics of whole-shell biogenic carbonates. Geochimica et Cosmochimica Acta, 192, 318-337.
+
+Speights, C. J., Silliman, B. R., & McCoy, M. W. (2017). The effects of elevated temperature and dissolved ρCO2 on a marine foundation species. Ecology and evolution, 7(11), 3808-3814.
+
+Clark, H. R., & Gobler, C. J. (2016). Diurnal fluctuations in CO2 and dissolved oxygen concentrations do not provide a refuge from hypoxia and acidification for early-life-stage bivalves. Marine Ecology Progress Series, 558, 1-14.
+
+Jiang, L. Q., Cai, W. J., Wanninkhof, R., Wang, Y., & Lüger, H. (2008). Air-sea CO2 fluxes on the US South Atlantic Bight: Spatial and seasonal variability. Journal of Geophysical Research: Oceans, 113(C7).
+
+Robbins, L. L., & Lisle, J. T. (2018). Regional acidification trends in Florida shellfish estuaries: a 20+ year look at pH, oxygen, temperature, and salinity. Estuaries and Coasts, 41(5), 1268-1281.
+
+Reimer, J. J., Cai, W.-J., Xue, L., Vargas, R., Noakes, S., Hu, X., Signorini, S. R., Mathis, J. T., Feely, R. A., Sutton, A. J., Sabine, C., Musielewicz, S., Chen, B., & Wanninkhof, R. (2017a). Time series pCO2 at a coastal mooring: Internal consistency, seasonal cycles, and interannual variability. Continental Shelf Research, 145, 95-108.
+
+Reimer, J. J., Wang, H., Vargas, R., & Cai, W. J. (2017). Multidecadal fCO2 increase along the United States southeast coastal margin. Journal of Geophysical Research: Oceans, 122(12), 10061-10072.
+
+Xu, Y. Y., Cai, W. J., Wanninkhof, R., Salisbury, J., Reimer, J., & Chen, B. (2020). Long-term changes of carbonate chemistry variables along the north American East Coast. Journal of Geophysical Research: Oceans, 125(7), e2019JC015982.
+
+Hall, E. R., Wickes, L., Burnett, L. E., Scott, G. I., Hernandez, D., Yates, K. K., Barbero, L., Reimer, J. J., Baalousha, M., Mintz, J., Cai, W.-J., Craig, J. K., DeVoe, M. R., Fisher, W. S., Hathaway, T. K., Jewett, E. B., Johnson, Z., Keener, P., Mordecai, R. S., Noakes, S., Phillips, C., Sandifer, P. A., Schnetzer, A., & Styron, J. (2020). Acidification in the US Southeast: causes, potential consequences and the role of the Southeast Ocean and coastal acidification network. Frontiers in Marine Science, 7, 548.
+
+Gledhill, D. K., Wanninkhof, R., & Eakin, C. M. (2009). Observing ocean acidification from space. Oceanography, 22(4), 48-59.
+
+Andersson, A. J., Venn, A. A., Pendleton, L., Brathwaite, A., Camp, E. F., Cooley, S., Gledhill, D., Koch, M., Maliki, S. & Manfrino, C. (2019). Ecological and socioeconomic strategies to sustain Caribbean coral reefs in a high-CO2 world. Regional Studies in Marine Science, 29, 100677.
+
+Bove, C. B., Mudge, L., & Bruno, J. F. (2022). A century of warming on Caribbean reefs. PLOS Climate, 1(3), e0000002.
+
+Manzello, D., Enochs, I., Musielewicz, S., Carlton, R., & Gledhill, D. (2013). Tropical cyclones cause CaCO3 undersaturation of coral reef seawater in a high-CO2 world. Journal of Geophysical Research: Oceans, 118(10), 5312-5321.
+
+Meléndez, M., Salisbury, J., Gledhill, D., Langdon, C., Morell, J. M., Manzello, D., & Sutton, A. (2022). Net ecosystem dissolution and respiration dominate metabolic rates at two western Atlantic reef sites. Limnology and Oceanography, 67(3), 527-539.
+
+Cochran, R. E., and Burnett, L. E. (1996). Respiratory responses of the salt marsh animals, Fundulus heteroclitus, Leiostomus xanthurus, and Palaemonetes pugio to environmental hypoxia and hypercapnia and to the organophosphate pesticide, azinphosmethyl. Journal of Experimental Marine Biology and Ecology, 195, 125–144.
+
+Joshi, I. D., Ward, N. D., D'Sa, E. J., Osburn, C. L., Bianchi, T. S., & Oviedo-Vargas, D. (2018). Seasonal Trends in Surface pCO2 and Air-Sea CO2 Fluxes in Apalachicola Bay, Florida, From VIIRS Ocean Color. Journal of Geophysical Research: Biogeosciences, 123(8), 2466-2484.
+
+Challener, R. C., Robbins, L. L., & McClintock, J. B. (2015). Variability of the carbonate chemistry in a shallow, seagrass-dominated ecosystem: implications for ocean acidification experiments. Marine and Freshwater Research, 67(2), 163-172.
+
+Wang, S. R., Di Iorio, D., Cai, W. J., & Hopkinson, C. S. (2018). Inorganic carbon and oxygen dynamics in a marsh-dominated estuary. Limnology and Oceanography, 63(1), 47-71.
+
+García-Troche, E. M., Morell, J. M., Meléndez, M., & Salisbury, J. E. (2021). Carbonate chemistry seasonality in a tropical mangrove lagoon in La Parguera, Puerto Rico. PLoS one, 16(5), e0250069.
+
+Yates, K. K., Moyer, R. P., Moore, C., Tomasko, D., Smiley, N., Torres-Garcia, L., Powell, C., Chappel, A. R., & Bociu, I. (2016). Ocean acidification buffering effects of seagrass in Tampa Bay. In Proceedings, Tampa Bay Area Scientific Information Symposium, BASIS (Vol. 6, pp. 28-30).
+
+Manzello, D. P., Enochs, I. C., Melo, N., Gledhill, D. K., & Johns, E. M. (2012). Ocean acidification refugia of the Florida Reef Tract. PLoS ONE 7(7): e41715.
+
+Griffith, A. W., & Gobler, C. J. (2020). Harmful algal blooms: a climate change co-stressor in marine and freshwater ecosystems. Harmful Algae, 91, 101590
+
+Wang, M., Hu, C., Barnes, B. B., Mitchum, G., Lapointe, B., & Montoya, J. P. (2019). The great Atlantic sargassum belt. Science, 365(6448), 83-87.
+
+Fleming, C. S., Armentrout, A., & Crosson, S. (2017). Economic survey results for United States Virgin Islands commercial fisheries. NOAA Technical Memorandum NMFS-SEFSC-718. 33 p. doi:10.7289/V5/TM-SEFSC-718
+
+Wickes, L. (2016). 2016 State of the Science Workshop Report. Southeast Ocean and Coastal Acidification Network (SOCAN). Retrieved from https://secoora.org/wp-content/uploads/2015/01/SOCAN-2016-State-of-the-Science-Workshop-Report.pdf
+
+Valdés-Pizzini, M., Agar, J. J., Kitner, K., García-Quijano, C., Tust, M., & Forrestal, F. (2010). Cruzan Fisheries: A rapid assessment of the historical, social, cultural and economic processes that shaped coastal communities’ dependence and engagement in fishing in the island of St. Croix, U.S. Virgin Islands. NOAA Series on U.S. Caribbean Fishing Communities. NOAA Technical Memorandum NMFS-SEFSC-597, 144 p.
+
+Stoffle, B., Contillo, J., Grace, C., & Snodgrass, D. (2011). The Socio-economic Importance of Fishing in St. Thomas, USVI: An Examination of Fishing Community Designation. NOAA Technical Memorandum NMFS-SEFSC-623, 47p.
+
+Tonioli, F. C. & Agar, J. J. (2011). Synopsis of Puerto Rican Commercial Fisheries. NOAA Technical Memorandum NMFS-SEFSC-622, 69 p.
+
+Puerto Rico Climate Change Council (PRCCC). (2013). Puerto Rico’s State of the Climate 2010-2013: Assessing Puerto Rico’s Social-Ecological Vulnerabilities in a Changing Climate. Puerto Rico Coastal Zone Management Program, Department of Natural and Environmental Resources, NOAA Office of Ocean and Coastal Resource Management. San Juan, PR.
+
+North Carolina Coastal Federation. (2019). STATE OF THE OYSTER: Progress Report on the Oyster Restoration and Protection Plan for North Carolina. https://ncoysters.org/wp-content/uploads/2019/10/State-of-the-Oyster-2018-web-FINAL.pdf
+
+Brander, L., & Beukering, P. V. (2013). The total economic value of US coral reefs: a review of the literature. Retrieved from https://repository.library.noaa.gov/view/noaa/8951
+
+Wallmo, K., Lovell,S., Gregg, K., & Allen, M. (2021a). Economic Impact Analysis of Recreational Fishing on Florida Reefs. NOAA National Ocean Service, National Coral Reef Conservation Program. NOAA Technical Memorandum CRCP 41. Silver Spring, MD. 11 pp.
+
+Wallmo, K., Edwards, P., Steinback, S., Wusinich-Mendez, D., & Allen, M. (2021b). Economic Impact Analysis of Snorkeling and SCUBA Diving on Florida Reefs. NOAA National Ocean Service, National Coral Reef Conservation Program. NOAA Technical Memorandum CRCP 42. Silver Spring, MD. 48 pp.
+
+Leeworthy, V. R., Schwarzmann, D., Hughes, S., Vaughn, J., Dato, C., & Padilla, G. (2018) Economic Contribution of Reef Using Visitor Spending to the Puerto Rican Economy. Silver Spring, MD: Office of National Marine Sanctuaries. National Oceanic and Atmospheric Administration.
+
+Storlazzi, C. D., Reguero, B. G., Cole, A. D., Lowe, E., Shope, J. B., Gibbs, A. E., Nickel, B. A., McCall, R. T., van Dongeren, A. R., & Beck, M. W. (2019). Rigorously valuing the role of US coral reefs in coastal hazard risk reduction. Open-File Report-US Geological Survey, (2019-1027).
+
+Storlazzi, C. D., Reguero, B. G., Yates, K. K., Cumming, K. A., Cole, A. D., Shope, J. B., Gaido L., Zawada, D. G., Arsenault, S. R., Fehr, Z. W., Nickel, B. A., and Beck, M.W. (2021). Rigorously valuing the impact of projected coral reef degradation on coastal hazard risk in Florida: U.S. Geological Survey Open-File Report 2021–1055, 27 p., https://doi.org/10.3133/ofr20211055.
+
+Enochs, I. C., Manzello, D. P., Carlton, R. D., Graham, D. M., Ruzicka, R., & Colella, M. A. (2015). Ocean acidification enhances the bioerosion of a common coral reef sponge: implications for the persistence of the Florida Reef Tract. Bulletin of Marine Science, 91(2), 271-290.
+
+Yates, K. K., Zawada, D. G., Smiley, N. A., & Tiling-Range, G. (2017). Divergence of seafloor elevation and sea level rise in coral reef ecosystems. Biogeosciences, 14(6), 1739-1772.
+
+Gorstein, M., Loerzel, J., Edwards, P., Levine, A., & Dillard, M. (2017). National Coral Reef Monitoring Program Socioeconomic Monitoring Component: Summary Findings for Puerto Rico, 2015. US Dep. Commerce, NOAA Tech. Memo., NOAA-TM-NOS-CRCP-28, 64p. + Appendices.
+
+Gorstein, M., Loerzel, J., Edwards, P., & Levine, A. (2019). National Coral Reef Monitoring Program Socioeconomic Monitoring Component: Summary Findings for USVI, 2017. US Dep. Commerce, NOAA Tech. Memo., NOAA-TM-NOS-CRCP-35, 72p. + Appendices.
+
+Allen, M. E., Fleming, C. S., Zito, B. M., Gonyo, S. B., Regan, S. D., & Towle, E. K. (2021). National Coral Reef Monitoring Program Socioeconomic Monitoring Component: Summary Findings for South Florida, 2019. US Dep. Commerce, NOAA Tech. Memo., NOAA-TM-NOS-CRCP-39, 60p. + Appendices.
+
+Pendleton, L., Comte, A., Langdon, C., Ekstrom, J. A., Cooley, S. R., Suatoni, L., Beck, M. W., Brander, L. M., Burke, L., Cinner, J. E., Doherty, C., Edwards, P. E. T., Gledhill, D., Jiang, L.-Q., van Hooidonk, R. J., Teh, L., Waldbusser, G. G., & Ritter, J. (2016). Coral reefs and people in a high-CO2 world: where can science make a difference to people?. PloS one, 11(11), e0164699.
+
+Reimer, J.J., E.R. Hall, L. Korman (2022). SOCAN Workshop Report: Coastal Vulnerability in the Southeast.
+
+Enochs, I. C., Manzello, D. P., Jones, P. R., Stamates, S. J., & Carsey, T. P. (2019). Seasonal carbonate chemistry dynamics on southeast Florida coral reefs: localized acidification hotspots from navigational inlets. Frontiers in Marine Science, 6, 160.
+
+Fennel, K., Alin, S., Barbero, L., Evans, W., Bourgeois, T., Cooley, S., Dunne, J., Feely, R. A., Hernandez-Ayon, J. M., Hu, X., Lohrenz, S., Muller-Karger, F., Najjar, R., Robbins, L., Shadwick, E., Siedlecki, S., Steiner, N., Sutton, A., Turk, D., Vlahos, P., & Wang, Z. A. (2019). Carbon cycling in the North American coastal ocean: a synthesis. Biogeosciences, 16(6), 1281-1304.
+
+Xue, Z., He, R., Fennel, K., Cai, W. J., Lohrenz, S., Huang, W. J., Tian, H., Ren, W., & Zang, Z. (2016). Modeling pCO2 variability in the Gulf of Mexico. Biogeosciences, 13(15), 4359-4377.
+
+Laurent, A., Fennel, K., Cai, W. J., Huang, W. J., Barbero, L., & Wanninkhof, R. (2017). Eutrophication-induced acidification of coastal waters in the northern Gulf of Mexico: Insights into origin and processes from a coupled physical-biogeochemical model. Geophysical Research Letters, 44(2), 946-956.
+
+Lohrenz, S. E., Cai, W. J., Chakraborty, S., Huang, W. J., Guo, X., He, R., Xue, Z., Fennel, K., Howden, S., & Tian, H. (2018). Satellite estimation of coastal pCO2 and air-sea flux of carbon dioxide in the northern Gulf of Mexico. Remote Sensing of Environment, 207, 71-83.
+
+Chen, S., Hu, C., Barnes, B. B., Wanninkhof, R., Cai, W. J., Barbero, L., & Pierrot, D. (2019). A machine learning approach to estimate surface ocean pCO2 from satellite measurements. Remote Sensing of Environment, 228, 203-226.
+
+Johnson, M. D., Bravo, L. M. R., Lucey, N., & Altieri, A. H. (2021). Environmental legacy effects and acclimatization of a crustose coralline alga to ocean acidification. Climate Change Ecology, 2, 100016.
+
+Kleypas, J. A., & Yates, K. K. (2009). Coral reefs and ocean acidification. Oceanography, 22(4), 108-117.
+
+Langdon, C., & Atkinson, M. J. (2005). Effect of elevated pCO2 on photosynthesis and calcification of corals and interactions with seasonal change in temperature/irradiance and nutrient enrichment. Journal of Geophysical Research: Oceans, 110(C9).
+
+Kroeker, K. J., Kordas, R. L., Crim, R. N., & Singh, G. G. (2010). Meta-analysis reveals negative yet variable effects of ocean acidification on marine organisms. Ecology letters, 13(11), 1419-1434.
+
+Cyronak, T., Schulz, K. G., & Jokiel, P. L. (2016). The Omega myth: what really drives lower calcification rates in an acidifying ocean. ICES Journal of Marine Science, 73(3), 558-562.
+
+Comeau, S., Cornwall, C. E., DeCarlo, T. M., Krieger, E., & McCulloch, M. T. (2018). Similar controls on calcification under ocean acidification across unrelated coral reef taxa. Global Change Biology, 24(10), 4857-4868.
+
+Albright, R., & Langdon, C. (2011). Ocean acidification impacts multiple early life history processes of the Caribbean coral Porites astreoides. Global Change Biology, 17(7), 2478-2487.
+
+Albright, R., Mason, B., Miller, M., & Langdon, C. (2010). Ocean acidification compromises recruitment success of the threatened Caribbean coral Acropora palmata. Proceedings of the National Academy of Sciences, 107(47), 20400-20404.
+
+Hall, E. R., DeGroot, B. C., & Fine, M. (2015). Lesion recovery of two scleractinian corals under low pH conditions: implications for restoration efforts. Marine Pollution Bulletin, 100(1), 321-326.
+
+Enochs, I. C., Manzello, D. P., Jones, P. J., Aguilar, C., Cohen, K., Valentino, L., Schopmeyer, S., Kolodziej, G., Jankulak, M., & Lirman, D. (2018). The influence of diel carbonate chemistry fluctuations on the calcification rate of Acropora cervicornis under present day and future acidification conditions. Journal of Experimental Marine Biology and Ecology, 506, 135-143.
+
+Towle, E. K., Enochs, I. C., & Langdon, C. (2015). Threatened Caribbean coral is able to mitigate the adverse effects of ocean acidification on calcification by increasing feeding rate. PloS one, 10(4), e0123394.
+
+Enochs, I. C., Manzello, D. P., Carlton, R., Schopmeyer, S., Van Hooidonk, R., & Lirman, D. (2014). Effects of light and elevated pCO2 on the growth and photochemical efficiency of Acropora cervicornis. Coral Reefs, 33(2), 477-485.
+
+Enochs, I. C., Manzello, D. P., Wirshing, H. H., Carlton, R., & Serafy, J. (2016). Micro-CT analysis of the Caribbean octocoral Eunicea flexuosa subjected to elevated pCO2. ICES Journal of Marine Science, 73(3), 910-919.
+
+Page, H. N., Hewett, C., Tompkins, H., & Hall, E. R. (2021). Ocean acidification and direct interactions affect coral, macroalga, and sponge growth in the Florida keys. Journal of Marine Science and Engineering, 9(7), 739.
+
+Bove, C. B., Umbanhowar, J., & Castillo, K. D. (2020). Meta-analysis reveals reduced coral calcification under projected ocean warming but not under acidification across the Caribbean Sea. Frontiers in Marine Science, 7, 127.
+
+Perry, C. T., Alvarez-Filip, L., Graham, N. A., Mumby, P. J., Wilson, S. K., Kench, P. S., Manzello, D. P., Morgan, K. M., Slangen, A. B. A., Thomson, D. P., Januchowski-Hartley, F., Smithers, S. G., Steneck, R. S., Carlton, R., Edinger, E. N., Enochs, I. C., Estrada-Saldivar, N., Haywood, M. D. E., Kolodziej, G., Murphy, G. N., Perez-Cervantes, E., Suchley, A., Valentino, L., Boenish, R., Wilson, M., & Macdonald, C. (2018). Loss of coral reef growth capacity to track future increases in sea level. Nature, 558(7710), 396-400.
+
+Ross, S. W., & Nizinski, M. S. (2007). State of deep coral ecosystems in the US southeast region: Cape Hatteras to southeastern Florida. The State of Deep Coral Ecosystems of the United States, 233-270.
+
+Lunden, J. J., McNicholl, C. G., Sears, C. R., Morrison, C. L., & Cordes, E. E. (2014). Acute survivorship of the deep-sea coral Lophelia pertusa from the Gulf of Mexico under acidification, warming, and deoxygenation. Frontiers in Marine Science, 1, 78.
+
+Kurman, M. D., Gomez, C. E., Georgian, S. E., Lunden, J. J., & Cordes, E. E. (2017). Intra-specific variation reveals potential for adaptation to ocean acidification in a cold-water coral from the Gulf of Mexico. Frontiers in Marine Science, 4, 111.
+
+Georgian, S. E., Dupont, S., Kurman, M., Butler, A., Strömberg, S. M., Larsson, A. I., & Cordes, E. E. (2016). Biogeographic variability in the physiological response of the cold-water coral Lophelia pertusa to ocean acidification. Marine Ecology, 37(6), 1345-1359.
+
+Ross, E., & Behringer, D. (2019). Changes in temperature, pH, and salinity affect the sheltering responses of Caribbean spiny lobsters to chemosensory cues. Scientific Reports, 9(1), 1-11.
+
+Gravinese, P. M., Page, H. N., Butler, C. B., Spadaro, A. J., Hewett, C., Considine, M., Lankes, D., & Fisher, S. (2020a). Ocean acidification disrupts the orientation of postlarval Caribbean spiny lobsters. Scientific Reports, 10(1), 1-9.
+
+Giltz, S. M., & Taylor, C. M. (2017). Reduced growth and survival in the larval blue crab Callinectes sapidus under predicted ocean acidification. Journal of Shellfish Research, 36(2), 481-485.
+
+Gravinese, P. M. (2018). Ocean acidification impacts the embryonic development and hatching success of the Florida stone crab, Menippe mercenaria. Journal of Experimental Marine Biology and Ecology, 500, 140-146.
+
+Gravinese, P. M., Enochs, I. C., Manzello, D. P., & van Woesik, R. (2018). Warming and pCO2 effects on Florida stone crab larvae. Estuarine, Coastal and Shelf Science, 204, 193-201.
+
+Gravinese, P. M., Enochs, I. C., Manzello, D. P., & van Woesik, R. (2019). Ocean acidification changes the vertical movement of stone crab larvae. Biology Letters, 15(12), 20190414.
+
+Kamat, S., Su, X., Ballarini, R., & Heuer, A. H. (2000). Structural basis for the fracture toughness of the shell of the conch Strombus gigas. Nature, 405(6790), 1036-1040.
+
+Doney, S. C. (2006). The dangers of ocean acidification. Scientific American, 294(3), 58-65.
+
+Aranda, D. A., & Manzano, N. B. (2017). Effects of near-future-predicted ocean temperatures on early development and calcification of the queen conch Strombus gigas. Aquaculture International, 25(5), 1869-1881.
+
+Dickinson, G. H., Matoo, O. B., Tourek, R. T., Sokolova, I. M., & Beniash, E. (2013). Environmental salinity modulates the effects of elevated CO2 levels on juvenile hard-shell clams, Mercenaria mercenaria. Journal of Experimental Biology, 216(14), 2607-2618.
+
+Checkley Jr, D. M., Dickson, A. G., Takahashi, M., Radich, J. A., Eisenkolb, N., & Asch, R. (2009). Elevated CO2 enhances otolith growth in young fish. Science, 324(5935), 1683-1683.
+
+Bignami, S., Enochs, I. C., Manzello, D. P., Sponaugle, S., & Cowen, R. K. (2013). Ocean acidification alters the otoliths of a pantropical fish species with implications for sensory function. Proceedings of the National Academy of Sciences, 110(18), 7366-7370.
+
+Gazeau, F., Parker, L. M., Comeau, S., Gattuso, J. P., O'Connor, W. A., Martin, S., Portner, H.-O., & Ross, P. M. (2013). Impacts of ocean acidification on marine shelled molluscs. Marine Biology, 160(8), 2207-2245.
+
+Camp, E. F., Smith, D. J., Evenhuis, C., Enochs, I., Manzello, D., Woodcock, S., & Suggett, D. J. (2016). Acclimatization to high-variance habitats does not enhance physiological tolerance of two key Caribbean corals to future temperature and pH. Proceedings of the Royal Society B: Biological Sciences, 283(1831), 20160442.
+
+Cyronak, T., Santos, I. R., McMahon, A., & Eyre, B. D. (2013). Carbon cycling hysteresis in permeable carbonate sands over a diel cycle: Implications for ocean acidification. Limnology and Oceanography, 58(1), 131-143.
+
+Eyre, B. D., Andersson, A. J., & Cyronak, T. (2014). Benthic coral reef calcium carbonate dissolution in an acidifying ocean. Nature Climate Change, 4(11), 969-976.
+
+Eyre, B. D., Cyronak, T., Drupp, P., De Carlo, E. H., Sachs, J. P., & Andersson, A. J. (2018). Coral reefs will transition to net dissolving before end of century. Science, 359(6378), 908-911.
+
+Meléndez, M., Garcia-Troche, E., Salisbury, J., Morell, J.M., Rodriguez-Abudo, S., Hunt, C., Emond, M.: Natural Coastal Barriers at Risk, NOAA Sea Grant Newsletter, Postcard from the Field, 20 April, 2018.
+
+Enochs, I. C., Formel, N., Manzello, D., Morris, J., Mayfield, A. B., Boyd, A., Kolodziej, G., Adams, G., & Hendee, J. (2020). Coral persistence despite extreme periodic pH fluctuations at a volcanically acidified Caribbean reef. Coral Reefs, 39(3), 523-528.
+
+Woodhead, A. J., Hicks, C. C., Norström, A. V., Williams, G. J., & Graham, N. A. (2019). Coral reef ecosystem services in the Anthropocene. Functional Ecology, 33(6), 1023-1034.
+
+Rudge, K. (2021). Changing climate, changing discourse: Analyzing reporting of climate change and economic development in the US Virgin Islands. Climate Risk Management, 33, 100350.
+
+Melendez, M., & Salisbury, J. (2017). Impacts of ocean acidification in the coastal and marine environments of Caribbean small island developing states (SIDS). Caribbean Mar. Climate Change Rep. Card Sci. Rev, 2017, 31-30.
+
+Hoegh-Guldberg, O., Poloczanska, E. S., Skirving, W., & Dove, S. (2017). Coral reef ecosystems under climate change and ocean acidification. Frontiers in Marine Science, 4, 158.
+
+Tatters, A. O., Roleda, M. Y., Schnetzer, A., Fu, F., Hurd, C. L., Boyd, P. W., Caron, D. A., Lie, A. A. Y., Hoffman, L. J., & Hutchins, D. A. (2013). Short-and long-term conditioning of a temperate marine diatom community to acidification and warming. Philosophical Transactions of the Royal Society B: Biological Sciences, 368(1627), 20120437.
+
+Kroeker, K. J., Kordas, R. L., Crim, R., Hendriks, I. E., Ramajo, L., Singh, G. S., Duarte, C. M., & Gattuso, J. P. (2013). Impacts of ocean acidification on marine organisms: quantifying sensitivities and interaction with warming. Global Change Biology, 19(6), 1884-1896.
+
+Andersson, A. J., Kline, D. I., Edmunds, P. J., Archer, S. D., Bednaršek, N., Carpenter, R. C., Chadsey, M., Goldstein, P., Grottoli, A. G., Hurst, T. P., King, A. L., Kubler, J. E., Kuffner, I. B., Mackey, K. R. M., Menge, B. A., Paytan, A., Riebesell, U., Schnetzer, A., Warner, M. E., & Zimmerman, R. C. (2015). Understanding ocean acidification impacts on organismal to ecological scales. Oceanography, 28(2), 16-27.
+
+Riebesell, U., Bellerby, R. G. J., Grossart, H. P., & Thingstad, F. (2008). Mesocosm CO2 perturbation studies: from organism to community level. Biogeosciences, 5(4), 1157-1164.
+
+Stover, K. K., Burnett, K. G., McElroy, E. J., & Burnett, L. E. (2013). Locomotory fatigue during moderate and severe hypoxia and hypercapnia in the Atlantic blue crab, Callinectes sapidus. Biology Bulletin, 224, 68–78. doi: 10.1086/BBLv224n2p68
+
+Errera, R. M., Yvon-Lewis, S., Kessler, J. D., & Campbell, L. (2014). Reponses of the dinoflagellate Karenia brevis to climate change: pCO2 and sea surface temperatures. Harmful Algae, 37, 110-116.
+
+Weisberg, R. H., Liu, Y., Lembke, C., Hu, C., Hubbard, K., & Garrett, M. (2019). The coastal ocean circulation influence on the 2018 West Florida Shelf K. brevis red tide bloom. Journal of Geophysical Research: Oceans, 124(4), 2501-2512.
+
+Raven, J. A., Gobler, C. J., & Hansen, P. J. (2020). Dynamic CO2 and pH levels in coastal, estuarine, and inland waters: Theoretical and observed effects on harmful algal blooms. Harmful Algae, 91, 101594.
+
+Gravinese, P. M., Munley, M. K., Kahmann, G., Cole, C., Lovko, V., Blum, P., & Pierce, R. (2020b). The effects of prolonged exposure to hypoxia and Florida red tide (Karenia brevis) on the survival and activity of stone crabs. Harmful algae, 98, 101897.
+
+Sheehan, L., Sherwood, E. T., Moyer, R. P., Radabaugh, K. R., & Simpson, S. (2019). Blue carbon: an additional driver for restoring and preserving ecological services of coastal wetlands in Tampa Bay (Florida, USA). Wetlands, 39(6), 1317-1328.
+
+Plantier-Santos, C., Carollo, C., & Yoskowitz, D. W. (2012). Gulf of Mexico Ecosystem Service Valuation Database (GecoServ): Gathering ecosystem services valuation studies to promote their inclusion in the decision-making process. Marine Policy, 36(1), 214-217.
+
+Yoskowitz, D. W., Werner, S. R., Carollo, C., Santos, C., Washburn, T., & Isaksen, G. H. (2016). Gulf of Mexico offshore ecosystem services: Relative valuation by stakeholders. Marine Policy, 66, 132-136.
+
+Hutchings, J. A., Bianchi, T. S., Najjar, R. G., Herrmann, M., Kemp, W. M., Hinson, A. L., & Feagin, R. A. (2020). Carbon Deposition and Burial in Estuarine Sediments of the Contiguous United States. Global Biogeochemical Cycles. 34(2)
+
+Thorhaug, A. L., Poulos, H. M., Lopez-Portillo, J., Barr, J., Ku, T. C., Herrmann, M., Najjar, R. G. & Berlyn, G. P. (2017). Gulf of Mexico Estuarine Blue Carbon Stock, Extent and Flux: Mangroves, Marshes, and Seagrasses. In 24th Biennial CERF Conference. CERF.
+
+Huang, W. J., Cai, W. J., Castelao, R. M., Wang, Y., & Lohrenz, S. E. (2013). Effects of a wind-driven cross-shelf large river plume on biological production and CO2 uptake on the Gulf of Mexico during spring. Limnology and Oceanography, 58(5), 1727-1735.
+
+Huang, W. J., Cai, W. J., Wang, Y., Lohrenz, S. E., & Murrell, M. C. (2015). The carbon dioxide system on the Mississippi River-dominated continental shelf in the northern Gulf of Mexico: 1. Distribution and air-sea CO2 flux. Journal of Geophysical Research: Oceans, 120(3), 1429-1445.
+
+Hu, X., Beseres Pollack, J., McCutcheon, M. R., Montagna, P. A., & Ouyang, Z. (2015). Long-term alkalinity decrease and acidification of estuaries in Northwestern Gulf of Mexico. Environmental Science & Technology, 49(6), 3401–3409.
+
+Robbins, L. L., Daly, K. L., Barbero, L., Wanninkhof, R., He, R., Zong, H., Lisle, J. T., Cai, W.-J., & Smith, G. C. (2018). Spatial and temporal variability of pCO2, carbon fluxes, and saturation state on the West Florida Shelf. Journal of Geophysical Research: Oceans, 123. https://doi.org/10.1029/2018JC014195
+
+Kealoha, A. K., Shamberger, K. E., DiMarco, S. F., Thyng, K. M., Hetland, R. D., Manzello, D. P., Slowey, N. C., & Enochs, I. C. (2020b). Surface Water CO2 variability in the Gulf of Mexico (1996–2017). Scientific Reports, 10(1), 1-13.
+
+Hu, X., Nuttall, M. F., Wang, H., Yao, H., Staryk, C. J., McCutcheon, M. R., Eckert, R. J., Embesi, J. A., Johnston, M. A., Hickerson, E. L., Schmahl, G. P., Manzello, D., Enochs, I. C., DiMarco, S. and Barbero, L. (2018). Seasonal variability of carbonate chemistry and decadal changes in waters of a marine sanctuary in the Gulf of Mexico. Marine Chemistry, 205, 16-28.
+
+Gomez, F. A., Wanninkhof, R., Barbero, L., & Lee, S. K. (2021). Increasing river alkalinity slows ocean acidification in the northern Gulf of Mexico. Geophysical Research Letters, 48(24), e2021GL096521.
+
+Osborne, E., Hu, X., Hall, E. R., Yates, K., Vreeland-Dawson, J., Shamberger, K., Barbero, L., Hernandez-Ayon, J. M., Gomez, F. A., Hicks, T., Xu, Y.-Y., McCutcheon, M. R., Acquafredda, M., Chapa-Balcorta, C., Norzagaray, O., Pierrot, D., Munoz-Caravaca, A., Dobson, K. L., Williams, N., Rabalais, N., & Dash, P. (2022). Ocean Acidification in the Gulf of Mexico: Drivers, Impacts, and Unknowns. Progress in Oceanography, 102882.
+
+Chen, R. F., & Gardner, G. B. (2004). High-resolution measurements of chromophoric dissolved organic matter in the Mississippi and Atchafalaya River plume regions. Marine Chemistry, 89(1-4), 103-125.
+
+Beseres Pollack, J., Yoskowitz, D., Kim, H. C., & Montagna, P. A. (2013). Role and value of nitrogen regulation provided by oysters (Crassostrea virginica) in the Mission-Aransas Estuary, Texas, USA. PloS one, 8(6), e65314.
+
+Muehllehner, N., Langdon, C., Venti, A., & Kadko, D. (2016). Dynamics of carbonate chemistry, production, and calcification of the Florida Reef Tract (2009–2010): Evidence for seasonal dissolution. Global Biogeochemical Cycles, 30(5), 661-688.
+
+McCutcheon, M. R., & Hu, X. (2022). Long-Term Trends in Estuarine Carbonate Chemistry in the Northwestern Gulf of Mexico. Frontiers in Marine Science 9, 793065.
+
+Yates, K. K., Moore, C. S., Goldstein, N. H., & Sherwood, E. T. (2019). Tampa Bay Ocean and Coastal Acidification Monitoring Quality Assurance Project Plan. US Department of the Interior, US Geological Survey Open-File Report 2019–1003, 35 p.
+
+Sutton, A. J., Feely, R. A., Maenner-Jones, S., Musielwicz, S., Osborne, J., Dietrich, C., Monacci, N., Cross, J., Bott, R., Kozyr, A., Andersson, A. J., Bates, N. R., Cai, W.-J., Cronin, M. F., De Carlo, E. H., Hales, B., Howden, S. D., Lee, C. M., Manzello, D. P., McPhaden, M. J., Meléndez, M., Mickett, J. B., Newton, J. A., Noakes, S. E., Noh, J. H., Olafsdottir, S. R., Salisbury, J. E., Send, U., Trull, T. W., Vandemark, D. C., & Weller, R. A. (2019). Autonomous seawater pCO2 and pH time series from 40 surface buoys and the emergence of anthropogenic trends. Earth System Science Data, 11(1), 421-439.
+
+McCutcheon, M. R., Yao, H., Staryk, C. J., & Hu, X. (2021). Temporal variability and driving factors of the carbonate system in the Aransas Ship Channel, TX, USA: a time series study. Biogeosciences, 18(15), 4571-4586.
+
+Barbero, L., Pierrot, D., Wanninkhof, R., Baringer, M., Hooper, J., Zhang, J. Z., Smith, R., Byrne, R., Langdon, C., Hernández-Ayón, M., Schnetzer, A., Stauffer, B., Herzka, S., Compaire, J. C., Hernández, F., Pech, D., Hu, C., English, D., Ondrusek, M., Olascoaga, J., and Derr, G. (2019). Third Gulf of Mexico Ecosystems and Carbon Cycle (GOMECC-3) Cruise, https://doi.org/10.25923/y6m9-fy08, 2019.
+
+Dash, P., Sankar, M. S., Moorhead, R. J., Herman, J., Moorhead, J., Beshah, W., Chesser, D., Lowe, W., Simmerman, J., and Turnage, G. (2021). Evaluation of Water Quality Data Collected using a Novel Autonomous Surface Vessel, Proceedings of the Global Oceans 2021 Conference and Exposition, San Diego, CA, September 20-23, 2021.
+
+Simmerman, J., Chesser, G. D. Jr., Lowe, W., Moorhead, J., Beshah, W. T., Turnage, G., Dash, P., Sankar, M.S., Moorhead, R. J. and Herman, J. (2021). Evaluation of the Utility and Performance of an Autonomous Surface Vehicle for Mobile Monitoring of Waterborne Biochemical Agents, Proceedings of the Global OCEANS 2021 Conference and Exposition, San Diego, CA, September 20-23, 2021.
+
+Beshah, W. T., Moorhead, J., Dash, P., Moorhead, R. J., Sankar, M. S., Chesser, G. D. Jr., Lowe, W., Simmerman, J., Turnage, G. (2021). IoT Based Real-Time Water Quality Monitoring and Visualization System Using an Autonomous Unmanned Surface Vehicle, Proceedings of the Global OCEANS 2021 Conference and Exposition, San Diego, CA, September 20-23, 2021.
+
+Land, P. E., Shutler, J. D., Findlay, H. S., Girard-Ardhuin, F., Sabia, R., Reul, N., Piolle, J.-F., Chapron, B., Quilfen, Y., Salisbury, J., Vandemark, D., Bellerby, R., and Bhadury, P. (2015). Salinity from Space Unlocks Satellite-Based Assessment of Ocean Acidification, Environmental Science and Technology, 49 (4), 1987-1994.
+
+Land, P. E., Findlay, H. S., Shutler, J. D., Ashton, I. G., Holding, T., Grouazel, A., Girard-Ardhuin, F., Reul, N., Piolle, J. F., Chapron, B., Quilfen, Y., Bellerby, R. G. J., Bhadury, P., Salisbury, J., Vandemark, D., and Sabia, R. (2019). Optimum Satellite Remote Sensing of the Marine Carbonate System Using Empirical Algorithms in the Global Ocean, the Greater Caribbean, the Amazon Plume and the Bay of Bengal, Remote Sensing of Environment, 235, 111469.
+
+Salisbury, J., Vandemark, D., Jönsson, B., Balch, W., Chakraborty, S., Lohrenz, S., Chapron, B., Hales, B., Mannino, A., Mathis, J. T., Reul, N., Signorini, S. R., Wanninkhof, R., and Yates, K. K. (2015). How Can Present and Future Satellite Missions Support Scientific Studies that Address Ocean Acidification?, Oceanography 28 (2), 108-121.  
+
+Lunden, J. J., Georgian, S. E., & Cordes, E. E. (2013). Aragonite saturation states at cold-water coral reefs structured by Lophelia pertusa in the northern Gulf of Mexico. Limnology & Oceanography, 58, 354–362.  
+
+Bushinsky, S. M., Takeshita, Y., & Williams, N. L. (2019). Observing Changes in Ocean Carbonate Chemistry: Our Autonomous Future. Current Climate Change Reports. https://doi.org/10.1007/s40641-019-00129-8  
+
+Gomez, F. A., Wanninkhof, R., Barbero, L., Lee, S. K., & Hernandez Jr, F. J. (2020). Seasonal patterns of surface inorganic carbon system variables in the Gulf of Mexico inferred from a regional high-resolution ocean biogeochemical model. Biogeosciences, 17(6), 1685-1700.  
+
+Carter, B. R., Williams, N. L., Evans, W., Fassbender, A. J., Barbero, L., Hauri, C., Feely, R. A. & Sutton, A. J. (2019). Time of detection as a metric for prioritizing between climate observation quality, frequency, and duration. Geophysical Research Letters, 46(7), 3853-3861.  
+
+Hurst, T. P., Laurel, B. J., Mathis, J. T., & Tobosa, L. R. (2016). Effects of elevated CO2 levels on eggs and larvae of a North Pacific flatfish. ICES Journal of Marine Science, 73, 981–990.  
+
+Clements, J. C., & Hunt, H. L. (2018). Testing for sediment acidification effects on within-season variability in juvenile soft-shell clam (Mya arenaria) abundance on the northern shore of the Bay of Fundy. Estuaries and coasts, 41(2), 471-483.  
+
+Williams, C.R., Dittman, A.H., McElhany, P., Busch, D.S., Maher, M.T., Bammler, T.K., MacDonald, J.W. and Gallagher, E.P. (2019). Elevated CO2 impairs olfactory-mediated neural and behavioral responses and gene expression in ocean-phase coho salmon (Oncorhynchus kisutch). Global Change Biology, 25(3), 963-977.  
+
+Manzello, D. P., Kolodziej, G., Kirkland, A., Besemer, N., & Enochs, I. C. (2021). Increasing coral calcification in Orbicella faveolata and Pseudodiploria strigosa at Flower Garden Banks, Gulf of Mexico. Coral Reefs, 40(4), 1097-1111.  
+
+Kealoha, A. K., Doyle, S. M., Shamberger, K. E., Sylvan, J. B., Hetland, R. D., & DiMarco, S. F. (2020a). Localized hypoxia may have caused coral reef mortality at the Flower Garden Banks. Coral Reefs, 39(1), 119-132.  
+
+Le Hénaff, M., Muller-Karger, F. E., Kourafalou, V. H., Otis, D., Johnson, K. A., McEachron, L., & Kang, H. (2019). Coral mortality event in the Flower Garden Banks of the Gulf of Mexico in July 2016: Local hypoxia due to cross-shelf transport of coastal flood waters?. Continental Shelf Research, 190, 103988  
+
+Johnston, M. A., Nuttall, M. F., Eckert, R. J., Blakeway, R. D., Sterne, T. K., Hickerson, E. L., Schmahl, G. P., Lee, M. T., MacMillan, J., & Embesi, J. A. (2019). Localized coral reef mortality event at east flower garden bank, Gulf of Mexico. Bulletin of Marine Science, 95(2), 239-250.  
+
+Semesi, I. S., Beer, S., & Björk, M. (2009). Seagrass photosynthesis controls rates of calcification and photosynthesis of calcareous macroalgae in a tropical seagrass meadow. Marine Ecology Progress Series, 382, 41-47.  
+
+Garrard, S. L., & Beaumont, N. J. (2014). The effect of ocean acidification on carbon storage and sequestration in seagrass beds; a global and UK context. Marine Pollution Bulletin, 86(1-2), 138-146.  
+
+Guinotte, J. M., & Fabry, V. J. (2008). Ocean acidification and its potential effects on marine ecosystems. Annals of the New York Academy of Sciences, 1134(1), 320-342.  
+
+Dutkiewicz, S., Morris, J. J., Follows, M. J., Scott, J., Levitan, O., Dyhrman, S. T., & Berman-Frank, I. (2015). Impact of ocean acidification on the structure of future phytoplankton communities. Nature Climate Change, 5(11), 1002-1006.  
+
+Doney, S. C., Busch, D. S., Cooley, S. R., & Kroeker, K. J. (2020). The impacts of ocean acidification on marine ecosystems and reliant human communities. Annual Review of Environment and Resources, 45(1).  
+
+Rabalais, N. N., Turner, R. E., Gupta, B. S., Boesch, D. F., Chapman, P., & Murrell, M. C. (2007). Hypoxia in the northern Gulf of Mexico: Does the science support the plan to reduce, mitigate, and control hypoxia? Estuaries and Coasts, 30(5), 753–772.  
+
+Heil, C. A., & Muni-Morgan, A. L. (2021). Florida’s harmful algal bloom (HAB) problem: escalating risks to human, environmental and economic health with climate change. Frontiers in Ecology and Evolution, 299.  
+
+The Balmoral Group. (2020). Economic Impacts of Water Quality Issues in the Gulf of Mexico. Final Report to the Gulf of Mexico Alliance. Winter Park, FL: The Balmoral Group.  
+
+Bargu, S., White, J. R., Li, C., Czubakowski, J., & Fulweiler, R. W. (2011). Effects of freshwater input on nutrient loading, phytoplankton biomass, and cyanotoxin production in an oligohaline estuarine lake. Hydrobiologia, 661(1), 377-389.  
+
+Riekenberg, J., Bargu, S., & Twilley, R. (2015). Phytoplankton community shifts and harmful algae presence in a diversion influenced estuary. Estuaries and Coasts, 38(6), 2213-2226.  
+
+Garcia, A. C., Bargu, S., Dash, P., Rabalais, N. N., Sutor, M., Morrison, W., & Walker, N. D. (2010). Evaluating the potential risk of microcystins to blue crab (Callinectes sapidus) fisheries and human health in a eutrophic estuary. Harmful Algae, 9(2), 134-143.  
+
+Qi, D., Chen, L., Chen, B., Gao, Z., Zhong, W., Feely, R. A., Anderson, L. G., Sun, H., Chen, J., Chen, M., Zhan, L., Zhang, Y., & Cai, W. J. (2017). Increase in acidifying water in the western Arctic Ocean. Nature Climate Change, 7(3), 195-199.  
+
+Qi, D., Wu, Y., Chen, L., Cai, W. J., Ouyang, Z., Zhang, Y., Anderson, L. G., Feely, R. A., Zhuang, Y., Lin, H., Lei, R., & Bi, H. (2022). Rapid acidification of the Arctic Chukchi Sea waters driven by anthropogenic forcing and biological carbon recycling. Geophysical Research Letters, 49, e2021GL097246.  
+
+Mathis, J. T., Cross, J. N., Evans, W., & Doney, S. C. (2015a). Ocean acidification in the surface waters of the Pacific-Arctic boundary regions. Oceanography, 28(2), 122-135.  
+
+Cross, J. N., Mathis, J. T., Pickart, R. S., & Bates, N. R. (2018). Formation and transport of corrosive water in the Pacific Arctic region. Deep Sea Research Part II: Topical Studies in Oceanography, 152, 67-81.  
+
+Bednaršek, N., Naish, K. A., Feely, R. A., Hauri, C., Kimoto, K., Hermann, A. J., Michel, C., Niemi, A., & Pilcher, D. (2021). Integrated Assessment of Ocean Acidification Risks to Pteropods in the Northern High Latitudes: Regional Comparison of Exposure, Sensitivity and Adaptive Capacity. Frontiers in Marine Science, 1282.  
+
+Mathis, J. T., Cross, J. N., & Bates, N. R. (2011a). Coupling primary production and terrestrial runoff to ocean acidification and carbonate mineral suppression in the eastern Bering Sea. Journal of Geophysical Research: Oceans, 116(C2).  
+
+Mathis, J. T., Cross, J. N., & Bates, N. R. (2011b). The role of ocean acidification in systemic carbonate mineral suppression in the Bering Sea. Geophysical Research Letters, 38(19).  
+
+Evans, W., Mathis, J. T., & Cross, J. N. (2014). Calcium carbonate corrosivity in an Alaskan inland sea. Biogeosciences, 11(2), 365-379.  
+
+Ouyang, Z., Li, Y., Qi, D., Zhong, W., Murata, A., Nishino, S., Wu, Y., Jin, M., Kirchman, D., Chen, L., & Cai, W. J. (2022). The changing CO2 sink in the western Arctic Ocean from 1994 to 2019. Global Biogeochemical Cycles, 36(1), e2021GB007032.  
+
+Laurel, B. J., & Rogers, L. A. (2020). Loss of spawning habitat and prerecruits of Pacific cod during a Gulf of Alaska heatwave. Canadian Journal of Fisheries and Aquatic Sciences, 77(4), 644-650.  
+
+Seung, C. K., Dalton, M. G., Punt, A. E., Poljak, D., & Foy, R. (2015). Economic impacts of changes in an Alaska crab fishery from ocean acidification. Climate Change Economics, 6(04), 1550017.  
+
+Punt, A. E., Dalton, M. G., Cheng, W., Hermann, A. J., Holsman, K. K., Hurst, T. P., Ianelli, J. N., Kearney, K. A., McGilliard, C. R., Pilcher, D. J., & Véron, M. (2021). Evaluating the impact of climate and demographic variation on future prospects for fish stocks: An application for northern rock sole in Alaska. Deep Sea Research Part II: Topical Studies in Oceanography, 189, 104951.  
+
+Hurst, T. P., Fernandez, E. R., & Mathis, J. T. (2013). Effects of ocean acidification on hatch size and larval growth of walleye pollock (Theragra chalcogramma). ICES Journal of Marine Science, 70(4), 812-822.  
+
+Hurst, T. P., Copeman, L. A., Andrade, J. F., Stowell, M. A., Al-Samarrie, C. E., Sanders, J. L., & Kent, M. L. (2021). Expanding evaluation of ocean acidification responses in a marine gadid: elevated CO2 impacts development, but not size of larval walleye pollock. Marine Biology, 168(8), 1-17.  
+
+Alaska Mariculture Task Force. (2021). Final report to Governor Dunleavy. Retrieved from https://www.afdf.org/wp-content/uploads/Mariculture-Task-Force-Report-to-Gov-Final-compressed.pdf  
+
+Barton, A., Hales, B., Waldbusser, G. G., Langdon, C., & Feely, R. A. (2012). The Pacific oyster, Crassostrea gigas, shows negative correlation to naturally elevated carbon dioxide levels: Implications for near-term ocean acidification effects. Limnology and Oceanography, 57(3), 698-710.  
+
+Young, C. S., & Gobler, C. J. (2018). The ability of macroalgae to mitigate the negative effects of ocean acidification on four species of North Atlantic bivalve. Biogeosciences, 15(20), 6167-6183.  
+
+Knaack, J. S., Porter, K. A., Jacob, J. T., Sullivan, K., Forester, M., Wang, R. Y., Trainer, V. L., Morton, S., Eckert, G., McGahee, E., Thomas, J., McLaughlin, J., & Johnson, R. C. (2016). Case diagnosis and characterization of suspected paralytic shellfish poisoning in Alaska. Harmful Algae, 57, 45-50.  
+
+Mathis, J. T., Cooley, S. R., Lucey, N., Colt, S., Ekstrom, J., Hurst, T., Hauri, C., Evans, W., Cross, J. N., & Feely, R. A. (2015b). Ocean acidification risk assessment for Alaska’s fishery sector. Progress in Oceanography, 136, 71-91.  
+
+McDowell Group. (2020). The Economic Value of Alaska’s Seafood Industry. Alaska Seafood Marketing Institute.  
+
+Hollowed, A. B., Holsman, K. K., Haynie, A. C., Hermann, A. J., Punt, A. E., Aydin, K., Ianelli, J. N., Kasperski, S., Cheng, W., Faig, A., Kearney, K. A., Reum, J. C. P., Spencer, P., Spies, I., Stockhausen, W., Szuwalski, C. S., Whitehouse, G. A., & Wilderbuer, T. K. (2020). Integrated modeling to evaluate climate change impacts on coupled social-ecological systems in Alaska. Frontiers in Marine Science, 6, 775.  
+
+Spencer, P. D., Hollowed, A. B., Sigler, M. F., Hermann, A. J., & Nelson, M. W. (2019). Trait-based climate vulnerability assessments in data-rich systems: An application to eastern Bering Sea fish and invertebrate stocks. Global Change Biology, 25(11), 3954-3971.  
+
+Alaska Mapping Executive Committee. (2020). Mapping the Coast of Alaska: A 10-Year Strategy in Support of the United States Economy, Security, and Environment. https://iocm.noaa.gov/about/documents/strategic-plans/alaska-mapping-strategy-june2020.pdf  
+
+Himes-Cornell, A., & Kasperski, S. (2015). Assessing climate change vulnerability in Alaska's fishing communities. Fisheries Research, 162, 1-11.  
+
+Hauser, D. D., Whiting, A. V., Mahoney, A. R., Goodwin, J., Harris, C., Schaeffer, R. J., Schaeffer, R., Laxague N. J. M., Subramaniam, A., Witte, C. R., Betcher, S., Lindsay, J. M., & Zappa, C. J. (2021). Co-production of knowledge reveals loss of Indigenous hunting opportunities in the face of accelerating Arctic climate change. Environmental Research Letters, 16(9), 095003.  
+
+Cross, J. N., Turner, J. A., Cooley, S. R., Newton, J. A., Azetsu-Scott, K., Chambers, R. C., Dugan, D., Goldsmith, K., Gurney-Smith, H., Harper, A. R., Jewett, E. B., Joy, D., King, T., Klinger, T., Kurz, M., Morrison, J., Motyka, J., Ombres, E. H., Saba, G., Silva, E. L., Smits, E., Vreeland-Dawson, J., & Wickes, L. (2019). Building the knowledge-to-action pipeline in North America: Connecting ocean acidification research and actionable decision support. Frontiers in Marine Science, 6, 356.  
+
+Iwamoto, M. M., Dorton, J., Newton, J., Yerta, M., Gibeaut, J., Shyka, T., Kirkpatrick, B. & Currier, R. (2019). Meeting regional, coastal and ocean user needs with tailored data products: a stakeholder-driven process. Frontiers in Marine Science, 290.  
+
+Bednaršek, N., Feely, R. A., Tolimieri, N., Hermann, A. J., Siedlecki, S. A., Waldbusser, G. G., McElhany, P., Alin, S. R., Klinger, T., Moore-Maley, B., & Pörtner, H. O. (2017). Exposure history determines pteropod vulnerability to ocean acidification along the US West Coast. Scientific Reports, 7(1), 1-12.  
+
+Meinig, C., Burger, E. F., Cohen, N., Cokelet, E. D., Cronin, M. F., Cross, J. N., de Halleux, S., Jenkins, R., Jessup, A. T., Mordy, C. W., Lawrence-Slavas, N., Sutton, A. J., Zhang, D., & Zhang, C. (2019). Public–private partnerships to advance regional ocean-observing capabilities: a saildrone and NOAA-PMEL case study and future considerations to expand to global scale observing. Frontiers in Marine Science, 6, 448.  
+
+Chiodi, A. M., Zhang, C., Cokelet, E. D., Yang, Q., Mordy, C. W., Gentemann, C. L., Cross, J. N., Lawrence-Slavas, N., Meinig, C., Steele, M., Harrison, D. E., Stabeno, P. J., Tabisola, H. M., Zhang, D., Burger, E. F., O’Brien, K. M., & Wang, M. (2021). Exploring the Pacific Arctic Seasonal Ice Zone With Saildrone USVs. Frontiers in Marine Science, 8, 640690.  
+
+Saba, G. K., Wright-Fairbanks, E., Miles, T. N., Chen, B., Cai, W. J., Wang, K., Barnard, A. H., Branham, C. W., & Jones, C. P. (2018). Developing a profiling glider pH sensor for high resolution coastal ocean acidification monitoring. In OCEANS 2018 MTS/IEEE Charleston (pp. 1-8). IEEE.  
+
+Evans, W., Mathis, J. T., Ramsay, J., & Hetrick, J. (2015). On the frontline: Tracking ocean acidification in an Alaskan shellfish hatchery. PLoS One, 10(7), e0130385.  
+
+Pilcher, D. J., Naiman, D. M., Cross, J. N., Hermann, A. J., Siedlecki, S. A., Gibson, G. A., & Mathis, J. T. (2019). Modeled effect of coastal biogeochemical processes, climate variability, and ocean acidification on aragonite saturation state in the Bering Sea. Frontiers in Marine Science, 508.  
+
+Hauri, C., Schultz, C., Hedstrom, K., Danielson, S., Irving, B., Doney, S. C., Dussin, R., Curchitser, E. N., Hill, D. F., Stock, C. A., & Stock, C. A. (2020). A regional hindcast model simulating ecosystem dynamics, inorganic carbon chemistry, and ocean acidification in the Gulf of Alaska. Biogeosciences, 17(14), 3837-3857.  
+
+Hauri, C., McDonnell, A. M., Stuecker, M. F., Danielson, S. L., Hedstrom, K., Irving, B., Schultz, C., & Doney, S. C. (2021). Modulation of ocean acidification by decadal climate variability in the Gulf of Alaska. Communications Earth & Environment, 2(1), 1-7.  
+
+Siddon, E. 2021. Ecosystem Status Report 2021: Eastern Bering Sea, Stock Assessment and Fishery Evaluation Report, North Pacific Fishery Management Council, 1007 West Third, Suite 400, Anchorage, Alaska 99501.  
+
+Long, W. C., Swiney, K. M., & Foy, R. J. (2013a). Effects of ocean acidification on the embryos and larvae of red king crab, Paralithodes camtschaticus. Marine Pollution Bulletin, 69(1-2), 38-47.  
+
+Swiney, K. M., Long, W. C., & Foy, R. J. (2016). Effects of high pCO2 on Tanner crab reproduction and early life history—Part I: long-term exposure reduces hatching success and female calcification, and alters embryonic development. ICES Journal of Marine Science, 73(3), 825-835.  
+
+Long, W. C., Swiney, K. M., & Foy, R. J. (2016). Effects of high pCO2 on Tanner crab reproduction and early life history, part II: carryover effects on larvae from oogenesis and embryogenesis are stronger than direct effects. ICES Journal of Marine Science, 73(3), 836-848.  
+
+Miller, J. J., Maher, M., Bohaboy, E., Friedman, C. S., & McElhany, P. (2016). Exposure to low pH reduces survival and delays development in early life stages of Dungeness crab (Cancer magister). Marine Biology, 163(5), 1-11.  
+
+Bednaršek, N., Feely, R. A., Beck, M. W., Alin, S. R., Siedlecki, S. A., Calosi, P., Norton, E. L., Saenger, C., Strus, J., Greeley, D., Nezlin, N. P., Roethler, M., & Spicer, J. I. (2020a). Exoskeleton dissolution with mechanoreceptor damage in larval Dungeness crab related to severity of present-day ocean acidification vertical gradients. Science of The Total Environment, 716, 136610.  
+
+Long, W. C., Swiney, K. M., Harris, C., Page, H. N., & Foy, R. J. (2013b). Effects of ocean acidification on juvenile red king crab (Paralithodes camtschaticus) and Tanner crab (Chionoecetes bairdi) growth, condition, calcification, and survival. PloS one, 8(4), e60959.  
+
+Long, W. C., Van Sant, S. B., Swiney, K. M., & Foy, R. J. (2017). Survival, growth, and morphology of blue king crabs: effect of ocean acidification decreases with exposure time. ICES Journal of Marine Science, 74(4), 1033-1041.  
+
+Long, W. C., Swiney, K. M., & Foy, R. J. (2021). Effects of ocean acidification on young-of-the-year golden king crab (Lithodes aequispinus) survival and growth. Marine Biology, 168(8), 1-11.  
+
+Coffey, W. D., Nardone, J. A., Yarram, A., Long, W. C., Swiney, K. M., Foy, R. J., & Dickinson, G. H. (2017). Ocean acidification leads to altered micromechanical properties of the mineralized cuticle in juvenile red and blue king crabs. Journal of Experimental Marine Biology and Ecology, 495, 1-12.  
+
+Dickinson, G. H., Bejerano, S., Salvador, T., Makdisi, C., Patel, S., Long, W. C., Swiney, K. M., Foy, R. J., Steffel, B. V., Smith, K. E., & Aronson, R. B. (2021). Ocean acidification alters properties of the exoskeleton in adult Tanner crabs, Chionoecetes bairdi. The Journal of Experimental Biology, 224(Pt 3), jeb232819.  
+
+Meseck, S. L., Alix, J. H., Swiney, K. M., Long, W. C., Wikfors, G. H., & Foy, R. J. (2016). Ocean acidification affects hemocyte physiology in the Tanner crab (Chionoecetes bairdi). PloS one, 11(2), e0148477.  
+
+Long, W. C., Swiney, K. M., Foy, R. J. (In review-a). Effects of high pCO2 on snow crab reproduction and early life history I: Ocean acidification does not affect embryo development or larval hatching.  
+
+Long, W. C., Swiney, K. M., Foy, R. J. (In review-b). Effects of high pCO2 on snow crab reproduction and early life history II: Carryover effects from embryogenesis and oogenesis reduce direct effects on larval survival.  
+
+Hurst, T. P., Fernandez, E. R., Mathis, J. T., Miller, J. A., Stinson, C. M., & Ahgeak, E. F. (2012). Resiliency of juvenile walleye pollock to projected levels of ocean acidification. Aquatic Biology, 17(3), 247-259.  
+
+Hurst, T. P., Copeman, L. A., Haines, S. A., Meredith, S. D., Daniels, K., & Hubbard, K. M. (2019). Elevated CO2 alters behavior, growth, and lipid composition of Pacific cod larvae. Marine Environmental Research, 145, 52-65.  
+
+Ou, M., Hamilton, T. J., Eom, J., Lyall, E. M., Gallup, J., Jiang, A., Lee, J., Close, D. A., Yun, S.-S., & Brauner, C. J. (2015). Responses of pink salmon to CO2-induced aquatic acidification. Nature Climate Change, 5(10), 950-955.  
+
+Comeau, S., Gorsky, G., Alliouane, S., &Gattuso, J. P. (2010). Larvae of the pteropod Cavolinia inflexa exposed to aragonite undersaturation are viable but shell-less. Marine Biology, 157: 2341-2345.  
+
+Comeau, S., Alliouane, S., & Gattuso, J. P. (2012). Effects of ocean acidification on overwintering juvenile Arctic pteropods Limacina helicina. Marine Ecology Progress Series, 456: 279-284.  
+
+Niemi, A., Bednaršek, N., Michel, C., Feely, R. A., Williams, W., Azetsu-Scott, K., Walkusz, W., & Reist, J. D. (2021). Biological impact of ocean acidification in the Canadian Arctic: widespread severe pteropod shell dissolution in Amundsen Gulf. Frontiers in Marine Science, 8, 222.  
+
+Bechmann, R. K., Taban, I. C., Westerlund, S., Godal, B. F., Arnberg, M., Vingen, S., & Ingvarsdottir, A. (2011). Effects of ocean acidification on early life stages of shrimp (Pandalus borealis) and mussel (Mytilus edulis). Journal of Toxicology and Environmental Health-Part a-Current Issues, 74: 424-438.  
+
+Hammer, K. M., & Pedersen, S. A. (2013). Deep-water prawn Pandalus borealis displays a relatively high pH regulatory capacity in response to CO2-induced acidosis. Marine Ecology Progress Series, 492, 139-151.  
+
+Jansson, A., Norkko, J., Dupont, S., & Norkko, A. (2015). Growth and survival in a changing environment: Combined effects of moderate hypoxia and low pH on juvenile bivalve Macoma balthica. Journal of Sea Research, 102, 41-47.  
+
+Jansson, A., Lischka, S., Boxhammer, T., Schulz, K. G., & Norkko, J. (2016). Survival and settling of larval Macoma balthica in a large-scale mesocosm experiment at different fCO2 levels. Biogeosciences, 13(11), 3377-3385.  
+
+Klok, C., Wijsman, J. W., Kaag, K., & Foekema, E. (2014). Effects of CO2 enrichment on cockle shell growth interpreted with a Dynamic Energy Budget model. Journal of Sea Research, 94, 111-116.  
+
+Walther, K., Anger, K., & Pörtner, H. O. (2010). Effects of ocean acidification and warming on the larval development of the spider crab Hyas araneus from different latitudes (54 vs. 79 N). Marine Ecology Progress Series, 417, 159-170.  
+
+Dupont, S., Dorey, N., Stumpp, M., Melzner, F., & Thorndyke, M. (2013). Long-term and trans-life-cycle effects of exposure to ocean acidification in the green sea urchin Strongylocentrotus droebachiensis. Marine biology, 160(8), 1835-1843.  
+
+Zhao, L., Liu, B., An, W., Deng, Y., Lu, Y., Liu, B., Wang, L., Cong, Y., & Sun, X. (2019). Assessing the impact of elevated pCO2 within and across generations in a highly invasive fouling mussel (Musculista senhousia). Science of the Total Environment, 689, 322-331.  
+
+Parker, L. M., Ross, P. M., O'Connor, W. A., Borysko, L., Raftos, D. A., & Pörtner, H. O. (2012). Adult exposure influences offspring response to ocean acidification in oysters. Global Change Biology, 18(1), 82-92.  
+
+Thor, P., & Dupont, S. (2015). Transgenerational effects alleviate severe fecundity loss during ocean acidification in a ubiquitous planktonic copepod. Global Change Biology, 21(6), 2261-2271.  
+
+Ershova, E. A., Hopcroft, R. R., & Kosobokova, K. N. (2015). Inter-annual variability of summer mesozooplankton communities of the western Chukchi Sea: 2004–2012. Polar Biology, 38(9), 1461-1481.  
+
+Smoot, C. A., & Hopcroft, R. R. (2017). Cross-shelf gradients of epipelagic zooplankton communities of the Beaufort Sea and the influence of localized hydrographic features. Journal of Plankton Research, 39(1), 65-78.  
+
+Punt, A. E., Poljak, D., Dalton, M. G., & Foy, R. J. (2014). Evaluating the impact of ocean acidification on fishery yields and profits: The example of red king crab in Bristol Bay. Ecological Modelling, 285, 39-53.  
+
+Punt, A. E., Foy, R. J., Dalton, M. G., Long, W. C., & Swiney, K. M. (2016). Effects of long-term exposure to ocean acidification conditions on future southern Tanner crab (Chionoecetes bairdi) fisheries management. ICES Journal of Marine Science, 73(3), 849-864.  
+
+Punt A.E., Dalton, M.G., Daly, B., Jackson, T., Long, W.C., Stockhausen, W.T., Szuwalski, C., Zheng, J. (2022). A framework for assessing harvest strategy choice when considering multiple interacting fisheries and a changing environment: The example of eastern Bering Sea crab stocks. Fisheries Research 252, 106338.  
+
+Reum, J. C., Blanchard, J. L., Holsman, K. K., Aydin, K., Hollowed, A. B., Hermann, A. J., Cheng, W., Faig, A., Haynie, A. C., & Punt, A. E. (2020). Ensemble projections of future climate change impacts on the Eastern Bering Sea food web using a multispecies size spectrum model. Frontiers in Marine Science, 7, 124.  
+
+Hermann, A. J., Gibson, G. A., Cheng, W., Ortiz, I., Aydin, K., Wang, M., Hollowed, A. B., & Holsman, K. K. (2019). Projected biophysical conditions of the Bering Sea to 2100 under multiple emission scenarios. ICES Journal of Marine Science, 76(5), 1280-1304.  
+
+Pilcher, D. J., Cross, J. N., Hermann, A. J., Kearney, K. A., Cheng, W., & Mathis, J. T. (2022). Dynamically downscaled projections of ocean acidification for the Bering Sea. Deep Sea Research Part II: Topical Studies in Oceanography, 198, 105055.  
+
+Holsman, K. K., Hazen, E. L., Haynie, A., Gourguet, S., Hollowed, A., Bograd, S. J., Samhouri, J. F., & Aydin, K. (2019). Towards climate resiliency in fisheries management. ICES Journal of Marine Science, 76(5), 1368-1378.  
+
+Karp, M. A., Peterson, J. O., Lynch, P. D., Griffis, R. B., Adams, C. F., Arnold, W. S., Barnett, L. A., deReynier, Y., DiCosimo, J., Fenske, K. H., Gaichas, S. K., Hollowed, A., Holsman, K., Karnauskas, M., Kobayashi, D., Leising, A., Manderson, J. P., McClure, M., Morrison, W. E., Schnettler, E., Thompson, A., Thorson, J. T., Walter III, J. F., Yau, A. J., Methot, R. D., & Link, J. S. (2019). Accounting for shifting distributions and changing productivity in the development of scientific advice for fishery management. ICES Journal of Marine Science, 76(5), 1305-1315.  
+
+Gaines, S. D., Costello, C., Owashi, B., Mangin, T., Bone, J., Molinos, J. G., Burden, M., Dennis, H., Halpern, B. S., Kappel, C. V., Kleisner, K. M., & Ovando, D. (2018). Improved fisheries management could offset many negative effects of climate change. Science Advances, 4(8), eaao1378.  
+
+Swiney, K. M., Long, W. C., & Foy, R. J. (2017). Decreased pH and increased temperatures affect young-of-the-year red king crab (Paralithodes camtschaticus). ICES Journal of Marine Science, 74(4), 1191-1200.
+
+Feely, R. A., Sabine, C. L., Hernandez-Ayon, J. M., Ianson, D., & Hales, B. (2008). Evidence for upwelling of corrosive" acidified" water onto the continental shelf. science, 320(5882), 1490-1492.
+
+Feely, R. A., Alin, S. R., Carter, B., Bednaršek, N., Hales, B., Chan, F., Hill, T. M., Gaylord, B., Sanford, E., Byrne, R. H., & Sabine, C. L. (2016). Chemical and biological impacts of ocean acidification along the west coast of North America. Estuarine, Coastal and Shelf Science, 183, 260-270.
+
+Feely, R. A., Okazaki, R. R., Cai, W. J., Bednaršek, N., Alin, S. R., Byrne, R. H., & Fassbender, A. (2018). The combined effects of acidification and hypoxia on pH and aragonite saturation in the coastal waters of the California current ecosystem and the northern Gulf of Mexico. Continental Shelf Research, 152, 50-60.
+
+Rykaczewski, R. R., & Dunne, J. P. (2010). Enhanced nutrient supply to the California Current Ecosystem with global warming and increased stratification in an earth system model. Geophysical Research Letters, 37(21).
+
+Turi, G., Lachkar, Z., Gruber, N., & Münnich, M. (2016). Climatic modulation of recent trends in ocean acidification in the California Current System. Environmental Research Letters, 11(1), 014007.
+
+Chavez, F. P., Pennington, J. T., Michisaki, R. P., Blum, M., Chavez, G. M., Friederich, J., Jones, B., Herlien, R., Kieft, B., Hobson, B., Ren, A. S., Ryan, J., Sevadjian, J. C., Wahl, C., Walz, K. R., Yamahara, K., Friederich, G. E., & Messié, M. (2017). Climate variability and change: response of a coastal ocean ecosystem. Oceanography, 30(4), 128-145.
+
+Carter, B. R., Feely, R. A., Wanninkhof, R., Kouketsu, S., Sonnerup, R. E., Pardo, P. C., Sabine, C. L., Johnson, G. C., Sloyan, B. M., Murata, A., Mecking, S., Tilbrook, B., Speer, K., Talley, L. D., Millero, F. J., Wijffels, S. E., Macdonald, A. M., Gruber, N., & Bullister, J. L. (2019b). Pacific anthropogenic carbon between 1991 and 2017. Global Biogeochemical Cycles, 33(5), 597-617.
+
+Gruber, N., Hauri, C., Lachkar, Z., Loher, D., Frölicher, T. L., & Plattner, G. K. (2012). Rapid progression of ocean acidification in the California Current System. Science, 337(6091), 220-223.
+
+Bednaršek, N., Feely, R. A., Reum, J. C. P., Peterson, B., Menkel, J., Alin, S. R., & Hales, B. (2014). Limacina helicina shell dissolution as an indicator of declining habitat suitability owing to ocean acidification in the California Current Ecosystem. Proceedings of the Royal Society B: Biological Sciences, 281(1785), 20140123.
+
+Pacella, S. R., Brown, C. A., Waldbusser, G. G., Labiosa, R. G., & Hales, B. (2018). Seagrass habitat metabolism increases short-term extremes and long-term offset of CO 2 under future ocean acidification. Proceedings of the National Academy of Sciences, 115(15), 3870-3875.
+
+Hales, B., Karp-Boss, L., Perlin, A., & Wheeler, P. A. (2006). Oxygen production and carbon sequestration in an upwelling coastal margin. Global Biogeochemical Cycles, 20(3).
+
+Harris, K. E., DeGrandpre, M. D., & Hales, B. (2013). Aragonite saturation state dynamics in a coastal upwelling zone. Geophysical Research Letters, 40(11), 2720-2725.
+
+Hauri, C., Gruber, N., Vogt, M., Doney, S. C., Feely, R. A., Lachkar, Z., Leinweber, A., McDonnell, A. M. P., Munnich, M., & Plattner, G. K. (2013). Spatiotemporal variability and long-term trends of ocean acidification in the California Current System. Biogeosciences, 10(1), 193-216.
+
+Barton, A., Waldbusser, G. G., Feely, R. A., Weisberg, S. B., Newton, J. A., Hales, B., Cudd, S., Eudeline, B., Langdon, C. J., Jefferds, I., King, T., Suhrbier, A., & McLaughlin, K. (2015). Impacts of coastal acidification on the Pacific Northwest shellfish industry and adaptation strategies implemented in response. Oceanography, 28(2), 146-159.
+
+Khangaonkar, T., Nugraha, A., Xu, W., & Balaguru, K. (2019). Salish Sea response to global climate change, sea level rise, and future nutrient loads. Journal of Geophysical Research: Oceans, 124(6), 3876-3904.
+
+Siedlecki, S. A., Pilcher, D., Howard, E. M., Deutsch, C., MacCready, P., Norton, E. L., Frenzel, H., Newton, J., Feely, R. A., Alin, S. R., & Klinger, T. (2021). Coastal processes modify projections of some climate-driven stressors in the California Current System. Biogeosciences, 18(9), 2871-2890.
+
+Sutula, M., Ho, M., Sengupta, A., Kessouri, F., McLaughlin, K., McCune, K., & Bianchi, D. (2021). A baseline of terrestrial freshwater and nitrogen fluxes to the Southern California Bight, USA. Marine Pollution Bulletin, 170, 112669.
+
+Bianucci, L., Long, W., Khangaonkar, T., Pelletier, G., Ahmed, A., Mohamedali, T., Roberts, M., & Figueroa-Kaminsky, C. (2018). Sensitivity of the regional ocean acidification and carbonate system in Puget Sound to ocean and freshwater inputs. Elementa: Science of the Anthropocene, 6.
+
+Evans, W., Pocock, K., Hare, A., Weekes, C., Hales, B., Jackson, J., Gurney-Smith, H., Mathis, J. T, Alin, S. R., & Feely, R. A. (2019). Marine CO 2 patterns in the northern salish sea. Frontiers in Marine Science, 5, 536.
+
+Bednaršek, N., Pelletier, G., Ahmed, A., & Feely, R. A. (2020b). Chemical exposure due to anthropogenic ocean acidification increases risks for estuarine calcifiers in the Salish Sea: Biogeochemical model scenarios. Frontiers in Marine Science, 7, 580.
+
+Cai, W. J., Feely, R. A., Testa, J. M., Li, M., Evans, W., Alin, S. R., Xu, Y.-Y., Pelletier, G., Ahmed, A., & Bednaršek, N. (2021). Natural and anthropogenic drivers of acidification in large estuaries. Annual Review of Marine Science, 13(1).
+
+Hodgson, E. E., Kaplan, I. C., Marshall, K. N., Leonard, J., Essington, T. E., Busch, D. S., Fulton, E. A., Harvey, C. J., Hermann, A. J., & McElhany, P. (2018). Consequences of spatially variable ocean acidification in the California Current: Lower pH drives strongest declines in benthic species in southern regions while greatest economic impacts occur in northern regions. Ecological modelling, 383, 106-117.
+
+Doo, S. S., Kealoha, A., Andersson, A., Cohen, A. L., Hicks, T. L., Johnson, Z. I., Long, M. H., McElhany, P., Mollica, N., Shamberger, K. E. F., Silbiger, N. J., Takeshita, Y., & Busch, D. S. (2020). The challenges of detecting and attributing ocean acidification impacts on marine ecosystems. ICES Journal of Marine Science, 77(7-8), 2411-2422.
+
+Oregon Sea Grant. (2021). Barriers and Needs for Sustainable Marine Aquaculture Development in Oregon. Retrieved from https://seagrant.oregonstate.edu/sites/seagrant.oregonstate.edu/files/aquaculture_survey_report_2021_final_accessible.pdf
+
+Poe, M. R., Norman, K. C., & Levin, P. S. (2014). Cultural dimensions of socioecological systems: key connections and guiding principles for conservation in coastal environments. Conservation Letters, 7(3), 166-175.
+
+Chan, K. M., Guerry, A. D., Balvanera, P., Klain, S., Satterfield, T., Basurto, X., Bostrom, A., Chuenpagdee, R., Gould, R., Halpern, B. S., Hannahs, N., Levine, J., Norton, B., Ruckelshaus, M., Russel, R., Tam, J., & Woodside, U. (2012). Where are cultural and social in ecosystem services? A framework for constructive engagement. BioScience, 62(8), 744-756.
+
+Menzies, C. (2010). Dm sibilhaa'nm da laxyuubm Gitxaała: picking abalone in Gitxaała territory. Human Organization, 69(3), 213-220.
+
+Field, L. W. (2008). Abalone tales: Collaborative explorations of sovereignty and identity in native California. Duke University Press.
+
+Poe, M. R., Watkinson, M., Trosin, B., & Decker, K. (2015) Social Indicators for Washington Coast Integrated Ecosystem Assessment. Report to Washington Department of Natural Resources in fulfillment of Interagency Agreement No. IAA 14-204. Washington Sea Grant. WSG-TR 15-07. 159pp.
+
+Harvey, C., Garfield, T., Williams, G., & Tolimieri, N. (2021). California Current Integrated Ecosystem Assessment (CCIEA) California Current ecosystem status report, 2021. Retrieved from https://www.pcouncil.org/documents/2021/02/i-1-a-iea-team-report-1.pdf/
+
+Ward, M., Spalding, A. K., Levine, A., & Wolters, E. A. (2022). California shellfish farmers: Perceptions of changing ocean conditions and strategies for adaptive capacity. Ocean & Coastal Management, 225, 106155.
+
+Turner, J., Gassett, P., Dohrn, C., Miller, H., Boylan, C., & Laschever, E. (2021). Opportunities for US State Governments and in-Region Partners to Address Ocean Acidification through Management and Policy Frameworks. Coastal Management, 49(5), 436-457.
+
+Newton, J., MacCready, P., Siedlecki, S., Manalang, D., Mickett, J., Alin, S., Schumacher, E., Hagen, J., Moore, S., Sutton, A., & Carini, R. (2022). Multi-stressor observations and modeling to build understanding of and resilience to the coastal impacts of climate change. Frontiers in Ocean Observing: Documenting Ecoystems, Understanding Environmental Changes, Forecasting Hazards, 86-87.
+
+Alin, S. R., Newton, J., Greeley, D., Curry, B., Herndon, J., Kozyr, A., & Feely, R. A. (2021): A compiled data product of profile, discrete biogeochemical measurements from 35 individual cruise data sets collected from a variety of ships in the southern Salish Sea and northern California Current System (Washington state marine waters) from 2008-02-04 to 2018-10-19. Dataset, NCEI Accession 0238424, NOAA National Centers for Environmental Information, doi: 10.25921/zgk5-ep63, https://www.ncei.noaa.gov/access/ocean-carbon-data-system/oceans/SalishCruise_DataPackage.html.
+
+Sutton, A. J., Sabine, C. L., Maenner-Jones, S., Lawrence-Slavas, N., Meinig, C., Feely, R. A., Mathis, J. T., Musielewicz, S., Bott, R., McLain, P. D., Fought, H. G., & Kozyr, A. (2014). A high-frequency atmospheric and seawater pCO2 data set from 14 open-ocean sites using a moored autonomous system. Earth System Science Data, 6(2), 353-366.
+
+Sutton, A. J., Sabine, C. L., Feely, R. A., Cai, W. J., Cronin, M. F., McPhaden, M. J., Morell, J. M., Newton, J. A., Noh, J.-H., Olafsdottir, S. R., Salisbury, J. E., Send, U., Vandemark, D. C., & Weller, R. A. (2016). Using present-day observations to detect when anthropogenic change forces surface ocean carbonate chemistry outside preindustrial bounds. Biogeosciences, 13(17), 5065-5083.
+
+Sabine, C., Sutton, A., McCabe, K., Lawrence-Slavas, N., Alin, S., Feely, R., Jenkins, R., Maenner, S., Meinig, C., Thomas, J., van Ooijen, E., Passmore, A., & Tilbrook, B. (2020). Evaluation of a new carbon dioxide system for autonomous surface vehicles. Journal of Atmospheric and Oceanic Technology, 37(8), 1305-1317.
+
+Chan, F., Barth, J. A., Kroeker, K. J., Lubchenco, J., & Menge, B. A. (2019). The dynamics and impact of ocean acidification and hypoxia. Oceanography, 32(3), 62-71.
+
+Taylor-Burns, R., Cochran, C., Ferron, K., Harris, M., Thomas, C., Fredston, A., & Kendall, B. E. (2020). Locating gaps in the California Current System ocean acidification monitoring network. Science progress, 103(3), 0036850420936204.
+
+California Ocean Acidification and Hypoxia Monitoring Expert Panel. (2021) Biological and Chemical Monitoring Coordination: Recommendations to the Ocean Protection Council from the California Ocean Acidification and Hypoxia Monitoring Expert Panel. Retrieved from https://www.opc.ca.gov/webmaster/ftp/pdf/agenda_items/20210615/Item4b_Exhibit_C_EXTERNAL_Biological_and_Chemical_Monitoring_Coordination_final_report.pdf
+
+Weisberg, S.B, Chan, F., Barry, J.P., Boehm, A.B., Busch, S., Cooley, S.R., Feely R.A., & Levin, L.A. (2020). Enhancing California's Ocean Acidification and Hypoxia Monitoring Network. California Ocean Science Trust, Sacramento, California, USA.
+
+Gonski, S. F., Horwith, M. J., Albertson, S., Bos, J., Brownlee, A. S., Coleman, N., Falkenhayn Maloy, C., Keyzers, M., Krembs, C., Pelletier, G., Rauschl, E., Young, H. R., & Cai, W. J. (2021). Monitoring Ocean Acidification within State Borders: Lessons from Washington State (USA). Coastal Management, 49(5), 487-509.
+
+Bednaršek, N., Newton, J. A., Beck, M. W., Alin, S. R., Feely, R. A., Christman, N. R., & Klinger, T. (2021b). Severe biological effects under present-day estuarine acidification in the seasonally variable Salish Sea. Science of The Total Environment, 765, 142689.
+
+Bednaršek, N., Beck, M. W., Pelletier, G., Applebaum, S. L., Feely, R. A., Butler, R., Byrne, M., Peabody, B., Davis, J., & Štrus, J. (2022). Natural Analogues in pH Variability and Predictability across the Coastal Pacific Estuaries: Extrapolation of the Increased Oyster Dissolution under Increased pH Amplitude and Low Predictability Related to Ocean Acidification. Environmental Science & Technology.
+
+Alin, S. R., Feely, R. A., Dickson, A. G., Hernández-Ayón, J. M., Juranek, L. W., Ohman, M. D., & Goericke, R. (2012). Robust empirical relationships for estimating the carbonate system in the southern California Current System and application to CalCOFI hydrographic cruise data (2005-2011). Journal of Geophysical Research: Oceans, 117(C5).
+
+Juranek, L. W., Feely, R. A., Peterson, W. T., Alin, S. R., Hales, B., Lee, K., Sabine, C. L., & Peterson, J. (2009). A novel method for determination of aragonite saturation state on the continental shelf of central Oregon using multi-parameter relationships with hydrographic data. Geophysical Research Letters, 36(24).
+
+McGarry, K., Siedlecki, S. A., Salisbury, J., & Alin, S. R. (2021). Multiple linear regression models for reconstructing and exploring processes controlling the carbonate system of the northeast US from basic hydrographic data. Journal of Geophysical Research: Oceans, 126(2), e2020JC016480.
+
+Washington Marine Resources Advisory Council. (2017). 2017 Addendum to Ocean Acidification: From Knowledge to Action, Washington State's Strategic Response. EnviroIssues (eds). Seattle, Washington. Retrieved from http://oainwa.org/assets/docs/2017_Addendum_BRP_Report_fullreport.pdf
+
+Ocean Protection Council. (2018). State of California Ocean Acidification Action Plan. Retrieved from https://opc.ca.gov/webmaster/_media_library/2018/10/California-OA-Action-Plan-Final.pdf
+
+Desmet, F., Gruber, N., Köhn, E. E., Münnich, M., & Vogt, M. (2022). Tracking the Space-Time Evolution of Ocean Acidification Extremes in the California Current System and Northeast Pacific. Journal of Geophysical Research: Oceans, 127(5), e2021JC018159.
+
+Kessouri, F., McWilliams, J. C., Bianchi, D., Sutula, M., Renault, L., Deutsch, C., Feely, R. A., McLaughlin, K., Ho, M., Howard, E. M., Bednarsek, N., Damien, P., Molemaker, J., & Weisberg, S. B. (2021). Coastal eutrophication drives acidification, oxygen loss, and ecosystem change in a major oceanic upwelling system. Proceedings of the National Academy of Sciences, 118(21), e2018856118.
+
+Li, H., & Ilyina, T. (2018). Current and future decadal trends in the oceanic carbon uptake are dominated by internal variability. Geophysical Research Letters, 45(2), 916-925.
+
+Li, H., Ilyina, T., Müller, W. A., & Landschützer, P. (2019). Predicting the variable ocean carbon sink. Science Advances, 5(4), eaav6471.
+
+Trigg, S. A., McElhany, P., Maher, M., Perez, D., Busch, D. S., & Nichols, K. M. (2019). Uncovering mechanisms of global ocean change effects on the Dungeness crab (Cancer magister) through metabolomics analysis. Scientific Reports, 9(1), 1-12.
+
+McLaskey, A. K., Keister, J. E., McElhany, P., Olson, M. B., Busch, D. S., Maher, M., & Winans, A. K. (2016). Development of Euphausia pacifica (krill) larvae is impaired under pCO2 levels currently observed in the Northeast Pacific. Marine Ecology Progress Series, 555, 65-78.
+
+Wong, J. M., & Hofmann, G. E. (2021). Gene expression patterns of red sea urchins (Mesocentrotus franciscanus) exposed to different combinations of temperature and pCO2 during early development. BMC genomics, 22(1), 1-21.
+
+Busch, D. S., Maher, M., Thibodeau, P., & McElhany, P. (2014). Shell condition and survival of Puget Sound pteropods are impaired by ocean acidification conditions. PLoS one, 9(8), e105884.
+
+Bednaršek, N., Klinger, T., Harvey, C. J., Weisberg, S., McCabe, R. M., Feely, R. A., Newton, J., & Tolimieri, N. (2017b). New ocean, new needs: Application of pteropod shell dissolution as a biological indicator for marine resource management. Ecological Indicators, 76, 240-244.
+
+Bednaršek, N., Harvey, C. J., Kaplan, I. C., Feely, R. A., & Možina, J. (2016). Pteropods on the edge: Cumulative effects of ocean acidification, warming, and deoxygenation. Progress in Oceanography, 145, 1-24.
+
+Bednaršek, N., Feely, R. A., Beck, M. W., Glippa, O., Kanerva, M., & Engström-Öst, J. (2018). El Niño-related thermal stress coupled with upwelling-related ocean acidification negatively impacts cellular to population-level responses in pteropods along the California Current System with implications for increased bioenergetic costs. Frontiers in Marine Science, 5, 486.
+
+Bednaršek, N., Feely, R. A., Howes, E. L., Hunt, B. P., Kessouri, F., León, P., Lischka, S., Maas, A. E., McLaughlin, K., Nezlin, N. P., Sutula, M., & Weisberg, S. B. (2019). Systematic review and meta-analysis toward synthesis of thresholds of ocean acidification impacts on calcifying pteropods and interactions with warming. Frontiers in Marine Science, 6, 227.
+
+Bednaršek, N., & Ohman, M. D. (2015). Changes in pteropod distributions and shell dissolution across a frontal system in the California Current System. Marine Ecology Progress Series, 523, 93-103.
+
+Osborne, E. B., Thunell, R. C., Marshall, B. J., Holm, J. A., Tappa, E. J., Benitez-Nelson, C., Cai, W.-J., & Chen, B. (2016). Calcification of the planktonic foraminifera Globigerina bulloides and carbonate ion concentration: Results from the Santa Barbara Basin. Paleoceanography, 31(8), 1083-1102.
+
+Engström-Öst, J., Glippa, O., Feely, R. A., Kanerva, M., Keister, J. E., Alin, S. R., Carter, B. R., McLaskey, A. K., Vuori, K. A., & Bednaršek, N. (2019). Eco-physiological responses of copepods and pteropods to ocean warming and acidification. Scientific Reports, 9(1), 1-13.
+
+Barclay, K. M., Gaylord, B., Jellison, B. M., Shukla, P., Sanford, E., & Leighton, L. R. (2019). Variation in the effects of ocean acidification on shell growth and strength in two intertidal gastropods. Marine Ecology Progress Series, 626, 109-121.
+
+Mekkes, L., Renema, W., Bednaršek, N., Alin, S. R., Feely, R. A., Huisman, J., Roessingh, P., & Peijnenburg, K. T. (2021). Pteropods make thinner shells in the upwelling region of the California Current Ecosystem. Scientific Reports, 11(1), 1-11.
+
+Feely, R. A., Alin, S. R., Newton, J., Sabine, C. L., Warner, M., Devol, A., Krembs, C. & Maloy, C. (2010). The combined effects of ocean acidification, mixing, and respiration on pH and carbonate saturation in an urbanized estuary. Estuarine, Coastal and Shelf Science, 88(4), 442-449.
+
+Feely, R. A., Sabine, C. L., Byrne, R. H., Millero, F. J., Dickson, A. G., Wanninkhof, R., Murata, A., Miller, L. A., & Greeley, D. (2012). Decadal changes in the aragonite and calcite saturation state of the Pacific Ocean. Global Biogeochemical Cycles, 26(3).
+
+Siedlecki, S. A., Kaplan, I. C., Hermann, A. J., Nguyen, T. T., Bond, N. A., Newton, J. A., Williams, G. D., Peterson, W. T., Alin, S. R., & Feely, R. A. (2016). Experiments with seasonal forecasts of ocean conditions for the northern region of the California Current upwelling system. Scientific Reports, 6(1), 1-18.
+
+Hodgson, E. E., Essington, T. E., & Kaplan, I. C. (2016). Extending vulnerability assessment to include life stages considerations. PLoS One, 11(7), e0158917.
+
+Marshall, K. N., Kaplan, I. C., Hodgson, E. E., Hermann, A., Busch, D. S., McElhany, P., Essington, T. E., Harvey, C. J., & Fulton, E. A. (2017). Risks of ocean acidification in the California Current food web and fisheries: ecosystem model projections. Global Change Biology, 23(4), 1525-1539.
+
+Busch, D. S., Harvey, C. J., & McElhany, P. (2013). Potential impacts of ocean acidification on the Puget Sound food web. ICES Journal of Marine Science, 70(4), 823-833.
+
+Hettinger, A., Sanford, E., Hill, T. M., Russell, A. D., Sato, K. N., Hoey, J., Forsch, M., Page, H. N., & Gaylord, B. (2012). Persistent carry-over effects of planktonic exposure to ocean acidification in the Olympia oyster. Ecology, 93(12), 2758-2768.
+
+Hettinger, A., Sanford, E., Hill, T. M., Lenz, E. A., Russell, A. D., & Gaylord, B. (2013). Larval carry-over effects from ocean acidification persist in the natural environment. Global Change Biology, 19(11), 3317-3326.
+
+Busch, D. S., & McElhany, P. (2016). Estimates of the direct effect of seawater pH on the survival rate of species groups in the California current ecosystem. PloS one, 11(8), e0160669.
+
+Berger, H. M., Siedlecki, S. A., Matassa, C. M., Alin, S. R., Kaplan, I. C., Hodgson, E. E., Pilcher, D. J., Norton, E. L. & Newton, J. A. (2021). Seasonality and life history complexity determine vulnerability of Dungeness crab to multiple climate stressors. AGU Advances, 2(4), p.e2021AV000456.
+
+Crozier, L. G., McClure, M. M., Beechie, T., Bograd, S. J., Boughton, D. A., Carr, M., Cooney, T. D., Dunham, J. B., Greene, C. M., Haltuch, M. A. & Hazen, E. L. (2019). Climate vulnerability assessment for Pacific salmon and steelhead in the California Current Large Marine Ecosystem. PloS one, 14(7), p.e0217711.
+
+Ainsworth, C.H., Kaplan, I.C., Levin, P.S., Cudney-Bueno, R., Fulton, E.A., Mangel, M., Turk-Boyer, P., Torre, J., ParesSierra, A., & Morzaria Luna H.N. 2011. Atlantis model development for the northern Gulf of California. U.S. Dept. Commer., NOAA Tech. Memo. NMFS-NWFSC-110, 293 p.
+
+Jellison, B. M., Ninokawa, A. T., Hill, T. M., Sanford, E., & Gaylord, B. (2016). Ocean acidification alters the response of intertidal snails to a key sea star predator. Proceedings of the Royal Society B: Biological Sciences, 283(1833), 20160890.
+
+Busch, D. S., O'Donnell, M. J., Hauri, C., Mach, K. J., Poach, M., Doney, S. C., & Signorini, S. R. (2015). Understanding, characterizing, and communicating responses to ocean acidification: challenges and uncertainties. Oceanography, 28(2), 30-39.
+
+Mostofa, K. M., Liu, C. Q., Zhai, W., Minella, M., Vione, D., Gao, K., Minakata, D., Arakaki, T., Yoshioka, T., Hayakawa, K., Konohira, E., Tanoue, E., Akhand, A., Chanda, A., Wang, B., & Sakugawa, H. (2016). Reviews and Syntheses: Ocean acidification and its potential impacts on marine ecosystems. Biogeosciences, 13(6), 1767-1786.
+
+Wahl, M., Saderne, V., & Sawall, Y. (2015). How good are we at assessing the impact of ocean acidification in coastal systems? Limitations, omissions and strengths of commonly used experimental approaches with special emphasis on the neglected role of fluctuations. Marine and Freshwater Research, 67(1), 25-36.
+
+Busch, D. S., & McElhany, P. (2017). Using mineralogy and higher-level taxonomy as indicators of species sensitivity to pH: A case-study of Puget Sound. Elementa: Science of the Anthropocene, 5.
+
+Davis, C. V., Rivest, E. B., Hill, T. M., Gaylord, B., Russell, A. D., & Sanford, E. (2017). Ocean acidification compromises a planktic calcifier with implications for global carbon cycling. Scientific Reports, 7(1), 1-8.
+
+Jones, J. M., Passow, U., & Fradkin, S. C. (2018). Characterizing the vulnerability of intertidal organisms in Olympic National Park to ocean acidification. Elementa: Science of the Anthropocene, 6.
+
+Bednaršek, N., Calosi, P., Feely, R. A., Ambrose, R., Byrne, M., Chan, K. Y. K., Dupont, S., Padilla-Gamino, J. L., Spicer, J. I., Kessouri, F., Roethler, M., Sutula, M., & Weisberg, S. B. (2021c). Synthesis of thresholds of ocean acidification impacts on echinoderms. Frontiers in Marine Science, 8, 602601.
+
+McPherson, M. L., Finger, D. J., Houskeeper, H. F., Bell, T. W., Carr, M. H., Rogers-Bennett, L., & Kudela, R. M. (2021). Large-scale shift in the structure of a kelp forest ecosystem co-occurs with an epizootic and marine heatwave. Communications Biology, 4(1), 1-9.
+
+Graham, O. J., Aoki, L. R., Stephens, T., Stokes, J., Dayal, S., Rappazzo, B., Gomes, C. P., & Harvell, C. D. (2021). Effects of Seagrass Wasting Disease on Eelgrass Growth and Belowground Sugar in Natural Meadows. Frontiers in Marine Science, 8, 768668.
+
+Groner, M. L., Eisenlord, M. E., Yoshioka, R. M., Fiorenza, E. A., Dawkins, P. D., Graham, O. J., Winningham, M., Vompe, A., Rivlin, N. D., Yang, B., Burge, C. A., Rappazzo, B., Gomes, C. P., & Harvell, C. D. (2021). Warming sea surface temperatures fuel summer epidemics of eelgrass wasting disease. Marine Ecology Progress Series, 679, 47-58.
+
+Harvell, C. D., Montecino-Latorre, D., Caldwell, J. M., Burt, J. M., Bosley, K., Keller, A., Heron, S. F., Salomon, A. K., Lee, L., Pontier, O., Pattengill-Semmens, C., & Gaydos, J. K. (2019). Disease epidemic and a marine heat wave are associated with the continental-scale collapse of a pivotal predator (Pycnopodia helianthoides). Science advances, 5(1), eaau7042.
+
+Ekstrom, J. A., Moore, S. K., & Klinger, T. (2020). Examining harmful algal blooms through a disaster risk management lens: A case study of the 2015 US West Coast domoic acid event. Harmful Algae, 94, 101740.
+
+Tatters, A. O., Fu, F. X., & Hutchins, D. A. (2012). High CO2 and silicate limitation synergistically increase the toxicity of Pseudo-nitzschia fraudulenta. PloS one, 7(2), e32116.
+
+Tatters, A. O., Flewelling, L. J., Fu, F., Granholm, A. A., & Hutchins, D. A. (2013). High CO2 promotes the production of paralytic shellfish poisoning toxins by Alexandrium catenella from Southern California waters. Harmful Algae, 30, 37-43.
+
+Swezey, D. S., Boles, S. E., Aquilino, K. M., Stott, H. K., Bush, D., Whitehead, A., Rogers-Bennett, L., Hill, T. M., & Sanford, E. (2020). Evolved differences in energy metabolism and growth dictate the impacts of ocean acidification on abalone aquaculture. Proceedings of the National Academy of Sciences, 117(42), 26513-26519.
+
+Ricart, A. M., Ward, M., Hill, T. M., Sanford, E., Kroeker, K. J., Takeshita, Y., Merolla, S., Shukla, P., Ninokawa, A. T., Elsmore, K., & Gaylord, B. (2021). Coast-wide evidence of low pH amelioration by seagrass ecosystems. Global Change Biology, 27(11), 2580-2591.
+
+Kaldy, J. E., Brown, C. A., Nelson, W. G., & Frazier, M. (2017). Macrophyte community response to nitrogen loading and thermal stressors in rapidly flushed mesocosm systems. Journal of Experimental Marine Biology and Ecology, 497, 107-119.
+
+Mcleod, E., Chmura, G. L., Bouillon, S., Salm, R., Björk, M., Duarte, C. M., Lovelock, C. E., Schlesinger, W. H., & Silliman, B. R. (2011). A blueprint for blue carbon: toward an improved understanding of the role of vegetated coastal habitats in sequestering CO 2 . Frontiers in Ecology and the Environment, 9(10), 552-560.
+
+Kauffman, J. B., Giovanonni, L., Kelly, J., Dunstan, N., Borde, A., Diefenderfer, H., Cornu, C., Janousek, C., Apple, J., & Brophy, L. (2020). Total ecosystem carbon stocks at the marine-terrestrial interface: Blue carbon of the Pacific Northwest Coast, United States. Global Change Biology, 26(10), 5679-5692.
+
+Ward, M. A., Hill, T. M., Souza, C., Filipczyk, T., Ricart, A. M., Merolla, S., Capece, L. R., O’Donnell, B. C., Elsmore, K., Oechel, W. C., & Beheshti, K. M. (2021). Blue carbon stocks and exchanges along the California coast. Biogeosciences, 18(16), 4717-4732.
+
+Grecni, Z., Miles, W., King, R., Frazier, A., & Keener, V. (2020). Climate Change in Guam: Indicators and Considerations for Key Sectors. Report for the Pacific Islands Regional climate Assessment. Honolulu, HI: East-West Center. https://eastwestcenter.org/PIRCA-Guam.
+
+Grecni, Z., Derrington, E.M., Greene, R., Miles, W., & Keener, V. (2021). Climate Change in the Commonwealth of the Northern Mariana Islands: Indicators and Considerations for Key Sectors. Report for the Pacific Islands Regional climate Assessment. Honolulu, HI: East-West Center. https://eastwestcenter.org/PIRCA-CNMI.
+
+Keener, V., Grecni, Z., Anderson Tagarino, K., Schuler, C., & Miles, W. (2021). Climate Change in American Sāmoa: Indicators and Considerations for Key Sectors. Report for the Pacific Islands Regional climate Assessment. Honolulu, HI: East-West Center. https://eastwestcenter.org/PIRCA-AmericanSamoa.
+
+Kleiber, D., & Leong, K. (2018). Cultural fishing in American Samoa. Pacific Islands Fisheries Science Center, PIFSC Administrative Report H-18-03, 21 p
+
+Calhoun, S., Leong, K., & Hospital, J. (2020). Hawaiʻi bottomfish heritage project: traditions and fishery development. U.S. Dept. of Commerce, NOAA Technical Memorandum NOAA-TM-NMFS-PIFSC-97, 54 p. doi:10.25923/1s8m-z563.
+
+Pascua, P. A., McMillen, H., Ticktin, T., Vaughan, M., & Winter, K. B. (2017). Beyond services: A process and framework to incorporate cultural, genealogical, place-based, and Indigenous relationships in ecosystem service assessments. Ecosystem Services, 26, 465-475.
+
+Ingram, R. J., Leong, K. M., Gove, J., & Wongbusarakum, S. (2020). Including human well-being in resource management with cultural ecosystem services. U.S. Dept. of Commerce, NOAA Technical Memorandum NOAA-TM-NMFS-PIFSC-112, 94 p. doi:10.25923/q8ya-8t22
+
+American Samoa Department of Commerce. (2017). American Samoa Statistical Yearbook 2016. American Samoa Government. Available at https://spccfpstore1.blob.core.windows.net/digitallibrary-docs/files/b1/b16c8f5570759046fad2186daf1603b7.pdf?sv=2015-12-11&sr=b&sig=nWdy93WQuiuzUEQLGH73PKUflgXtHX2ha%2FIugVTWqMM%3D&se=2023-01-21T17%3A47%3A11Z&sp=r&rscc=public%2C%20max-age%3D864000%2C%20max-stale%3D86400&rsct=application%2Fpdf&rscd=inline%3B%20filename%3D%22American%20Samoa%202016_Statistical%20Yearbook.pdf%22
+
+Leong K M, Torres A, Wise S, Hospital J. 2020. Beyond recreation: when fishing motivations are more than sport or pleasure. NOAA Admin Rep. H-20-05, 57 p.
+
+NMFS. 2020. Western Pacific Non-Commercial Fisheries. https://media.fisheries.noaa.gov/dam-migration/noaa_pacificislands_snapshot.pdf
+
+NMFS. 2021. U.S. Seafood Industry and For-hire Sector Impacts from COVID-19: 2020 in Perspective. NOAA Tech. Memo. NMFS-SPO-221, 88 p.
+
+Spurgeon, J. (2004). Valuation of coral reefs: The next 10 years. Economic valuation and policy priorities for sustainable management of coral reefs, ed. M. Ahmed, KC Ciew, and H. Cesar, 50-58.
+
+Cesar, H. S., & van Beukering, P. (2004). Economic valuation of the coral reefs of Hawai'i. Pacific Science, 58(2), 231-242.
+
+Beukering, P.V., Haider, W., Wolfs, E., Liu, Y., Leeuw, K.V.D., Longland, M., Sablan, J., Beardmore, B., Prima, S.D., Massey, E. and Cesar, H.S., (2006). The economic value of the coral reefs of Saipan, Commonwealth of the Northern Mariana Islands. https://repository.library.noaa.gov/view/noaa/510
+
+Beukering, P.V., Haider, W., Longland, M., Cesar, H., Sablan, J., Shjegstad, S., Beardmore, B., Liu, Y. & Garces, G. O. (2007). The economic value of Guam’s coral reefs. University of Guam Marine Laboratory Technical Report, 116(116), 102.
+
+Leong, K. M., Wongbusarakum, S., Ingram, R. J., Mawyer, A., & Poe, M. R. (2019). Improving representation of human well-being and cultural importance in conceptualizing the West Hawai ‘i Ecosystem. Frontiers in Marine Science, 6, 231.
+
+Kleiber, D., Kotowicz, D. M., & Hospital, J. (2018). Applying national community social vulnerability indicators to fishing communities in the Pacific Island Region. NOAA Tech. Memo. NMFS-PIFSC-65, 63 p.
+
+Greene, R., & Skeele, R. (2014). Climate change vulnerability assessment for the Island of Saipan. Bureau of Environmental and Coastal Quality–Division of Coastal Resources Management, Commonwealth of the Northern Mariana Islands. Saipan, MP.
+
+Weijerman, M. 2020. Development of an Atlantis model for Hawaiʻi to support ecosystem-based management. U.S. Dept. of Commerce. NOAA Technical Memorandum NOAA-TM-NMFSPIFSC-113, 140 p. doi:10.25923/cwqb-1z04/TM-PIFSC-113.
+
+Weijerman, M., Fulton, E. A., Kaplan, I. C., Gorton, R., Leemans, R., Mooij, W. M., & Brainard, R. E. (2015). An integrated coral reef ecosystem model to support resource management under a changing climate. PLoS one, 10(12), e0144165.
+
+Olsen, E., Kaplan, I. C., Ainsworth, C., Fay, G., Gaichas, S., Gamble, R., Girardin, R., Eide, C. H., Ihde, T., Morzaria- Luna, H. N., Johnson, K. F., Savina-Rolland, M., Townsend, H., Weijerman, M., Fulton, E. A., & Link, J. S. (2018). Ocean futures under ocean acidification, marine protection, and changing fishing pressures explored using a worldwide suite of ecosystem models. Frontiers in Marine Science, 5, 64.
+
+Gorstein, M., Loerzel, J., Edwards, P., Levine, A., & Dillard, M. (2018a). National Coral Reef Monitoring Program Socioeconomic Monitoring Component: Summary Findings for Guam, 2016. US Dep. Commerce, NOAA Tech. Memo., NOAA-TM-NOS-CRCP-32, 64p. + Appendices.
+
+Gorstein, M., Loerzel, J., Levine, A., Edwards, P., & Dillard, M. (2018b). National Coral Reef Monitoring Program Socioeconomic Monitoring Component: Summary Findings for Hawaiʻi, 2015. U.S. Department of Commerce, NOAA Technical Memorandum, NOAA-TM-NOSCRCP-30, 69 pp. + Appendices.
+
+Gorstein, M., Loerzel, J., Edwards, P., Levine, A., & Dillard, M. (2019b). National Coral Reef Monitoring Program Socioeconomic Monitoring Component: Summary Findings for CNMI, 2016. U.S. Department of Commerce, NOAA Technical Memorandum, NOAA-TM-NOS-CRCP-34, 69 pp. + Appendices
+
+Levine, A., Dillard, M., Loerzel, J., & Edwards, P. (2016). National Coral Reef Monitoring Program Socioeconomic Monitoring Component. Summary Findings for American Samoa, 2014. U.S. Department of Commerce, NOAA Technical Memorandum CRCP 24, 80 pp. + Appendices.
+
+Madge, L., Hospital, J., & Williams, E. T. (2016). Attitudes and Preferences of Hawaii Non-commercial Fishers: Report from the 2015 Hawaii Saltwater Angler Survey. U.S. Department of Commerce, NOAA Tech. Memo., NOAA-TMNMFS-PIFSC-58, 36 pp. + Appendices.
+
+Okano, D., Skeele, R., & Greene, R. (2015). Climate Adaptation Planning in the Northern Mariana Islands: Adapting Guidance for a Locally Appropriate Approach. Coastal Management, 43(4), 394-406.
+
+Terlouw, G. J., Knor, L. A., De Carlo, E. H., Drupp, P. S., Mackenzie, F. T., Li, Y. H., Sutton, A. J., Plueddemann, A. J., & Sabine, C. L. (2019). Hawaii coastal seawater CO 2 network: A statistical evaluation of a decade of observations on tropical coral reefs. Frontiers in Marine Science, 6, 226.
+
+Shamberger, K. E. F., Feely, R. A., Sabine, C. L., Atkinson, M. J., DeCarlo, E. H., Mackenzie, F. T., Drupp, P. S., & Butterfield, D. A. (2011). Calcification and organic production on a Hawaiian coral reef. Marine Chemistry, 127(1-4), 64-75.
+
+Shamberger, K. E., Cohen, A. L., Golbuu, Y., McCorkle, D. C., Lentz, S. J., & Barkley, H. C. (2014). Diverse coral communities in naturally acidified waters of a Western Pacific reef. Geophysical Research Letters, 41(2), 499-504.
+
+Barkley, H. C., Cohen, A. L., Golbuu, Y., Starczak, V. R., DeCarlo, T. M., & Shamberger, K. E. (2015). Changes in coral reef communities across a natural gradient in seawater pH. Science Advances, 1(5), e1500328.
+
+Comeau, S., Carpenter, R. C., Nojiri, Y., Putnam, H. M., Sakai, K., & Edmunds, P. J. (2014). Pacific-wide contrast highlights resistance of reef calcifiers to ocean acidification. Proceedings of the Royal Society B: Biological Sciences, 281(1790), 20141339.
+
+Fabricius, K. E., Langdon, C., Uthicke, S., Humphrey, C., Noonan, S., De’ath, G., Okazaki, R., Muehllehner, N., Glas, M. S., & Lough, J. M. (2011). Losers and winners in coral reefs acclimatized to elevated carbon dioxide concentrations. Nature Climate Change, 1(3), 165-169.
+
+Webster, N. S., Uthicke, S., Botté, E. S., Flores, F., & Negri, A. P. (2013). Ocean acidification reduces induction of coral settlement by crustose coralline algae. Global Change Biology, 19(1), 303-315.
+
+Doropoulos, C., Ward, S., Diaz-Pulido, G., Hoegh-Guldberg, O., & Mumby, P. J. (2012). Ocean acidification reduces coral recruitment by disrupting intimate larval-algal settlement interactions. Ecology Letters, 15(4), 338-346.
+
+Ragazzola, F., Foster, L. C., Form, A., Anderson, P. S., Hansteen, T. H., & Fietzke, J. (2012). Ocean acidification weakens the structural integrity of coralline algae. Global Change Biology, 18(9), 2804-2812.
+
+Kuffner, I. B., Andersson, A. J., Jokiel, P. L., Rodgers, K. U. S., & Mackenzie, F. T. (2008). Decreased abundance of crustose coralline algae due to ocean acidification. Nature Geoscience, 1(2), 114-117.
+
+Fabricius, K. E., Noonan, S. H., Abrego, D., Harrington, L., & De'Ath, G. (2017). Low recruitment due to altered settlement substrata as primary constraint for coral communities under ocean acidification. Proceedings of the Royal Society B: Biological Sciences, 284(1862), 20171536.
+
+Webster, N. S., Negri, A. P., Flores, F., Humphrey, C., Soo, R., Botté, E. S., Vogel, N., & Uthicke, S. (2012). Near- future ocean acidification causes differences in microbial associations within diverse coral reef taxa. Environmental Microbiology Reports, 5(2), 243-251.
+
+Smith, J. N., Mongin, M., Thompson, A., Jonker, M. J., De'ath, G., & Fabricius, K. E. (2020). Shifts in coralline algae, macroalgae, and coral juveniles in the Great Barrier Reef associated with present-day ocean acidification. Global Change Biology, 26(4), 2149-2160.
+
+Fabricius, K. E., De'ath, G., Noonan, S., & Uthicke, S. (2014). Ecological effects of ocean acidification and habitat complexity on reef-associated macroinvertebrate communities. Proceedings of the Royal Society B: Biological Sciences, 281(1775), 20132479.
+
+Turley, C. M., Roberts, J. M., & Guinotte, J. M. (2007). Corals in deep-water: will the unseen hand of ocean acidification destroy cold-water ecosystems?. Coral Reefs, 26(3), 445-448.
+
+Laubenstein, T. D., Rummer, J. L., Nicol, S., Parsons, D. M., Pether, S. M., Pope, S., Smith, N., & Munday, P. L. (2018). Correlated effects of ocean acidification and warming on behavioral and metabolic traits of a large pelagic fish. Diversity, 10(2), 35.
+
+Branch, T. A., DeJoseph, B. M., Ray, L. J., & Wagner, C. A. (2013). Impacts of ocean acidification on marine seafood. Trends in Ecology & Evolution, 28(3), 178-186.
+
+Cattano, C., Claudet, J., Domenici, P., & Milazzo, M. (2018). Living in a high CO2 world: A global meta-analysis shows multiple trait-mediated fish responses to ocean acidification. Ecological Monographs, 88(3), 320-335.
+
+Hendriks, I. E., Olsen, Y. S., Ramajo, L., Basso, L., Steckbauer, A., Moore, T. S., ... & Duarte, C. M. (2014). Photosynthetic activity buffers ocean acidification in seagrass meadows. Biogeosciences, 11(2), 333-346.
+
+Enochs, I. C., Manzello, D. P., Donham, E. M., Kolodziej, G., Okano, R., Johnston, L., Young, C., Iguel, J., Edwards, C. B., Fox, M. D., Valentino, L., Johnson, S., Benavente, D., Clark, S. J., Carlton, R., Burton, T., Eynaud, Y., & Price, N. N. (2015b). Shift from coral to macroalgae dominance on a volcanically acidified reef. Nature Climate Change, 5(12), 1083-1088.
+
+Inoue, S., Kayanne, H., Yamamoto, S., & Kurihara, H. (2013). Spatial community shift from hard to soft corals in acidified water. Nature Climate Change, 3(7), 683-687.
+
+Hughes, T. P., Kerry, J. T., Baird, A. H., Connolly, S. R., Dietzel, A., Eakin, C. M., Heron, S. F., Hoey, A. S., Hoogenboom, M. O., Liu, G., McWilliam, M. J., Pears, R. J., Pratchett, M. S., Skirving, W. J., Stella, J. S., & Torda, G. (2018). Global warming transforms coral reef assemblages. Nature, 556(7702), 492-496.
+
+van Woesik, R., Golbuu, Y., & Roff, G. (2015). Keep up or drown: adjustment of western Pacific coral reefs to sea- level rise in the 21st century. Royal Society Open Science, 2(7), 150181.
+
+Storlazzi, C. D., Elias, E., Field, M. E., & Presto, M. K. (2011). Numerical modeling of the impact of sea-level rise on fringing coral reef hydrodynamics and sediment transport. Coral Reefs, 30(1), 83-96.
+
+Rodgers, K. U. S., Stefanak, M. P., Tsang, A. O., Han, J. J., Graham, A. T., & Stender, Y. O. (2021). Impact to Coral Reef Populations at Hā ‘ena and Pila ‘a, Kaua ‘i, Following a Record 2018 Freshwater Flood Event. Diversity, 13(2), 66.
+
+Hernández-Delgado, E. A., Mercado-Molina, A. E., Alejandro-Camis, P. J., Candelas-Sánchez, F., Fonseca-Miranda, J. S., González-Ramos, C. M., Guzman-Rodriguez, R., Mege, P., Montanez-Acuna, A. A., Maldonado, I. O., Otano-Cruz, A., & Suleimán-Ramos, S. E. (2014). Community-based coral reef rehabilitation in a changing climate: lessons learned from hurricanes, extreme rainfall, and changing land use impacts. Open Journal of Ecology, 4(14), 918.
+
+Delevaux, J. M., Whittier, R., Stamoulis, K. A., Bremer, L. L., Jupiter, S., Friedlander, A. M., Poti, M., Guannel, G., Kurashima, N., Winter, K. B., Toonen, R., conklin, E., Wiggins, C., Knudby, A., Goodell, W., Burnett, K., Yee, S., Htun, H., Oleson, K. L. L., Wiegner, T., & Ticktin, T. (2018). A linked land-sea modeling framework to inform ridge-to-reef management in high oceanic islands. PLoS One, 13(3), e0193230.
+
+McKenzie, T., Habel, S., & Dulai, H. (2021). Sea-level rise drives wastewater leakage to coastal waters and storm drains. Limnology and Oceanography Letters, 6(3), 154-163.
+
+Altieri, A. H., Harrison, S. B., Seemann, J., Collin, R., Diaz, R. J., & Knowlton, N. (2017). Tropical dead zones and mass mortalities on coral reefs. Proceedings of the National Academy of Sciences, 114(14), 3660-3665.
+
+Wooldridge, S. A., & Brodie, J. E. (2015). Environmental triggers for primary outbreaks of crown-of-thorns starfish on the Great Barrier Reef, Australia. Marine Pollution Bulletin, 101(2), 805-815.

@@ -1,4 +1,4 @@
-vimport os
+import os
 import requests
 import sys
 import logging
@@ -31,7 +31,7 @@ def download_collection(code):
     """
     try:
         logging.info(f"Fetching data for collection: {code}")
-        df = GovInfo.gpo_collections(collection=code, start_date="0000-00-00T00:00:00Z", end_date="2025-01-20T00:00:00Z")
+        df = GovInfo.gpo_collections(collection=code, start_date="0000-00-00T00:00:00Z")
 
         if df is None or df.empty:
             logging.warning(f"No data found for collection: {code}")
@@ -87,3 +87,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

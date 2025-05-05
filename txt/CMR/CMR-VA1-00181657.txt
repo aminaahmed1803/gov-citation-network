@@ -1,0 +1,53 @@
+Bauer MS, Weaver K, Kim B, Miller C, Lew R, Stolzmann K, Sullivan JL, Riendeau R, Connolly S, Pitcock J, Ludvigsen SM, Elwy AR. The Collaborative Chronic Care Model for Mental Health Conditions: From Evidence Synthesis to Policy Impact to Scale-up and Spread. Medical Care, 2019a, 57(10 Suppl 3): S221-S227.
+
+Bauer MS, Miller CJ, Kim B, Lew R, Stolzmann K, Sullivan J, Riendeau R, Pitcock J, Williamson A, Connolly S, Elwy AR, and Weaver K. Effectiveness of Implementing a Collaborative Chronic Care Model for Clinician Teams on Patient Outcomes and Health Status in Mental Health: A Randomized Clinical Trial. JAMA Network Open, 2019b, 2(3): e190230.
+
+Boden MT, Smith CA, Klocek JW, Trafton JA. Mental Health Treatment Quality, Access, and Satisfaction: Optimizing Staffing in an Era of Fiscal Accountability. Psychiatric Services, 2019, 70(3): 168-175.
+
+Boden M, Smith CA, Trafton JA. Investigation of population-based mental health staffing and efficiency-based mental health productivity using an information-theoretic approach. PLoS One, 2021 Aug 16; 16(8): e0256268.
+
+Chan DC, Card D, Taylor L. Is there a VA advantage? Evidence from dually eligible Veterans National Bureau of Economic Research (NBER) Working Paper Series, 2022, No. 29765. Available online at: https://www.nber.org/ papers/w29765/.
+
+Cunningham R. Healthcare workforce needs: projections complicated by practice and technology changes. Issue Brief, George Washington University, National Health Policy Forum, 2013 Oct 22, (851): 1-15.
+
+Farmer CM, Smucker S, Ernecoff N, Al-Ibrahim H. Recommended Standards for Delivering High-Quality Care to Veterans with Invisible Wounds. Santa Monica, CA: RAND Corporation, 2022. https://www.rand.org/pubs/research_reports/RRA1728-1.html. Also available in print form.
+
+Feyman Y, Asfaw D, Griffith K. Geographic Variation in Appointment Wait Times for US Military Veterans. JAMA Network Open, August 25, 2022; 5(8): e2228783.
+
+Frank HE, Becker‐Haimes EM, Kendall PC. Therapist training in evidence‐based interventions for mental health: a systematic review of training approaches and outcomes. Clinical Psychology: Science and Practice, 2020, 27(3): e12330.
+
+Gujral K, Van Campen J, Jacobs J, Kimerling K, Blonigen D, Zulman DM. Mental Health Service Use, Suicide Behavior, and Emergency Department Visits Among Rural US Veterans Who Received Video-Enabled Tablets During the COVID-19 Pandemic. JAMA Network Open, 2022; 5(4): e226250. doi:10.1001/jamanetworkopen.2022.6250.
+
+Guy GP Jr., Haegerich TM, Evans ME, Losby JL, Young R, Jones CM. Vital Signs: Pharmacy-Based Naloxone Dispensing — United States, 2012–2018. MMWR Morbidity and Mortality Weekly Report, 2019; 68: 679–686.
+
+Hermes EDA, Wiechers IR, and Hoff R. Psychotropic Drug Safety Initiative: Phase 3 Evaluation of Impact and Activities. VA Office of Mental Health and Suicide Prevention. West Haven, CT: Northeast Program Evaluation Center. July 2020.
+
+Institute of Medicine. Psychosocial Interventions for Mental and Substance Use Disorders: A Framework for Establishing Evidence-Based Standards, 2015. Washington, DC: The National Academies Press.
+
+Jacobs JC, Blonigen DM, Kimerling R, Slightam C, Gregory AJ, Gurmessa T, Zulman DM. Increasing Mental Health Care Access, Continuity, and Efficiency for Veterans Through Telehealth with Video Tablets. Psychiatric Services, 2019; 70(11): 976-982.
+
+Katz IR, Resnick S, Hoff R. Associations between patient experience and clinical outcomes in general mental health clinics: Findings from the Veterans Outcomes Assessment survey. Psychiatry Research, 2021 Jan; 295: 113554.
+
+Lemke S, Boden MT, Kearney LK, Krahn DD, Neuman MJ, Schmidt EM, Trafton JA. Measurement-based management of mental health quality and access in VHA: SAIL Mental Health Domain. Psychological Services, 2017, 14(1): 1-12.
+
+Liebmann EP, Resnick SG, Hoff RA, Katz IR. Associations between patient experience and clinical outcomes in substance use disorder clinics: Findings from the Veterans Outcomes Assessment survey. Journal of Substance Abuse Treatment, 2022 Feb; 133: 108505.
+
+Liebmann EP, Resnick SG, Hoff RA, Katz IR. Interpreting patient reports of perceived change during treatment for depression: Findings from the Veterans Outcome Assessment survey. Psychiatry Research, 2022 Mar; 309: 114402.
+
+McCarthy JF, Cooper SA, Dent KR, Eagan AE, Matarazzo BB, Hannemann CM, Reger MA, Landes SH, Trafton JA, Schoenbaum M, Katz IR. Evaluation of the Recovery Engagement and Coordination for Health–Veterans Enhanced Treatment Suicide Risk Modeling Clinical Program in the Veterans Health Administration. JAMA Network Open, 2021, 4(10), e2129900.
+
+Meyer AM, Davis M, Mays GP. Defining organizational capacity for public health services and systems research. Journal of Public Health Management and Practice, 2012, 18(6): 535-44.
+
+Miller CJ, Griffith KN, Stolzmann K, Kim B, Connolly SL, and Bauer MS. Team- Based collaborative care in outpatient general mental health clinics. Medical Care, 2020, 58(10): 874-880.
+
+National Academies of Sciences, Engineering, and Medicine. 2018. Evaluation of the Department of Veterans Affairs Mental Health Services. Washington, DC: The National Academies Press. doi: https://doi.org/10.17226/24915.
+
+Oliva EM, Bowe T, Tavakoli S, Martins S, Lewis ET, Paik M, Wiechers I, et al. Development and applications of the Veterans Health Administration's Stratification Tool for Opioid Risk Mitigation (STORM) to improve opioid safety and prevent overdose and suicide. Psychological Services, 2017, 14(1): 34-49.
+
+Oliva EM, Richardson J, Harvey MA, Bellino P. Saving Lives: The Veterans Health Administration (VHA) Rapid Naloxone Initiative. The Joint Commission Journal on Quality and Patient Safety, 2021, 47(8): 469-480.
+
+Schmidt EM, Krahn DD, McGuire MM, Tavakoli S, Wright DD, Solares HE, Lemke S, Trafton J. Using organizational and clinical performance data to increase the value of mental health care. Psychological Services, 2017, 14(1): 13-22.
+
+Smith CA, Boden MT, Trafton JA. Outpatient provider staffing ratios: Binary recursive models associated with quality, access, and satisfaction. Psychological Services, 2021 Nov 15. Online ahead of print.
+
+Strombotne KL, Legler A, Minegishi T, Trafton JA, Oliva EM, Lewis ET, Sohoni P, Garrido MM, Pizer SD, Frakt AB. Effect of a Predictive Analytics-Targeted Program in Patients on Opioids: a Stepped-Wedge Cluster Randomized Controlled Trial. Journal of General Internal Medicine, 2022 May 2. Online ahead of print.

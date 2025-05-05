@@ -1,0 +1,63 @@
+HealthIT.Gov Stats. “National Trends in Hospital and Physician Adoption of Electronic Health Records.” https://www.healthit.gov/data/quickstats/national-trends-hospital-and-physician-adoption-electronic-health-records
+
+Johnson C. and Pylypchuk, Y. “Use of Certified Health IT and Methods to Enable Interoperability by U.S. Non-Federal Acute Care Hospitals.” ONC Data Brief #54. ONC: Washington, D.C. February 2021. https://www.healthit.gov/sites/default/files/page/2021-03/Hospital%20Use%20of%20Certified%20HIT_Interop%20v10_1.pdf
+
+Pylypchuk, Y., Everson J., Charles D., and Patel V. “Interoperability Among Office-Based Physicians in 2019.” ONC Data Brief #59. ONC: Washington, D.C. July 2022. https://www.healthit.gov/data/data-briefs/interoperability-among-office-based-physicians-2019
+
+Johnson, C. and Pylypchuk, Y. “Use of Certified Health IT and Methods to Enable Interoperability by U.S. Non-Federal Acute Care Hospitals.” ONC Data Brief #54. ONC: Washington, D.C. February 2021. https://www.healthit.gov/sites/default/files/page/2021-03/Hospital%20Use%20of%20Certified%20HIT_Interop%20v10_1.pdf
+
+CDC. COVID-19 Electronic Case Reporting for Healthcare Providers. November 19, 2021. https://www.cdc.gov/coronavirus/2019-ncov/hcp/electronic-case-reporting.html
+
+Johnson C, Richwine C, and Patel V. Individuals’ Access and Use of Patient Portals and Smartphone Health Apps, 2020. ONC Data Brief #57. ONC: Washington, D.C. September 2021. https://www.healthit.gov/data/data-briefs/individuals-access-and-use-patient-portals-and-smartphone-health-apps-2020
+
+Johnson C, Richwine C, and Patel V. Individuals’ Access and Use of Patient Portals and Smartphone Health Apps, 2020. ONC Data Brief #57. ONC: Washington, D.C. September 2021. https://www.healthit.gov/data/data-briefs/individuals-access-and-use-patient-portals-and-smartphone-health-apps-2020
+
+ONC. Hospital Capabilities to Enable Patient Electronic Access to Health Information, 2019. Data Brief #55. ONC: Washington, D.C. June 2021. https://www.healthit.gov/sites/default/files/page/2021-05/Hospital_Capabilities_to_Enable_Patient_Access_ONC%20Data%20Brief.pdf
+
+Barker, W. and Johnson, C. The Ecosystem of Apps and Software Integrated with Certified Health Information Technology. *Journal of the American Medical Informatics Association*, Volume 28, Issue 11, November 2021, Pages 2379–2384. https://academic.oup.com/jamia/article/28/11/2379/6364773?guestAccessKey=b53cf572-1544-4162-a6a2-f6f84ce7095b
+
+Johnson C, Richwine C, and Patel V. Individuals’ Access and Use of Patient Portals and Smartphone Health Apps, 2020. ONC Data Brief #57. ONC: Washington, D.C. September 2021. https://www.healthit.gov/data/data-briefs/individuals-access-and-use-patient-portals-and-smartphone-health-apps-2020
+
+Johnson C, Richwine C, and Patel V. Individuals’ Access and Use of Patient Portals and Smartphone Health Apps, 2020. ONC Data Brief #57. ONC: Washington, D.C. September 2021. https://www.healthit.gov/data/data-briefs/individuals-access-and-use-patient-portals-and-smartphone-health-apps-2020
+
+CDC. COVID-19 Electronic Case Reporting for Healthcare Providers. November 19, 2021. https://www.cdc.gov/coronavirus/2019-ncov/hcp/electronic-case-reporting.html
+
+CDC. COVID-19 Vaccine Distribution Allocations by Jurisdiction - Pfizer. June 17, 2021. https://data.cdc.gov/Vaccinations/COVID-19-Vaccine-Distribution-Allocations-by-Juris/saz5-9hgg
+
+Richwine C., Marshall C., and Patel V. Challenges to Public Health Reporting Experienced by Non-Federal Acute Care Hospitals, 2019. ONC Data Brief #56. ONC: Washington, D.C. September 2021. https://www.healthit.gov/data/data-briefs/challenges-public-health-reporting-experienced-non-federal-acute-care-hospitals
+
+Johnson, C. and Pylypchuk, Y. “Use of Certified Health IT and Methods to Enable Interoperability by U.S. Non-Federal Acute Care Hospitals.” ONC Data Brief #54. ONC: Washington, D.C. February 2021. https://www.ahadata.com/system/files/media/file/2021/03/Use-of-Certified-Health-IT-and-Methods-to-Enable-Interoperability-by-U.S.-Non-Federal-Acute-Care-Hospitals-2019.pdf
+
+Pylypchuk, Y., Everson, J., Charles, D., and Patel, V. “Interoperability Among Office-Based Physicians in 2019.” ONC Data Brief #59. ONC: Washington, D.C. July 2022. https://www.healthit.gov/sites/default/files/2022-07/Interoperability_Among_Office-Based_Physicians_in_2019.pdf
+
+Barker, W. and Johnson, C. “Variation in Methods for Health Information Management among U.S. Substance Abuse Treatment Centers, 2017.” ONC Data Brief, #52. ONC: Washington DC. July 2020. https://www.healthit.gov/sites/default/files/page/2020-06/substance-abuse-treatment-center-health-information-management-2017.pdf
+
+Reganti KR, Kuruvella R, Syamala S, et al. An evaluation of EHR and the barriers to adoption by small medical practices [EB/OL]. http://robschumaker.com/publications/IJPHIM%20-%20An%20Evaluation%20of%20EHR%20and%20the%20Barriers%20to%20Adoption%20by%20Small%20Medical%20Practices.pdf Accessed March 18, 2020.
+
+Patel V., Pylypchuk Y., Henry J., & Searcy T. “Variation in Interoperability among U.S. Non-federal Acute Care Hospitals in 2015.” ONC Data Brief, #37. ONC: Washington DC. July 2016. https://www.healthit.gov/data/data-briefs/variation-interoperability-among-us-non-federal-acute-care-hospitals-2015
+
+Henry, J., Pylypchuk Y., and Patel V. “Electronic Health Record Adoption and Interoperability among U.S. Skilled Nursing Facilities and Home Health Agencies in 2017.” ONC Data Brief, #41. ONC: Washington DC. November 2018. https://www.healthit.gov/sites/default/files/page/2018-11/Electronic-Health-Record-Adoption-and-Interoperability-among-U.S.-Skilled-Nursing-Facilities-and-Home-Health-Agencies-in-2017.pdf
+
+MACPAC. Encouraging Health Information Technology Adoption in Behavioral Health: Recommendations for Action. June 2022. https://www.macpac.gov/wp-content/uploads/2022/06/Chapter-4-Encouraging-Health-Information-Technology-Adoption-in-Behavioral-Health.pdf
+
+SAMHSA. National Mental Health Services Survey (NMHSS): 2020, Data on Mental Health Treatment Facilities. Sept 2021. https://www.samhsa.gov/data/sites/default/files/reports/rpt35336/2020_NMHSS_final.pdf
+
+Social Determinants of Health: Know What Affects Health. CDC.gov, Centers for Disease Control and Prevention. Jan. 2019. https://www.cdc.gov/socialdeterminants/index.htm.
+
+Public Law 114-255, 21st Century Cures Act. Enacted: Dec. 13, 2016. https://www.congress.gov/114/bills/hr34/BILLS-114hr34enr.pdf
+
+Barker, W. and Johnson, C. “The Ecosystem of Apps and Software Integrated with Certified Health Information Technology.” *Journal of the American Informatics Association*. Vol 28. Issue 11. Pages 2379–2384. Nov 2021. https://academic.oup.com/jamia/article/28/11/2379/6364773?guestAccessKey=b53cf572-1544-4162-a6a2-f6f84ce7095b
+
+Pylypchuk, Barker, W., Encinosa, W., and Searcy, T. "Impact of the 2015 Health Information Technology Certification Edition on Interoperability among Hospitals." *Journal of the American Medical Informatics Association.* June 28, 2021. https://doi.org/10.1093/jamia/ocab083
+
+Cathrwa, J. et al. “Securing Telehealth Remote Patient Monitoring Ecosystem.” NIST SPECIAL PUBLICATION 1800-30. February 2022. https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-30.pdf
+
+HHS. Office of Minority Health. Health Equity Considerations and Racial and Ethnic Minority Groups. January 25, 2022. https://www.cdc.gov/coronavirus/2019-ncov/community/health-equity/race-ethnicity.html
+
+CDC. eCR Newsletter: Nationwide Scale-up of eCR Accelerates Public Health Response and Reduces Burden on Healthcare. https://www.cdc.gov/ecr/docs/eCR-Newsletter-2021-508.pdf
+
+Nelson, H. “EHR Integration of eCR Promotes Public Health Reporting, COVID-19.” EHR Intelligence, June 3, 2021. https://ehrintelligence.com/news/ehr-integration-of-ecr-promotes-public-health-reporting-covid-19
+
+Research Protocol: Impact of Healthcare Algorithms on Racial and Ethnic Disparities in Health and Healthcare. Content last reviewed January 2022. Effective Health Care Program, Agency for Healthcare Research and Quality, Rockville, MD. https://effectivehealthcare.ahrq.gov/products/racial-disparities-health-healthcare/protocol
+
+ONC. National Health IT Priorities for Research: A Policy and Development Agency. Jan 2020. https://www.healthit.gov/sites/default/files/page/2020-01/PolicyandDevelopmentAgenda.pdf

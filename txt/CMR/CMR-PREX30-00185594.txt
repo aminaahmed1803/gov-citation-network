@@ -1,0 +1,61 @@
+Brown, M.E., J.M. Antle, P. Backlund, E.R. Carr, W.E. Easterling, M.K. Walsh, C. Ammann, W. Attavanich, C.B. Barrett, M.F. Bellemare, V. Dancheck, C. Funk, K. Grace, J.S.I. Ingram, H. Jiang, H. Maletta, T. Mata, A. Murray, M. Ngugi, D. Ojima, B. O'Neill, and C. Tebaldi, 2015: Climate Change, Global Food Security, and the U.S. Food System. 146 pp. http://www.usda.gov/oce/climate_change/FoodSecurity2015Assessment/FullAssessment.pdf
+
+CMRA. (2023, August). Climate Mapping for Resilience and Adaptation [web page]. https://resilience.climate.gov/
+
+Collini, R.C., J. Carter, L. Auermuller, L. Engeman, K. Hintzen, J. Gambill, R.E. Johnson, I. Miller, C. Schafer, and H. Stiller, 2022: Application Guide for the 2022 Sea Level Rise Technical Report. National Oceanic and Atmospheric Administration Office for Coastal Management, Mississippi-Alabama Sea Grant Consortium (MASGP-22-028), and Florida Sea Grant (SGEB 88). https://aambpublicoceanservice.blob.core.windows.net/oceanserviceprod/hazards/sealevelrise/noaa-nos-techrpt02-global-regional-SLR-scenarios-US-application-guide.pdf
+
+Danabasoglu, G., and R. Leung, 2022: The 8th U.S. Climate Modeling Summit Report. 8th USCMS Co-Chairs. https://www.globalchange.gov/sites/default/files/documents/igim/USCMS_2022_Summary_Report.pdf
+
+DOE. (2023, August). CICE Consortium Model for Sea-Ice Development [web page]. Office of Science, U.S. Department of Energy. https://climatemodeling.science.energy.gov/technical-highlights/cice-consortium-model-sea-ice-development
+
+Duffy, K., T.C. Gouhier, and A.R. Ganguly, 2022: Climate-mediated shifts in temperature fluctuations promote extinction risk. Nat. Clim. Chang. 12, 1037-1044. https://doi.org/10.1038/s41558-022-01490-7
+
+Eagle, M.J., K.D. Kroeger, A.C. Spivak, F. Wang, J. Tang, O.I. Abdul-Aziz, K.S. Ishtiaq, J.O. Suttles, and A.G. Mann, 2022: Soil carbon consequences of historic hydrologic impairment and recent restoration in coastal wetlands. Science of the Total Environment. 157682. https://doi.org/10.1016/j.scitotenv.2022.157682
+
+EPA, 2021: Technical Documentation on the Framework for Evaluating Damages and Impacts (FrEDI). U.S. Environmental Protection Agency, EPA 430-R-21-004. https://www.epa.gov/cira/fredi
+
+EPA, 2022: Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990-2020. U.S. Environmental Protection Agency, EPA 430-R-22-003. https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks-1990-2020
+
+Fast Track Action Committee on Climate Services, 2023: A Federal Framework and Action Plan for Climate Services. National Science and Technology Council. https://www.whitehouse.gov/wp-content/uploads/2023/03/FTAC_Report_03222023_508.pdf
+
+Fraiola, K.M.S., T. Miura, J. Martinez, K.H. Lopes, F. Amidon, J. Torres-Pérez, H.L. Spalding, T. Williams, K. So, E. Sach, and R.K. Kosaki, 2022: Using commercial high-resolution satellite imagery to monitor a nuisance macroalga in the largest marine protected area in the USA. Coral Reefs, 42, 253-259. https://doi.org/10.1007/s00338-022-02336-6
+
+GHG IWG, 2023: National Strategy to Advance an Integrated U.S. Greenhouse Gas Measurement, Monitoring, and Information System. Greenhouse Gas Measurement and Monitoring Interagency Working Group. https://www.whitehouse.gov/wp-content/uploads/2023/11/NationalGHGMMISStrategy-2023.pdf
+
+Moeser, C.D., S.B. Chavarria, and A.M. Wootten, 2021: Streamflow response to potential changes in climate in the Upper Rio Grande Basin: U.S. Geological Survey Scientific Investigations Report 2021-5138, 41 pp. https://doi.org/10.3133/sir20215138
+
+NASA. (2023, August). Interagency Sea Level Rise Scenario Tool [web page]. NASA Sea Level Change Team. https://sealevel.nasa.gov/task-force-scenario-tool/
+
+NOAA. (2023a, August). The NOAA Ocean Podcast [web page]. https://oceanservice.noaa.gov/podcast/
+
+NOAA. (2023b, August). Sea Level Rise Viewer v 3.0.0 [web page]. NOAA National Ocean Service, Office for Coastal Management. https://coast.noaa.gov/slr/
+
+Norman, L.M., R. Lal, E. Wohl, E. Fairfax, A. Gellis, and M.M. Pollock, 2022: Natural infrastructure in dryland streams (NIDS) can establish regenerative wetland sinks that reverse desertification and strengthen climate resilience. Science of the Total Environment. 157738. https://doi.org/10.1016/j.scitotenv.2022.157738
+
+OSTP, 2023: Selecting Climate Information to Use in Climate Risk and Impact Assessments: Guide for Federal Agency Climate Adaptation Planners. White House Office of Science and Technology Policy. Washington, D.C. https://www.whitehouse.gov/wp-content/uploads/2023/03/Guide-on-Selecting-Climate-Information-to-Use-in-Climate-Risk-and-Impact-Assessments.pdf
+
+Peterson, D.L., S.M. McCaffrey, and T. Patel-Weynand. (eds.), 2022: Wildland Fire Smoke in the United States. Springer, Cham. https://doi.org/10.1007/978-3-030-87045-4_1
+
+Raposa, K.B., M. Bradley, C. Chaffee, N. Ernst, W. Ferguson, T.E. Kutcher, R.A. McKinney, K.M. Miller, S. Rasmussen, E. Tymkiw, and C. Wigand, 2022: Laying it on thick: Ecosystem effects of sediment placement on a microtidal Rhode Island salt marsh. Front. Environ. Sci. http://doi.org/10.3389/fenvs.2022.939870
+
+RNPN, 2022: Building Alliances for Climate Action. Resilient Nation Partnership Network. https://www.fema.gov/sites/default/files/documents/fema_building-alliances-climate-action.pdf
+
+Sanders-DeMott, R., M.J. Eagle, K.D. Kroeger, F. Wang, T.W. Brooks, J.A. O'Keefe Suttles, S.K. Nick, A.G. Mann, and J. Tang, 2022: Impoundment increases methane emissions in Phragmites-invaded coastal wetlands. Global Change Biology. 28, 4539-4557. https://doi.org/10.1111/gcb.16217
+
+Sharma, S.; R. Andrus, Y. Bergeron, M. Bogdziewicz, D.C. Bragg, D. Brockway, N.L. Cleavitt, B. Courbaud, A.J. Das, M. Dietze, et al, 2022: North American tree migration paced by climate in the West, lagging in the East. Proc. Natl. Acad. Sci. 119, e2116691118. https://doi.org/10.1073/pnas.2116691118
+
+Sweet, W.V., B.D. Hamlington, R.E. Kopp, C.P. Weaver, P.L. Barnard, D. Bekaert, W. Brooks, M. Craghan, G. Dusek, T. Frederikse, G. Garner, A.S. Genz, J.P. Krasting, E. Larour, D. Marcy, J.J. Marra, J. Obeysekera, M. Osler, M. Pendleton, D. Roman, L. Schmied, W. Veatch, K.D. White, and C. Zuzak, 2022: Global and Regional Sea Level Rise Scenarios for the United States: Updated Mean Projections and Extreme Water Level Probabilities Along U.S. Coastlines. NOAA Technical Report NOS 01. National Oceanic and Atmospheric Administration, National Ocean Service, Silver Spring, MD, 111 pp. https://oceanservice.noaa.gov/hazards/sealevelrise/sealevelrise-tech-report-sections.html
+
+Sweet, W.V., R.E. Kopp, C.P. Weaver, J. Obeysekera, R.M. Horton, E.R. Thieler, and C. Zervas, 2017: Global and Regional Sea Level Rise Scenarios for the United States. NOAA Technical Report NOA CO-OPS 083. National Oceanic and Atmospheric Administration, National Ocean Service, Silver Spring, MD, 75 pp. https://tidesandcurrents.noaa.gov/publications/techrpt83_Global_and_Regional_SLR_Scenarios_for_the_US_final.pdf
+
+USDA. (2023, August). Climate Change Science Seminar Series [web page]. https://www.usda.gov/oce/energy-and-environment/climate/seminar-series
+
+USGCRP, 2009: The Essential Principles of Climate Science. U.S. Global Change Research Program, Washington, DC, USA. https://www.globalchange.gov/reports/climate-literacy-essential-principles-climate-science
+
+USGCRP, 2022: The U.S. Global Change Research Program 2022-2031 Strategic Plan. U.S. Global Change Research Program, Washington, DC, USA. https://www.globalchange.gov/reports/us-global-change-research-program-2022-2031-strategic-plan
+
+USGCRP, 2023: Fifth National Climate Assessment. Crimmins, A.R., C.W. Avery, D.R. Easterling, K.E. Kunkel, B.C. Stewart, and T.K. Maycock, Eds. U.S. Global Change Research Program, Washington, DC, USA. https://doi.org/10.7930/NCA5.2023
+
+USGCRP Social Sciences Coordinating Committee, 2022: Food, Culture, and Climate: Webinar Series Report. U.S. Global Change Research Program, Washington, DC, USA. https://downloads.globalchange.gov/sscc/FoodCultureClimate_Final.pdf
+
+Vose, J.M., J.S. Clark, C.H. Luce, and T. Patel-Weynand (eds.), 2016: Effects of drought on forests and rangelands in the United States: A comprehensive science synthesis. Gen. Tech. Rep. WO-93b. U.S. Department of Agriculture, Forest Service, Washington, DC, USA. 289 pp. https://doi.org/10.2737/WO-GTR-93b

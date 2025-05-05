@@ -1,0 +1,51 @@
+Centers for Medicare & Medicaid Services. (2020, March 17). Medicare Telemedicine Health Care Provider Fact Sheet. Retrieved March 24, 2021, from https://www.cms.gov/newsroom/fact-sheets/medicare-telemedicine-health-care-provider-fact-sheet.
+
+Centers for Medicare & Medicaid Services. (n.d.). Competitive Acquisition Ombudsman (CAO). Retrieved March 24, 2021, from https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/DMEPOSCompetitiveBid/Competitive_Acquisition_Ombudsman.
+
+Centers for Medicare & Medicaid Services. (2019, March 8). DMEPOS Competitive Bidding Round 2021 Fact Sheet. Retrieved March 24, 2021, from https://www.cms.gov/newsroom/fact-sheets/dmepos-competitive-bidding-round-2021.
+
+Centers for Medicare & Medicaid Services. (2020, April 13). Press Release: CMS News Alert April 13, 2020. Retrieved March 24, 2021, from https://www.cms.gov/newsroom/press-releases/cms-news-alert-april-13-2020 .
+
+Centers for Medicare & Medicaid Services. (2020, October 27). Round 2021 DMEPOS Competitive Bidding Program Single Payment Amounts and Contract Offers. Retrieved March 24, 2021, from https://www.cms.gov/files/document/round-2021-dmepos-cbp-single-payment-amts-fact-sheet.pdf .
+
+Coronavirus Aid, Relief, and Economic Security Act, §§ 116-136-3212-3712 et seq. (2020). See https://www.congress.gov/116/plaws/publ136/PLAW-116publ136.pdf
+
+U.S. Department of Health and Human Services. (2021, January 21). Secretary Azar declares public health emergency for United States for 2019 novel coronavirus. Retrieved March 24, 2021, from https://www.hhs.gov/about/news/2020/01/31/secretary-azar-declares-public-health-emergency-us-2019-novel-coronavirus.html.
+
+Coronavirus Aid, Relief, and Economic Security Act, §§ 116-136-3212-3712 et seq. (2020). See https://www.congress.gov/116/plaws/publ136/PLAW-116publ136.pdf
+
+Department of Health and Human Services. (2020, November 4). Proposed Rule: Medicare Program; Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) Policy Issues and Level II of the Healthcare Common Procedure Coding System (HCPCS). Federal Register. Retrieved April 3, 2021, from https://www.govinfo.gov/content/pkg/FR-2020-11-04/pdf/2020-24194.pdf. See pg. 70370; Section II, Subsection C.
+
+42 CFR § 414.210(g)(9). See https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-414/subpart-D/section-414.210
+
+Centers for Medicare & Medicaid Services. (2020, October 27). Round 2021 DMEPOS Competitive Bidding Program Single Payment Amounts and Contract Offers. Retrieved March 24, 2021, from https://www.cms.gov/files/document/round-2021-dmepos-cbp-single-payment-amts-fact-sheet.pdf.
+
+Coronavirus Aid, Relief, and Economic Security Act, §§ 116-136-3212-3712 et seq. (2020). See https://www.congress.gov/116/plaws/publ136/PLAW-116publ136.pdf
+
+The CARES Act increased adjusted fee-schedule amounts for certain DME in non-rural, contiguous non-CBAs to a 75%/25% blended rate.
+
+Centers for Medicare & Medicaid Services. (2022, August 18). Durable Medical Equipment, Prosthetics, Orthotics and Supplies: CMS Flexibilities to Fight COVID-19. Retrieved April 6, 2023, from https://www.cms.gov/files/document/durable-medical-equipment-prosthetics-orthotics-and-supplies-cms-flexibilities-fight-covid-19.pdf
+
+42 CFR § 414.210(g)(9). See https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-414/subpart-D/section-414.210
+
+Department of Health and Human Services. (2020, November 4). Proposed Rule: Medicare Program; Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) Policy Issues and Level II of the Healthcare Common Procedure Coding System (HCPCS). Federal Register. Retrieved April 3, 2021, from https://www.govinfo.gov/content/pkg/FR-2020-11-04/pdf/2020-24194.pdf. See pg. 70370; Section II, Subsection C.
+
+This rule proposed making the 50/50 blended rates in these areas permanent.
+
+42 CFR § 414.210(g)(10). See https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-414/subpart-D/section-414.210
+
+Department of Health and Human Services. (2018, November 14). Final Rule: Medicare Program; End-Stage Renal Disease Prospective Payment System, Payment for Renal Dialysis Services Furnished to Individuals With Acute Kidney Injury, End-Stage Renal Disease Quality Incentive Program, Durable Medical Equipment, Prosthetics, Orthotics and Supplies (DMEPOS) Competitive Bidding Program (CBP) and Fee Schedule Amounts, and Technical Amendments To Correct Existing Regulations Related to the CBP for Certain DMEPOS. Federal Register. Retrieved April 11, 2023, from https://www.govinfo.gov/content/pkg/FR-2018-11-14/pdf/2018-24238.pdf. See pg. 57028; Section VI, Subsection B, Part 1
+
+About BFCC-QIOs. (2019, April 02). Retrieved March 24, 2021, from https://qioprogram.org/about.
+
+Disasters in each county that occurred in 2020 are defined as per the FEMA declaration date in https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v2. Some disasters have an incident date in 2020 but were not declared a disaster until 2021; those are excluded. Number of DME users are obtained from the CMS Integrated Data Repository (IDR) by calculating number of unique beneficiaries enrolled in Part A and Part B who had at least one paid DME claim (claim type 82) in 2020. Number of FFS enrollees in each disaster-affected county were calculated from Medicare Enrollment Dashboard (https://data.cms.gov/collection/cms-program-statistics).
+
+Disasters in each county that occurred in 2020 are defined as per the FEMA declaration date in https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v2. Some disasters have an incident date in 2020 but were not declared a disaster until 2021; those are excluded.
+
+Centers for Medicare & Medicaid Services. (2019, June). Getting Medical Care & Prescription Drugs in a Disaster or Emergency Area. Retrieved March 24, 2021, from https://www.medicare.gov/Pubs/pdf/11377-Care-Drugs-Disaster-Emergency.pdf.
+
+Centers for Medicare & Medicaid Services. (n.d.). Office of Program Operations & Local Engagement. Retrieved March 24, 2021, from https://www.cms.gov/about-cms/cms-leadership/office-program-operations-and-local-engagement.
+
+A temporary gap in the DMEPOS CBP began on January 1, 2019, and competitive bidding contracts expired. See: Department of Health and Human Services. (2018, November 14). Final Rule: Medicare Program; End-Stage Renal Disease Prospective Payment System, Payment for Renal Dialysis Services Furnished to Individuals With Acute Kidney Injury, End-Stage Renal Disease Quality Incentive Program, Durable Medical Equipment, Prosthetics, Orthotics and Supplies (DMEPOS) Competitive Bidding Program (CBP) and Fee Schedule Amounts, and Technical Amendments To Correct Existing Regulations Related to the CBP for Certain DMEPOS. Federal Register. Retrieved April 11, 2023, from https://www.govinfo.gov/content/pkg/FR-2018-11-14/pdf/2018-24238.pdf. See pg. 57028; Section VI, Subsection B, Part 1
+
+Health Insurance Marketplace® is a registered trademark of the Department of Health and Human Services.

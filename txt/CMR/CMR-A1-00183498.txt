@@ -1,0 +1,283 @@
+2018 Farm Bill (H. R. 2—Agriculture Improvement Act of 2018) Public Law No. 115-334. https://www.congress.gov/bill/115th-congress/house-bill/2/text  
+
+Administration of G. W. Bush. 2004. Homeland Security Presidential Directive/HSPD-9—Defense of United States Agriculture and Food. January 30, 2004. Government Publishing Office, Washington, D. C.  
+
+AOSA (Association of Official Seed Analysts). 2014. Rules for Testing Seeds. Association of Official Seed Analysts (AOSA), Washington DC.  
+
+Baskin, C.C. and Baskin, J.M. 1998. Seeds: ecology, biogeography, and evolution of dormancy and germination. Elsevier.  
+
+Bretting, P. K. 2018. 2017 Frank Meyer Medal for Plant Genetic Resources Lecture: Stewards of Our Agricultural Future. Crop Sci. 58:1-8. doi: 10.2135/cropsci2018.05.0334  
+
+Bretting, P.K., and D.N. Duvick. 1997. Dynamic conservation of plant genetic resources. Adv. Agron. 61:1–51. doi:10.1016/S0065-2113(08)60661-6  
+
+Bretting, P. K. and M. P. Widrlechner. 1995. Genetic markers and plant genetic resource management. Plant Breed. Rev. 13 (ed. J. Janick) 11-86  
+
+Brown, A.H.D., C.L. Brubaker, and J.P. Grace. 1997. Regeneration of germplasm samples: Wild versus cultivated plant species. Crop Sci. 37:7–13. doi:10.2135/cropsci1997.0011183X003700010002x  
+
+Byrne, P.E., G.M. Volk, C. Gardner, M.A. Gore, P.W. Simon, and S. Smith. 2018. Sustaining the future of plant breeding: The critical role of the USDA-ARS National Plant Germplasm System. Crop Sci. 58:451–468. doi:10.2135/cropsci2017.05.0303  
+
+Castañeda-Álvarez, N., C.K. Khoury, H.A. Achicanoy, V. Bernau, H. Dempewolf, R.J. Eastwood, et al. 2016. Global conservation priorities for crop wild relatives. Nat. Plants 2:16022. doi:10.1038/nplants.2016.22  
+
+Chebotar, S., M.S. Röder, V. Korzun, B. Saal, W.E. Weber, and A. Börner. 2003. Molecular studies on genetic integrity of open pollinating species rye (Secale cereale L.) after long term genebank maintenance. Theor. Appl. Genet. 107:1469–1476. doi:10.1007/s00122-003-1366-1  
+
+Chen, H., Osuna, D., Colville, L., Lorenzo, O., Graeber, K., Kuester, H., Leubner-Metzger, G. and Kranner, I. 2013. Transcriptome-wide mapping of pea seed ageing reveals a pivotal role for genes related to oxidative stress and programmed cell death. PLoS one, 8(10), p.e78471.  
+
+Clark, R.L., H.L. Shands, P.K. Bretting, and S.A. Eberhart. 1997. Germplasm regeneration: Developments in population genetics and their implications for managing large diverse germplasm collections. Crop Sci. 37:1–6. doi:10.2135/cropsci1997.0011183X003700010001x  
+
+Colmer, J., O'Neill, C.M., Wells, R., Bostrom, A., Reynolds, D., Websdale, D., Shiralagi, G., Lu, W., Lou, Q., Le Cornu, T. and Ball, J. 2020. SeedGerm: a cost‐effective phenotyping platform for automated seed imaging and machine‐learning based phenotypic analysis of crop seed germination. New Phytologist 228(2), pp.778-793.  
+
+Corak, K. E., S. L. Ellison, P. W. Simon, D. M. Spooner, and J. C. Dawson. 2019. Comparison of representative and custom methods of generating core subsets of a carrot germplasm collection. Crop Sci. 59:1107-1121. Doi: 10.2135/cropsci2018.09.0602  
+
+Crossa, J., Hernandez, C. M., Bretting, P., Eberhart, S.A., and Taba, S. 1993. Statistical genetic considerations for maintaining germplasm collections. Theor. Appl. Genet. 86: 673–678.  
+
+Day Rubenstein, K., P. Heisey, R. Shoemaker, J. Sullivan, and G. Frisvold. 2005. Crop Genetic Resources, an Economic Appraisal. USDA Economic Information Bulletin Number 2.  
+
+Della Coletta, R. Y. Qiu, S. Ou, M. B. Hufford, and C. N. Hirsch. 2021. How the pan-genome is changing crop genomics and improvement. BMC Genome Biology 22:3 https://doi.org/10.1186/s13059-020-02224-8  
+
+Dempewolf, H., G. Baute, J. Anderson, B. Kilian, C. Smith, and L. Guarino. 2017. Past and future use of wild relatives in crop breeding. Crop Sci. 57:1070–1082. doi: 10.2135/cropsci2016.10.0885  
+
+De Vitis, M., Hay, F.R., Dickie, J.B., Trivedi, C., Choi, J. and Fiegener, R. 2020. Seed storage: maintaining seed viability and vigor for restoration use. Restoration Ecology, 28, pp. S249-S255.  
+
+Ellis, D., Skogerboe, D., Andre, C., Hellier, B. and Volk, G. 2006. Implementation of garlic cryopreservation techniques in the national plant germplasm system. CryoLetters, 27(2): 99-106.  
+
+Engels, J. M. M., and L. Visser (eds.). 2003 A Guide to Effective Management of Germplasm Collections. IPGRIA Handbooks for Genebanks No. 6, International Plant Genetic Resources Institute, Rome, Italy. 174 p.  
+
+Falk, D. 2016. Pre-domesticating wild relatives as new sources of novel genetic diversity. In: N. Maxted, M.E. Dulloo, and B.V. Ford-Lloyd, editors. Enhancing crop genepool use: Capturing wild relative and landrace diversity for crop improvement. CAB Int., Boston. doi:10.1079/9781780646138.0010  
+
+Fleming, M.B., Richards, C.M. and Walters, C. 2017. Decline in RNA integrity of dry-stored soybean seeds correlates with loss of germination potential. Journal of Experimental Botany, 68(9), pp.2219-2230.  
+
+Fleming, M.B., Patterson, E.L., Reeves, P.A., Richards, C.M., Gaines, T.A. and Walters, C. 2018. Exploring the fate of mRNA in aging seeds: protection, destruction, or slow decay? Journal of Experimental Botany, 69(18), pp.4309-4321.  
+
+Fleming, M.B., Hill, L.M. and Walters, C. 2019. The kinetics of ageing in dry-stored seeds: a comparison of viability loss and RNA degradation in unique legacy seed collections. Annals of Botany, 123(7), pp.1133-1146.  
+
+Food and Agriculture Organization (FAO). 2014 Genebank Standards for Plant Genetic Resources for Food and Agriculture. Rome. Rev. ed. Accessible from http://www.fao.org/3/a-i3704e.pdf  
+
+Fowler, C. 2016. Seeds on ice: Svalbard and the Global Seed Vault. Prospecta Press, Westport, CT.  
+
+Fu, Y.B. 2017. The vulnerability of plant genetic resources conserved ex situ. Crop Sci. 57:2314–2328. doi:10.2135/cropsci2017.01.0014  
+
+Greene, S.L., K. A. Williams, C. K. Khoury, M. B. Kantar, L. F. Marek. 2018. North American Crop Wild Relatives. Volume 1: Conservation Strategies. New York, NY: Springer, Cham. 346 p.  
+
+Greene, S.L., K. A. Williams, C. K. Khoury, M. B. Kantar, L. F. Marek. 2019. North American Crop Wild Relatives. Volume 2: Important Species. New York, NY: Springer, Cham. 740 p.  
+
+GRIN-Global. 2019. Genetic resource collections. https://www.ars-grin.gov/Pages/Collections (accessed 3 Oct. 2019).  
+
+GRIN-Global. 2020. GRIN Taxonomy. https://npgsweb.ars-grin.gov/gringlobal/taxon/abouttaxonomy?chapter=summ (accessed 7 Sept. 2020).  
+
+Grumet, R. Z. Fei, A. Levi, J.D. McCreight, M. Mazourek, M. Palma, J. Schultheis, Y. Weng, M. Hausbeck, S. Kousik, K. Ling, C. McGregor, L.M. Quesada-Ocampo, A.L. Ramirez, U.K. Reddy, L. Ribera, C. Smart, P. Wechter, T.C. Wehner, L. Wessel-Beaver, and W.M. Wintermantel. 2016. CucCAP: Developing genomic resources for the cucurbit community. In Cucurbitaceae 2016, XIth Eucarpia Meeting on Genetics and Breeding of Cucurbitaceae, Warsaw, Poland. E.U. Kozik, and H.S. Paris (eds.). pp. 222-226.  
+
+Haidet, M., and P. Olwell. 2015. Seeds of success: A national seed banking program working to achieve long-term conservation goals. Nat. Areas J. 35:165–173. doi:10.3375/043.035.0118  
+
+Hay, F. R., de Guzman, F. and Sackville Hamilton, N. R. S. 2015. Viability monitoring intervals for genebank samples of Oryza sativa. Seed Sci. Technol. 43(2), 218–237.  
+
+Hay, F.R. and Sershen. 2020. New technologies to improve the ex situ conservation of plant genetic resources. In Plant genetic resources: A review of current research and future needs. Burleigh Dodds Science Publishing 10.19103/AS.2020.0085.14  
+
+Hay, F. R., K. J. Whitehouse, R. H. Ellis, et al. 2021. CGIAR genebank viability data reveal inconsistencies in seed collection management. Global Food Security 30: 100557.  
+
+Hegstad, J. M., R. L. Nelson, S. Renny-Byfield, L. Feng, and J. M. Chaky. 2019. Introgression of novel genetic diversity to improve soybean yield. Theor. Appl. Genet. 132:2541-2552. https://doi.org/10.1007/s00122-019-03369-2  
+
+Heisey, P. and K. Day-Rubenstein. 2015. Using Crop Genetic Resources to Help Agriculture Adapt to Climate Change: Economics and Policy (April 1, 2015). USDA-ERS Economic Information Bulletin Number 139, Available at SSRN: https://ssrn.com/abstract=2709190 or http://dx.doi.org/10.2139/ssrn.2709190  
+
+Hershberger, J., N. Morales, C. C. Simoes, B Ellerbrock, G. Bauchet, L. A. Mueller, and M. A. Gore. 2021. Making waves in Breedbase: an integrated spectral data storage and analysis pipeline for plant breeding programs. The Plant Phenome J. 4:e20012. https://doi.org/10.1002/ppj2.20012  
+
+Hinze, L. L., A. M. Hulse-Kemp, I. W. Wilson, Q. H. Zhu, D. J. Llewellyn et al. 2017. Diversity analysis of cotton (Gossypium hirsutum L.) germplasm using the CottonSNP63K Array. BMC Plant Biol. 17: 37. https://doi.org/10.1186/s12870-017-0981-y  
+
+Holbrook Jr, C.C. 2019. Peanut yield gains over the past fifty years. Peanut Science 46:73-77.  
+
+Holbrook, C.C., T.B. Brenneman, H.T. Stalker, W.C. Johnson III, P. Ozias-Akins, Y. Chu, G. Vellidis, and D. McClusky. 2014. Peanut. In: S. Smith, B. Diers, J. Specht, and B. Carver, editors. Yield Gains in Major U.S. Field Crops. CSSA Special Publication 33. ASA, CSSA, SSSA, Madison, WI. pp. 101–122.  
+
+Houle, D., Govindaraju, D. R. and Omholt, S. 2010. Phenomics: the next challenge. Nat. Rev. Genet. 11, 855–866 (2010).  
+
+Irish, B. M., R. Goenaga, D. Zhang, R. Schnell, J. S. Brown, and J. C. Motomayor. 2010. Microsatellite fingerprinting of the USDA-ARS Tropical Agriculture Research Station Cacao (Theobroma cacao L.) germplasm collection. Crop Sci. 50:656-667. Doi: 10.2135/cropsci2009.06.0299  
+
+Jackson, S.A. 2016. Rice: The First Crop Genome. Rice 9, 14. https://doi.org/10.1186/s12284-016-0087-4
+
+Jansky, S., A. Hamernik, and Y.S. Chung. 2012. M7 germplasm release: A tetraploid clone derived from Solanum infundibuliforme for use in expanding the germplasm base for French fry processing. Am. J. Potato Res. 89:448–452. doi:10.1007/s12230-012-9266-z  
+
+Khoury, C.K., D. Carver, D. W. Barchenger, G. E. Barboza, M. van Zonnefeld, R. Jarret, L. Bohs, M. Kantar, M. Uchanski, K. Mercer, G. P. Nabhan, P. W. Bosland, and S. L. Greene. 2019. Modelled distributions and conservation status of the wild relatives of chile peppers (Capsicum L.). Diversity and Distributions 26(2): 209-225. doi: 10.1111/ddi.1300  
+
+Khoury, C.K., D. Carver, S. L. Greene, K. A. Williams, H. A. Achicanoy, M. Schori, B. León, J H. Wiersema, and A. Frances. 2020. Crop wild relatives of the United States require urgent conservation action. Proc. Natl. Acad. Sci. www.pnas.org/cgi/doi/10.1073/pnas.2007029117  
+
+Khoury, C. K., S. L. Greene, S. Krishnan, A. J. Miller, T. Moreau, K. A. Williams, L. Rodriguez-Bonilla, C. S. Spurrier, J. Zalapa, and G. P. Nabhan. 2020. Toward integrated conservation of North America's Crop Wild Relatives. Natural Areas Journal 40(1): 96-100.  
+
+Khoury, C.K., S. Greene, J. Wiersema, N. Maxted, A. Jarvis, and P.C. Struik. 2013. An inventory of crop wild relatives of the United States. Crop Sci. 53:1496–1508. doi:10.2135/cropsci2012.10.0585  
+
+Khoury, C.K., S. L. Greene, S. Krishnan, A. J. Miller, and T. Moreau. 2019. A road map for conservation, use, and public engagement around North America's crop wild relatives and wild utilized plants. Crop Sci. 59:2302–2307. doi: 10.2135/cropsci2019.05.0309  
+
+Kilian, B., H. Dempewolf, L. Guarino, P. Werner, C. Coyne, and M. L. Warburton. 2020. Crop Science special issue: Adapting agriculture to climate change: A walk on the wild side. Crop Sci. 2020: 1-5. https://doi.org/10.1002/csc2.20418  
+
+Krishnan, S., T. Matsumoto, C. Nagai et al. 2021. Vulnerability of coffee (Coffea spp.) genetic resources in the United States. Genet. Resour. Crop Evol. https://doi.org/10.1007/s10722-021-01217-1  
+
+Kuhn, D. N., N. Dillon, I. Bally, A. Groh, J. Rahaman, E. Warschefsky, B. Freeman, D. Innes, A. H. Chambers. 2019. Estimation of genetic diversity and relatedness in a mango germplasm collection using SNP markers and a simplified visual analysis method. Sci. Horticulturae 253: 156-168. https://doi.org/10.1016/j.scienta.2019.03.037  
+
+Kumar, P. L., M. Cuervo, J. F. Kreuze, G. Muller, G. Kulkarni, S. G. Kumari, S. Massart, M. Mezzalama, A. Alakonya, A. Muchugi, I. Graziosi, M-N. Ndjiondjop, R. Sharma, and A. T. Negawo. 2021. Phytosanitary interventions for safe global germplasm exchange and prevention of transboundary pest spread: the role of CGIAR germplasm health units. Plants 10: 328. https://doi.org/10.3390/plants10020328  
+
+Kurtz, B., C.A.C Gardner, M.J. Millard, T. Nickson, and J. S. C. Smith. 2016. Global access to maize germplasm provided by the U.S. National Plant Germplasm System and by U.S. breeders. Crop Sci. 56:931-941. Doi:10.2135/cropsci2015.07.0439  
+
+Lane, H. M., S. C. Murray, O. A. Montesinos-López, A. Montesinos-López, J. Crossa, D. K. Rooney, I. D. Barrero Farfan, G. N. De La Fuente, C. L. Morgan. 2020. Phenomic prediction of maize grain yield from near-infrared reflectance spectroscopy of kernels with functional regression analyses. The Plant Phenome Journal 3:e20002.  
+
+Li, J., H. Li, J. Chen, L. Yan, and L. Xia. 2020. Toward precision genome editing in crop plants. Molecular Plant 13 (6): 811-813.  
+
+Li, Q., M. Sapotka, and E. van der Knaap. 2020. Perspectives of CRISPR/Cas-mediated cis-engineering in horticulture: unlocking the neglected potential for crop improvement. Hort. Res. 17:36. Doi: 10.1038/s41438-020-0258-8  
+
+Livak, K. J., S. J. Flood, J. Marmaro, W. Giusti, and K. Deetz 1995. Oligonucleotides with fluorescent dyes at opposite ends provide a quenched probe system useful for detecting PCR product and nucleic acid hybridization. PCR Methods Appl 4, 357–362.  
+
+Lusty, C., J. van Beem, and F. R. Hay. 2021. A performance management system for long-term germplasm conservation in CGIAR genebanks: aiming for quality, efficiency, and improvement. Plants 10:2627 https://doi.org/10.3390/plants19122627  
+
+Mead, A. and D. Gray. 1999. Prediction of seed longevity: a modification of the shape of the Ellis and Roberts seed survival curves. Seed Sci. Res. 9(1) 63-73.  
+
+Mira, S., L.M Hill, M.E González-Benito, M.A Ibáñez, and C. Walters. 2016. Volatile emission in dry seeds as a way to probe chemical reactions during initial asymptomatic deterioration. J. Exper. Bot. 67(6):783-1793.  
+
+Montanari, S., J. Postman, N. V. Bassil, D. B. Neale. 2020. Reconstruction of the largest pedigree network for pear cultivars and evaluation of the genetic diversity of the USDA-ARS National Pyrus Collection. G3 Genes|Genomes|Genetics 10:3285-3297. Doi:10.1534./g3.120.401327  
+
+Morales, N., N.S. Kaczmar, N. Santantonio, M.A. Gore, L.A. Mueller, and K.R. Robbins. 2020. ImageBreed: Open-access plant breeding web–database for image-based phenotyping. Plant Phenome J. 3:e20004. https://doi.org/10.1002/ppj2.20004  
+
+Nagel, M., H. Vogel, S. Landjeva, G. Buck-Sorlin, U. Lohwasser, U. Scholz, and A. Börner. 2009. Seed conservation in ex situ genebanks—genetic studies on longevity in barley. Euphytica 170(1), pp.5-14.  
+
+Nelson, R. L., and E. O. C. Johnson. 2006. Registration of soybean germplasm lines LG97-7012, LG98-1445, and LG9-1605. Crop Sci. 46: 1822-1823. doi:10.2135/cropsci2005.07-0221  
+
+O'Brien, C., J. Hiti-Bandaralage, R. Folgado, S. Lahmeyer, A. Hayward, J. Folsom, and N. Mitter. 2020. A method to increase regrowth of vitrified shoot tips of avocado (Persea americana Mill.): First critical step in developing a cryopreservation protocol. Scientia Horticulturae 266: 09305.  
+
+Otyama, P. I., R. Kulkarni, K. Chamberlin. P. Ozias-Akins, Y. Chu, L. M. Lincoln, G. E. MacDonald, N. L. Anglin, S. Dash, D. J. Bertioli, D. Fernandez-Baca, M. A. Graham, S. B. Cannon, E. K. S. Cannon. 2020. Genotypic characterization of the U. S. peanut core collection. G3. Genes|Genomes|Genetics 10:4013-4026. Doi:10.1534/g3.120.401306  
+
+Pammenter, N.W. and P. Berjak. 2014. Physiology of desiccation-sensitive (recalcitrant) seeds and the implications for cryopreservation. Intern. J. of Plant Sci. 175(1):21-28.  
+
+Panis, B. and M. Nagel. 2020. Challenges and prospects for the conservation of crop genetic resources in field genebanks, in in vitro collections and/or in liquid nitrogen. Plants 9(12):1634.  
+
+Pardey, P. G., B. Koo, B.D. Wright, M. E. Van Dusen, B. Skovmand, S. Taba. 2001. Costing the conservation of genetic resources: CIMMYT's ex situ maize and wheat collection. Crop Sci. 41:1286-1299.  
+
+Pence, V.C., D., Ballesteros, C. Walters, B.M Reed, M. Philpott, K.W. Dixon, H.W. Pritchard, T.M. Culley, and A.C Vanhove. 2020. Cryobiotechnologies: Tools for expanding long-term ex situ conservation to all plant species. Biol. Conserv. 250:108736.  
+
+Pedrini, S. and K. W. Dixon. 2020. International principles and standards for native seeds in ecological restoration. Restoration Ecology, 28, pp. S286-S303. https://doi.org/10.1111/rec.13155  
+
+Piepho, H.-P. and E. R. Williams. 2016. Augmented row-column designs for a small number of checks. Agron. J. 108:2256–2262 doi:10.2134/agronj2016.06.0325  
+
+Phillips, G.C. 2004. In vitro morphogenesis in plants-recent advances. In Vitro Cellular & Developmental Biology-Plant, 40(4), pp.342-345.  
+
+Plant Science Research Summit. 2013. Unleashing a decade of innovation in plant science: a vision for 2015-2025. Accessed 24 Aug. 2020 at https://plantsummit.files.wordpress.com/2013/07/plantsciencedecadalvision10-18-13.pdf  
+
+Pollak, L.M., and W. Salhuana. 2001. The germplasm enhancement of maize (GEM) project: Private and public sector collaboration. In: H. Cooper, T. Hodgkin, and C. Spillane, editors. Broadening the genetic base of crop production. CAB Int., Wallingford, UK. doi:10.1079/9780851994116.0319  
+
+PROCINORTE. 2018. What is PROCINORTE? Inter-Am. Inst. Coop. Agric., Ottawa, ON. https://www.procinorte.net/about/ (accessed 5 Aug. 2018).
+
+Pugh, N.A.; D.W. Horne; S.C. Murray, G. Carvalho Jr, L. Malambo, J. Jung, A. Chang, M. Maeda, S. Popescu, G. Richardson, T. Chu, M.J. Starek, M.J. Brewer, and W.L. Rooney. 2018. Temporal estimates of crop growth in sorghum and maize breeding enabled by unmanned aerial systems. The Plant Phenome 1. doi:10.2135/tppj2017.08.0006  
+
+Qualset, C.O., and H.L. Shands. 2005. Safeguarding the future of U.S. agriculture: The need to conserve threatened collections of crop diversity worldwide. Univ. California, Div. Agric. Nat. Res. Genet. Resour. Conserv. Progr., Davis, CA.  
+
+Ramírez-Villegas, J., C. Khoury, A. Jarvis, D.G. Debouck, and L. Guarino. 2010. A gap analysis methodology for collecting crop genepools: A case study with Phaseolus beans. PLoS ONE 5:e13497. doi:10.1371/journal.pone.0013497  
+
+Rao, N. K. N. J. Hanson, M. E. Dulloo, K. Ghosh, A. Nowella, and M. Larinde. 2006. Manual of Seed Handling in Genebanks. Handbooks for Genebanks No. 8, International Plant Genetic Resources Institute, Rome, Italy  
+
+Reed, B.M. 2008. Cryopreservation—practical considerations. In Plant cryopreservation: a practical guide (pp. 3-13). Springer, New York, NY.  
+
+Reed, B. M., F. Engelmann, M. E. Dulloo, and J. M. M. Engels. 2004. Technical Guidelines for the Management of Field and In Vitro Germplasm Collection. IGPRI Handbooks for Genebanks No. 7, International Plant Genetic Resources Institute, Rome, Italy.  
+
+Richards, C. M., D. R. Lockwood, G. M. Volk, and C. Walters. 2010. Modeling demographics and genetic diversity in ex situ collections during seed storage and regeneration. Crop Sci. 50(6): 2440-2447. doi: 10.2135/cropsci2010.04.0236  
+
+Richards, K.W. 2001. Pollination concerns in the conservation of plant genetic resources. Acta Hortic. 561:191–210. doi:10.17660/ActaHortic.2001.561.28  
+
+Rizzi, R., et al. 2002. Practical algorithms and fixed-parameter tractability for the single individual SNP haplotyping problem. In: International Workshop on Algorithms in Bioinformatics. Springer, Berlin, Heidelberg.  
+
+Robinson, P. and F. Ganske. 2014. High speed FRET based SNP genotyping measurement on the PHERAstar.  
+
+Rodriguez-Bonilla, L., K. A. Williams, F. Rodriguez-Bonilla, D. Matusinec, A. Maule, K. Coe, E. Wiesman, L. Diaz-Garcia, and J. Zalapa. 2020. The genetic diversity of cranberry crop wild relatives Vaccinium macrocarpon Aiton and V. oxycoccos L., in the US, with special emphasis on National Forests. Plants 9: 1446. doi:10.3390/plants9111446  
+
+Romay, M.C., M.J. Millard, J.C. Glaubitz, J.A. Peiffer, K.L. Swarts, T.M. Casstevens et al. 2013. Comprehensive genotyping of the USA national maize inbred seed bank. Genome Biol. 14:R55. doi:10.1186/gb-2013-14-6-r55  
+
+Royal Botanic Gardens Kew. 2021. Seed Information Database (SID). Version 7.1. Available from: http://data.kew.org/sid/ (March 2021).  
+
+Sackville Hamilton, N. R. and K. H. Chorlton. 1997. Regeneration of accessions in seed collections: a decision guide. Handbook for Genebanks No. 5. International Plant Genetic Resources Institute, Rome, Italy.  
+
+Schilling, C. H., J. S. Edwards, and B. O. Palsson. 1999. Toward metabolic phenomics: analysis of genomic data using flux balances. Biotechnol. Prog. 15, 288–295.  
+
+Selby, P., et al. 2019. BrAPI-an application programming interface for plant breeding applications. Bioinformatics 35(20):4147-4155.  
+
+Shi, Y., J.A. Thomasson, S.C. Murray, N.A. Pugh, W.L. Rooney, S. Shafian, N. Rajan, G. Rouze, C.L.S. Morgan, H.L. Neely, A. Rana, M.V. Bagavathiannan, J. Henrickson, E. Bowden, J. Valasek, J. Olsenholler, M.P. Bishop, R. Sheridan, E.B. Putman, S. Popescu, T. Burks, D. Cope, A. Ibrahim, B.F. McCutchen, D. Baltensperger, R.V. Avant, M. Vidrine, and C. Yang. 2016. Unmanned aerial vehicles for high-throughput phenotyping and agronomic research. PLoS ONE 11: e0159781. doi:10.1371/journal.pone.0159781  
+
+Simon, P. 2016. Identifying phenotypes, markers, and genes in carrot germplasm to deliver improved carrots to growers and consumers, https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=71338&format=WEBFMT6NT  
+
+Song, Q.J., D.L. Hyten, G. Jia, C.V. Quigley, E.W. Fickus, R.L. Nelson, and P.B. Cregan. 2015. Fingerprinting soybean germplasm and its utility in genomic research. G3 (Bethesda) 5:1999–2006. doi:10.1534/g3.115.019000  
+
+Soulé, M. 1967. Phenetics of natural populations I. Phenetic relationships of insular populations of the side-blotched lizard. Evolution 21, 584–591.  
+
+Tanner, J.D., K.Y. Chen, R.M. Bonnart, I.S Minas, and G.M. Volk. 2020. Considerations for large-scale implementation of dormant budwood cryopreservation. Plant Cell, Tissue and Organ Culture (PCTOC) 1-14.  
+
+Thomashow, M.F. 2010. Molecular basis of plant cold acclimation: insights gained from studying the CBF cold response pathway. Plant Physio. 154(2) 571-577.  
+
+Trachsel, S., S.M. Kaeppler, K.M. Brown, and J.P. Lynch. 2011. Shovelomics: high-throughput phenotyping of maize (Zea mays L.) root architecture in the field. Plant Soil 342: 75-87.  
+
+Tracy, S.R., K.A. Nagel, J.A. Postma, H. Fassbender, A. Wasson, and M. Watt. 2020. Crop improvement from phenotyping roots: Highlights reveal expanding opportunities. Trends in Plant Sci. 25 (1): 105-118. doi.org/10.1016/j.tplants.2019.10.015  
+
+USDA Forest Service and USDA-ARS. 2014. Joint strategic framework on the conservation and use of native crop wild relatives in the United States. FS-1029. USDA, Washington, DC. https://www.fs.fed.us/wildflowers/ethnobotany/documents/cwr/FrameworkNativeCropWildRelativesOct2014.pdf  
+
+USDA National Agricultural Statistics Service, Crop Values 2019 Summary, February 2020. https://www.nass.usda.gov/Publications/Todays_Reports/reports/cpvl0220.pdf  
+
+U.S. General Accounting Office (GAO). 1997. Report to Congressional Committees. U.S. Department of Agriculture. Information on the Condition of the National Plant Germplasm System. GAO/RCED-98-20.  
+
+Volk, G.M., R. Bonnart, R. Krueger, and R. Lee. 2012. Cryopreservation of citrus shoot tips using micrografting for recovery. CryoLetters, 33(6): 418-426.  
+
+Volk, G. M., P. K. Bretting, and P. F. Byrne. 2019. Survey identifies essential plant genetic resources training program components. Crop Sci. 59:2308-2316. doi: 10.2135/cropsci2019.05.0324  
+
+Volk, G.M., C.T. Chao, J. Norelli, S.K. Brown, G. Fazio, C. Peace, et al. 2015. The vulnerability of U.S. apple (Malus) genetic resources. Genet. Resour. Crop Evol. 62:765–794. doi:10.1007/s10722-014-0194-2  
+
+Volk G.M., A. D. Henk, M. Jenderek, and C.M, Richards. 2017. Probabilistic viability calculations for cryopreserving vegetatively propagated collections in genebanks. Genetic Resour. Crop Evol. 64:1613-1622.  
+
+Volk, G.M., A.D. Henk, P.L. Forsline, A.K. Szewc-McFadden, G. Fazio, H. Aldwinckle, and C.M. Richards. 2017. Seeds capture the diversity of genetic resource collections of Malus sieversii maintained in an orchard. Genetic Resour. Crop Evol. 64(7):1513-1528.  
+
+Volk G.M., M. Jenderek, and C. T. Chao. 2017. Prioritization of Malus accessions for collection cryopreservation at the USDA-ARS National Center for Genetic Resources Preservation. Acta Hort. 1172:267-272.  
+
+Volk, G.M. and C. Walters. 2004. Preservation of genetic resources in the national plant germplasm clonal collections. Plant Breeding Rev. 23: 291-344.  
+
+Walters, C., L. Wheeler, and P. C. Stanwood. 2004. Longevity of cryogenically stored seeds. Cryobiology 48(3): 229-244.  
+
+Walters, C., L. M. Wheeler, and J. M. Grotenhuis. 2005. Longevity of seeds stored in a genebank: species. Seed Sci. Res. 15: 1-20.  
+
+Walters, C., D. Ballesteros, and V. A. Vertucci. 2010. Structural mechanics of seed deterioration: standing the test of time. Plant Sci. 179(6): 565-573.  
+
+Walters, C., P. Berjak, N. Pammenter, K. Kennedy, and P. Raven. 2013. Preservation of recalcitrant seeds. Science 339(6122): 915-916.  
+
+Walters, C., C. M. Richards, and G. M. Volk. 2018. Genebank conservation of germplasm collected from wild species. In North American Crop Wild Relatives, Volume 1, 245-280. Springer, Cham.  
+
+Walters, C. and V. C. Pence. 2020. The unique role of seed banking and cryobiotechnologies in plant conservation. Plants, People, Planet. https://doi.org/10.1002/ppp3.10121  
+
+Wang, Q.C., B. Panis, F. Engelmann, M. Lambardi, and J.P.T. Valkonen. 2009. Cryotherapy of shoot tips: a technique for pathogen eradication to produce healthy planting materials and prepare healthy plant genetic resources for cryopreservation. Annals Appl. Biol. 154 3:351-363.  
+
+Watt, M., F. Fiorani, B. Usadel, U. Rascher, O. Muller, and U. Schurr. 2020. Phenotyping: new windows into the plant for breeders. Ann. Rev. Plant Bio. 71: 689-712.  
+
+Weise, S., U. Lohwasser, and M. Oppermann. 2020. Document or lose it—On the importance of information management for genetic resources conservation in genebanks. Plants 9: 1050 1-13 doi:10.3390/plants9081050  
+
+Weitbrecht, K., K. Müller, and G. Leubner-Metzger. 2011. First off the mark: early seed germination. J. Experimental Bot. 62(10): 3289-3309.  
+
+White, A., J. B. Fant, K. Havens, M. Skinner, and A. T. Kramer. 2018. Restoring species diversity: assessing capacity in the U.S. native plant industry. Restor. Ecol. 26(4) 605-611.  
+
+Wiesner-Hanks, T., H. Wu, E. Stewart, C. DeChant, N. Kaczmar, H. Lipson, M. A. Gore, and R. J. Nelson. 2019. Millimeter-level plant disease detection from aerial photographs via deep learning and crowdsourced data. Frontiers Plant Sci. 10:1550 doi: 10.3389/fpls.2019.01550  
+
+Wilkie, A. P., A. V. Brown, S. B. Cannon, and E. K. S. Cannon. 2020. GCViT: a method for interactive, genome-wide visualization of resequencing and SNP array data. BMC Genomics 21: 822. https://doi.org/10.1186/s12864-020-07217-2  
+
+Williams, K.A. 2005. An overview of the U.S. National Plant Germplasm System's exploration program. HortScience 40:297–301.  
+
+Williams, K. A., and S.L. Greene. 2018. Conservation of Crop Wild Relatives in the USA. Pp. 97-154 In S. L. Greene, K. A. Williams, C. K. Khoury, M. B. Kantar, L. F. Marek, eds. North American Crop Wild Relatives. Vol. 1. Springer International Publishing AG.  
+
+Xie, M., and J. Wang. 2007. An improved (and practical) parameterized algorithm for the individual haplotyping problem MFR with mate-pairs. Algorithmica 52, 250–266.  
+
+Yang, W. et al. 2020. Crop Phenomics and High-Throughput Phenotyping: Past Decades, Current Challenges, and Future Perspectives. Mol Plant 13, 187–214.  
+
+Administration of G. W. Bush. 2004. Homeland Security Presidential Directive/HSPD-9—Defense of United States Agriculture and Food. January 30, 2004. Government Publishing Office, Washington, D. C.  
+
+Byrne, P.E., G.M. Volk, C. Gardner, M.A. Gore, P.W. Simon, and S. Smith. 2018. Sustaining the future of plant breeding: The critical role of the USDA-ARS National Plant Germplasm System. Crop Sci. 58:451–468. doi:10.2135/cropsci2017.05.0303  
+
+Engels, J. M. M., and L. Visser (eds.). 2003 A Guide to Effective Management of Germplasm Collections. IPGRIA Handbooks for Genebanks No. 6, International Plant Genetic Resources Institute, Rome, Italy. 174 p.  
+
+Hay, F. R., K. J. Whitehouse, R. H. Ellis, et al. 2021. CGIAR genebank viability data reveal inconsistencies in seed collection management. Global Food Security 30: 100557.  
+
+Irish, B. M., R. Goenaga, D. Zhang, R. Schnell, J. S. Brown, and J. C. Motomayor. 2010. Microsatellite fingerprinting of the USDA-ARS Tropical Agriculture Research Station Cacao (Theobroma cacao L.) germplasm collection. Crop Sci. 50:656-667. Doi: 10.2135/cropsci2009.06.0299  
+
+Khoury, C.K., D. Carver, S. L. Greene, K. A. Williams, H. A. Achicanoy, M. Schori, B. León, J. H. Wiersema, and A. Frances. 2020. Crop wild relatives of the United States require urgent conservation action. Proc. Natl. Acad. Sci. www.pnas.org/cgi/doi/10.1073/pnas.2007029117  
+
+Lusty, C., J. van Beem, and F. R. Hay. 2021. A performance management system for long-term germplasm conservation in CGIAR genebanks: aiming for quality, efficiency, and improvement. Plants 10:2627 https://doi.org/10.3390/plants19122627  
+
+Rao, N. K., J. Hanson, M. E. Dulloo, K. Ghosh, A. Nowella, and M. Larinde. 2006. Manual of Seed Handling in Genebanks. Handbooks for Genebanks No. 8, International Plant Genetic Resources Institute, Rome, Italy  
+
+Reed, B. M., F. Engelmann, M. E. Dulloo, and J. M. M. Engels. 2004. Technical Guidelines for the Management of Field and In Vitro Germplasm Collection. IGPRI Handbooks for Genebanks No. 7, International Plant Genetic Resources Institute, Rome, Italy  
+
+Weise, S., U. Lohwasser, and M. Oppermann. 2020. Document or lose it—On the importance of information management for genetic resources conservation in genebanks. Plants 9: 1050 1-13 doi:10.3390/plants9081050

@@ -1,0 +1,315 @@
+110th Congress. (2008). H.R.2419 - Food, Conservation, and Energy Act of 2008. Retrieved from Congress.Gov: https://www.congress.gov/bill/110th-congress/house-bill/2419/text
+
+ACR. (2018, May). ACR Validation and Verification Standard. Retrieved from American Carbon Registry: https://americancarbonregistry.org/carbon-accounting/standards-methodologies/acr-validation-and-verification-standard-1/acr-vv-standard_v1-1_may-31-2018.pdf
+
+ACR. (2022, July). Improved Forest Management (IFM) on Non-Federal U.S. Forestlands. Retrieved from American Carbon Registry: https://americancarbonregistry.org/carbon-accounting/standards-methodologies/improved-forest-management-ifm-methodology-for-non-federal-u-s-forestlands
+
+ACR. (2023, August 31). Validation and Verification. Retrieved from American Carbon Registry: https://americancarbonregistry.org/carbon-accounting/verification/verification
+
+ACR. (n.d.). Inactive Methodologies. Retrieved from American Carbon Registry: https://americancarbonregistry.org/carbon-accounting/standards-methodologies/inactive-methodologies
+
+Angers, D. A., & Eriksen-Hamel, N. S. (2008). Full-Inversion Tillage and Organic Carbon Distribution in Soil Profiles: A Meta-Analysis. Soil Science Society of America Journal, 1370-1374.
+
+Badgley, G., Freeman, J., Hamman, J. J., Haya, B., Trugman, A. T., Anderegg, W. R., & Cullenward, D. (2022). Systematic over-crediting in California's forest carbon offsets program. Global Change Biology, 28(4), 1433-1445. doi: 10.1111/gcb.15943
+
+Batker, D. T. (2010). Gaining ground: Wetlands, hurricanes, and the economy: the value of restoring the Mississippi River Delta. Environmental Law Reporter(40), 11106 – 11110.
+
+Bennett, G. C. (2016). AN ATLAS OF ECOSYSTEM MARKETS IN THE UNITED STATES. Retrieved from Ecosystem Marketplace: https://www.forest-trends.org/wp-content/uploads/2017/03/doc_5440.pdf
+
+Biggs, N. B., Hafner, J., Mashiri, F. E., Huntsinger, L., & Lambin, E. F. (2021). Payments for ecosystem services within the hybrid governance model: evaluating policy alignment and complementarity on California rangelands. Ecology and Society, 26(1). doi:https://doi.org/10.5751/ES-12254-260119
+
+Blaufelder, C. L. (2021). A blueprint for scaling voluntary carbon markets to meet the climate challenge. Retrieved from https://www.mckinsey.com/capabilities/sustainability/our-insights/a-blueprint-for-scaling-voluntary-carbon-markets-to-meet-the-climate-challenge
+
+BloombergNEF. (2023a, July 18). Long-Term Carbon Offsets Outlook 2023. Retrieved from Bloomberg: https://www.bloomberg.com/professional/blog/long-term-carbon-offsets-outlook-2023/
+
+BloombergNEF. (2023b). Carbon Offset Market Could Reach $1 Trillion With Right Rules. Retrieved from Bloomberg: https://about.bnef.com/blog/carbon-offsetmarket-could-reach-1-trillion-with-right-rules
+
+Bolinder, M. A., Crotty, F., Elsen, A., Franc, M., Kismányoky, T., Lizpiec, J., . . . Kätterer, T. (2020). The effect of crop residues, cover crops, manures and nitrogen fertilization on soil organic carbon changes in agroecosystems: a synthesis of reviews. Mitigation and Adaptation Strategies for Global Change volume, 929–952.
+
+Burrill, E. A. (2021). The Forest Inventory and Analysis database: Database description and user guide version 9.0.1 for phase 2. U.S. Department of Agriculture, Forest Service.
+
+California Climate Investments. (2023). 2023 Annual Report Cap-and-Trade Auction Proceeds. State of California. Retrieved from https://www.caclimateinvestments.ca.gov/annual-report#block-yui_3_17_2_1_1694124966544_392413
+
+California Department of Fish and Wildlife. (n.d.). Conservation and Mitigation Banking. Retrieved from California Department of Fish and Wildlife: https://wildlife.ca.gov/Conservation/Planning/Banking
+
+California State Legislature. (2016, September 19). Senate Bill No. 1383. Retrieved from https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160SB1383
+
+Callahan, S., & Hellerstein, D. (2022). Access to Farmland by Beginning and Socially Disadvantaged Farmers: Issues and Opportunities. Washington D.C.: U.S. Department of Agriculture, Economic Research Service. Retrieved from https://www.ers.usda.gov/webdocs/publications/105396/ap-096.pdf?v=403.4
+
+CAR. (2021, March 12). Program Manuals and Policies. Retrieved from Climate Action Reserve: https://www.climateactionreserve.org/how/program-resources/program-manual/
+
+CAR. (2022, May 31). U.S. Soil Enrichment Protocol. Retrieved from CAR: https://www.climateactionreserve.org/wp-content/uploads/2023/07/Soil-Enrichment-Protocol-V_1.1-final-1.pdf
+
+CAR. (2023a, August 31). Connect with a verification body. Retrieved from Climate Action Reserve: https://www.climateactionreserve.org/how/verification/connect-with-a-verification-body/
+
+CAR. (2023b, September 12). U.S. and Canada Biochar Protocol. Retrieved from Climate Action Reserve: https://www.climateactionreserve.org/how/protocols/ncs/biochar/dev/
+
+CAR. (2023c, July 20). U.S. Forest Protocol, Version 5.1. Retrieved from CAR: https://www.climateactionreserve.org/wp-content/uploads/2023/07/Final_Forest_Protocol_V5.1_7.14.2023.pdf
+
+CAR. (n.d.-b). Climate Forward. Retrieved from Climate Forward: https://climateforward.org/
+
+CAR. (n.d.-c). Climate Forward Registry. Retrieved from Climate Forward: https://climateforward.apx.com/myModule/rpt/myrpt.asp?r=111
+
+CAR. (n.d.). Protocols. Retrieved from Climate Action Reserve: https://www.climateactionreserve.org/how/protocols/
+
+CARB. (2015). Compliance Offset Protocol Rice Cultivation Projects. Retrieved from https://ww2.arb.ca.gov/sites/default/files/cap-and-trade/protocols/rice/riceprotocol2015.pdf
+
+CARB. (2018). Subchapter 10. Climate Change Article 4. Regulations to Achieve Greenhouse Gas Emission Reductions Subarticle 7. Low Carbon Fuel Standard. Retrieved from https://ww2.arb.ca.gov/sites/default/files/barcu/regact/2018/lcfs18/frolcfs.pdf
+
+CARB. (2019, April). Subchapter 10. Climate Change. Article 5. California Cap on Greenhouse Gas Emissions and Market-Based Compliance Mechanisms. Retrieved from https://govt.westlaw.com/calregs/Browse/Home/California/CaliforniaCodeofRegulations?guid=I12F6AF605A2111EC8227000D3A7C4BC3&originationContext=documenttoc&transitionType=Default&contextData=(sc.Default)
+
+CARB. (2023, September 28). California Low Carbon Fuel Standard. Retrieved from CARB: https://ww2.arb.ca.gov/sites/default/files/barcu/board/books/2023/092823/23-8-1pres.pdf
+
+CARB. (2023a, July 31). Low Carbon Fuel Standard Reporting Tool Quarterly Summaries. Retrieved August 17, 2023, from California Air Resources Board: https://ww2.arb.ca.gov/resources/documents/low-carbon-fuel-standard-reporting-tool-quarterly-summaries
+
+CARB. (2023b, August 17). Offset Verification. Retrieved from California Air Resources Board: https://ww2.arb.ca.gov/our-work/programs/compliance-offset-program/offset-verification
+
+CARB. (2023d, February 1). Summary of Market Transfers Report. Retrieved August 8, 2023, from California Air Resources Board: https://ww2.arb.ca.gov/our-work/programs/cap-and-trade-program/program-data/summary-market-transfers-report
+
+CARB. (n.d.-a). CA-GREET3.0 Model and Tier 1 Simplified Carbon Intensity Calculators. Retrieved from LCFS Life Cycle Analysis Models and Documentation: https://ww2.arb.ca.gov/resources/documents/lcfs-life-cycle-analysis-models-and-documentation
+
+CARB. (n.d.-b). Compliance Offset Protocols. Retrieved from CARB: https://ww2.arb.ca.gov/our-work/programs/compliance-offset-program/compliance-offset-protocols
+
+CARB. (n.d.-c). Low Carbon Fuel Standard. About. Retrieved from https://ww2.arb.ca.gov/our-work/programs/low-carbon-fuel-standard/about
+
+CCQI. (n.d.). The Carbon Credit Quality Initiative. Retrieved from CCQI: https://carboncreditquality.org/
+
+Clark, A. (2015). Cover Crops for Sustainable Crop Rotations. Retrieved from Sustainable Agriculture Research and Education: https://www.sare.org/resources/cover-crops/
+
+Code of Virginia. (n.d.). 62.1-44.19:15. New or expanded facilities. Retrieved from https://law.lis.virginia.gov/vacode/title62.1/chapter3.1/section62.1-44.19:15/
+
+Conservation International & We Mean Business Coalition. (2023). CORPORATE MINDS ON CLIMATE ACTION. Retrieved from https://www.wemeanbusinesscoalition.org/wp-content/uploads/2023/01/Corporate-Minds-On-Climate-Action-Report.pdf
+
+Department of Ecology, State of Washington. (n.d.-a). Clean Fuel Standard. Retrieved from https://ecology.wa.gov/Air-Climate/Reducing-Greenhouse-Gas-Emissions/Clean-Fuel-Standard
+
+Department of Ecology, State of Washington. (n.d.-b). Clean Fuel Standard requirements for participation. Retrieved from https://ecology.wa.gov/Air-Climate/Reducing-Greenhouse-Gas-Emissions/Clean-Fuel-Standard/Requirements#CI
+
+Diaz, D., Rashford, B., De Gryze, S., Zakreski, S., Dell, R., & Niles, M. (2015, April). Evaluation of Avoided Grassland Conversion and Cropland Conversion to Grassland as Potential Carbon Offset Project Types. Retrieved from Climate Action Reserve: https://www.climateactionreserve.org/wp-content/uploads/2012/12/AGC_and_CCG_Issue_Paper_2015_Revision.pdf
+
+Environmental Incentives. (n.d.). Central Valley Habitat Exchange. Retrieved from https://enviroincentives.com/projects/central-valley-habitat-exchange/#:~:text=With%2070%20percent%20of%20the,a%20commodity%2C%20just%20like%20crops
+
+ERS. (2019, November 7). Characteristics of principal farm operator households, by limited-resource farm status, 2016. Retrieved August 28, 2023, from Farm Household Income and Characteristics: https://www.ers.usda.gov/data-products/farm-household-income-and-characteristics/
+
+Family Forest Carbon Program. (n.d.). Why Family-Owned Forests & Carbon Markets? Retrieved from Family Forest Carbon Program: https://familyforestcarbon.org/our-approach/who-we-are/
+
+Fargione, e. a. (2018). Natural climate solutions for the United States. Science Advances, 4(11).
+
+Farm Foundation. (2022, May). The U.S. Voluntary Agricultural Carbon Market: Where to From Here? Retrieved from Farm Foundation: https://d2fxn1d7fsdeeo.cloudfront.net/farmfoundation.com/wp-content/uploads/2022/05/05134305/FAF9017-01_Ag-Econ_issue_v2FINAL.pdf
+
+Farm Journal. (2020, December). How Some Leading Carbon Markets Compare. Retrieved from AgWeb.com: https://cdn.farmjournal.com/2020-12/FarmJournal-ACAM2020Report-CarbonMarkets_0.pdf
+
+Farm Journal Editors. (2021, February 16). Clarity On Carbon’s Potential: Compare Nine of the Leading Markets. Retrieved from AgWeb: https://www.agweb.com/news/business/technology/clarity-carbons-potential-compare-nine-leading-markets
+
+FOCCE. (n.d.). Forest Owner Carbon and Climate Education. Retrieved from https://sites.psu.edu/focce/
+
+Gold Standard. (2021). Scope 3 Value Chain Interventions Guidance. Retrieved from https://www.goldstandard.org/our-story/valuechange-scope3-solutions
+
+Gramig, B. M., & Widmar, N. J. (2018). Farmer Preferences for Agricultural Soil Carbon Sequestration Schemes. Applied Economic Perspectives and Policy, 502-521.
+
+Greenhouse Gas Monitoring and Measurement Interagency Working Group. (2023). Federal Strategy to Advance Greenhouse Gas Emissions Measurement and Monitoring for the Agriculture and Forest Sectors. Washington D.C.: U.S. Department of Agriculture. doi:https://www.usda.gov/sites/default/files/documents/Draft-Federal-Ag-and-Forest-MMRV-Strategy.pdf
+
+Guizar-Coutino, A., Jones, J. P., Balmford, A., Carmenta, R., & Coomes, D. A. (2022, June). A global evaluation of the effectiveness of voluntary REDD+ projects at reducing deforestation and degradation in the moist tropics. Conservation Biology, e13970.
+
+Haya, B. K., Evans, S., Brown, L., Bukoski, J., Butsic, V., Cabiyo, B., . . . Sanchez, D. L. (2023). Comprehensive review of carbon quantification by improved forest management offset protocols. Frontiers in Forests and Global Change, 6, 1-17. doi:10.3389/gc.2023.95887
+
+Haya, B., Cullenward, D., Strong, A. L., Grubert, E., Heilmayr, R., Sivas, D. A., & Wara, M. (2020). Managing uncertainty in carbon offsets: insights from California’s standardized approach. Climate Policy, 20(9), 1112-1126. doi:10.1080/14693062.2020.1781035
+
+Hillier, J., Smith, P., Bandel, T., Daniels, S., Malin, D., Hamilton, H., & Walter, C. (2011). Farm-Scale Greenhouse Gas Emissions Using the Cool Farm Tool. In E. Wollenberg, M.-L. Tapio-Bistrom, M. Grieg-Gran, & A. Nihart, Climate Change Mitigation and Agriculture (p. 456). London: Routledge.
+
+ICAO. (2019). 2019 Environmental Report: Destination Green – The Next Chapter. Retrieved from ICAO: https://www.icao.int/environmental-protection/Documents/ICAO-ENV-Report2019-F1-WEB%20(1).pdf
+
+ICAO Environment. (n.d.). Technical Advisory Body (TAB). Retrieved from ICAO Environment: https://www.icao.int/environmental-protection/CORSIA/Pages/TAB.aspx
+
+ICVCM. (2022). Our Work. Retrieved from ICVCM: https://icvcm.org/our-work/
+
+ICVCM. (2023, July 26). Core Carbon Principles, Assessment Framework and Assessment Procedure. Retrieved from Integrity Council for the Voluntary Carbon Market: https://icvcm.org/wp-content/uploads/2023/07/CCP-Book-R2-FINAL-26Jul23.pdf
+
+Iowa State University Extension and Outreach. (March 2023). How to Grow and Sell Carbon Credits in US Agriculture. Ames, Iowa: Iowa State University Extension and Outreach.
+
+IPCC. (2019). Chapter 3: Uncertainties. In E. Calvo Buendia, K. Tanabe, A. Kranjc, J. Baasansuren, M. Fukuda, S. Ngarize, . . . S. Federici, 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories. Switzerland: Intergovernmental Panel on Climate Change.
+
+ISAP. (2023). An Overview of Voluntary Carbon Markets for Illinois Farmers. Retrieved from https://ilsustainableag.org/wp-content/uploads/2023/06/ISAP-Ecosystem-Markets-Comparison-Table-2023.pdf
+
+ISO. (2020, December 1). ISO 14065:2020 General principles and requirements for bodies validating and verifying environmental information. Retrieved September 1, 2023, from International Organization of Standards: https://www.iso.org/standard/74257.html
+
+Jenkins, W. A. (2010). Valuing ecosystem services from wetlands restoration in the Mississippi Alluvial Valley. Ecological Economics(69), 1051 – 1061.
+
+Johnson, L., Shapiro, C. A., Moody, L. B., & Snyder, C. S. (2018). Assessing Nitrogen Management in Corn for Nitrous Oxide Emissions: How Field to Market Is Approaching the Challenge. 2018 ASA and CSSA Meeting. Baltimore.
+
+Key, N., & Lyons, G. (2019). An Overview of Beginning Farms and Farmers. U.S. Department of Agriculture, Economic Research Service. Washington, D.C.: U.S. Department of Agriculture. Retrieved from https://www.ers.usda.gov/publications/pub-details/?pubid=95009
+
+Kollmuss, A., & Lazarus, M. (2011). Discounting offsets: issues and options. Carbon Management, 539-549. doi:10.4155/cmt.11.49
+
+Kurbanov, O. (2023, March 31). California Cap-and-Trade: Positive Market Outlook Ahead of Upcoming Market Reforms. Retrieved from KraneShares: https://kraneshares.com/california-cap-and-trade-positive-market-outlook-ahead-of-upcoming-market-reforms/
+
+Lakhani, N. (2023, September 19). Revealed: top carbon offset projects may not cut planet-heating emissions. The Guardian, pp. https://www.theguardian.com/environment/2023/sep/19/do-carbon-credit-reduce-emissions-greenhouse-gases.
+
+Ledo, A., Smith, P., Zerihun, A., Whitaker, J., Vincente-Vincente, J. L., Qin, Z., & McNamara, N. P. (2020). Changes in soil organic carbon under perennial crops. Global Change Biology, 4158-4168.
+
+Levasseur, A., Brandao, M., Lesage, P., Margni, M., Pennington, D., Clift, R., & Samson, R. (2012, January). Valuing temporary carbon storage. Nature Climate Change, 2.
+
+Luo, Z., Wang, E., & Sun, O. J. (2010). Can no-tillage stimulate carbon sequestration in agricultural soils? A meta-analysis of paired experiments. Agriculture, Ecosystems & Environment, 139(1-2), 224-231. doi:https://doi.org/10.1016/j.agee.2010.08.006
+
+Mack, S. L. (2022). A blue carbon pilot project: Lessons learned. Carbon Management, 13(1), 420-434.
+
+Malhi, S. G., Kaur, M., & Kaushik, P. (2018). Factors Influencing Farmers’ Adoption of Best Management Practices: A Review and Synthesis. Sustainability, 432.
+
+Marland, G., Fruit, K., & Sedjo, R. (2001). Accounting for sequestered carbon: the question of permanence. Environmental Science & Policy, 4(6), 259-268. doi:https://doi.org/10.1016/S1462-9011(01)00038-7
+
+Marshall, L., & Kelly, A. (2010). The Time Value of Carbon and Carbon Storage:. World Resources Institute, 1-23. doi:http://dx.doi.org/10.2139/ssrn.1
+
+McKinsey & Company. (2022, September 23). Voice of the US farmer in 2022: Innovating through uncertainty. Retrieved from McKinsey & Company: https://www.mckinsey.com/industries/agriculture/our-insights/voice-of-the-us-farmer-in-2022-innovating-through-uncertainty
+
+Here are the remaining bibliographies formatted as one entry per line (without bullet points):  
+
+Michigan State University. (n.d.). Department of Forestry, Forest Carbon and Climate Program. Retrieved from https://www.canr.msu.edu/fccp/  
+
+Millennium Ecosystem Assessment. (2003). Ecosystems and Human Well-being: A Framework for Assessment. Retrieved from http://millenniumassessment.org/documents/document.48.aspx.pdf  
+
+Miller, K. A. (2012). An assessment of forest landowner interest in selling forest carbon credits in the Lake States, USA. Forest Policy and Economics, 25, 113-122.  
+
+Morgan Stanley. (2023, April). Where the Carbon Offset Market Is Poised to Surge. Retrieved from https://www.morganstanley.com/ideas/carbon-offset-market-growth  
+
+Murray, L. C. (2023). Chapter 5: Quantifying Greenhouse Gas Sources and Sinks in Managed Forest Systems. In Quantifying Greenhouse Gas Fluxes in Agriculture and Forestry: Methods for Entity‐Scale Inventory (p. XXX). Office of the Chief Economist, U.S. Department of Agriculture.  
+
+News Link Environmental. (2005). Virginia Gov. Mark Warner signs historic environmental legislation. Retrieved from News Link Environmental: http://www.theexchangeassociation.org/wp-content/uploads/sites/8/2014/01/9.-Gov-Warner-Signs-legislation.pdf  
+
+Nori. (2020, November 2). Croplands Methodology. Version 1.1. Retrieved from Nori: https://storage.googleapis.com/nori-prod-cms-uploads/croplands_methodology_fd89c6144d/croplands_methodology_fd89c6144d.pdf  
+
+Nori. (n.d.). Nori. Retrieved from Nori: https://nori.com/  
+
+ODEQ. (2023). Carbon Intensity Values. Retrieved from https://www.oregon.gov/deq/FilterDocs/cfp-All-CIs.xlsx  
+
+Office of the Governor - State of Oregon. (2020, March 10). Executive Order No. 20-04. Retrieved from State of Oregon: https://www.oregon.gov/gov/eo/eo_20-04.pdf  
+
+Ogle, S. B. (2010). Scale and uncertainty in modeled soil organic carbon stock changes for US croplands using a process‐based model. Global Change Biology, 820-822.  
+
+Ogle, S. M., Alsaker, C., Baldock, J., Bernoux, M., Breidt, F. J., McConkey, B., . . . Vazquez-Amabile, G. G. (2019). Climate and Soil Characteristics Determine Where No-Till Management Can Store Carbon in Soils and Mitigate Greenhouse Gas Emissions. Scientific Reports, 9. doi:https://doi.org/10.1038/s41598-019-47861-7  
+
+O'Hara, J. K., Xiarchos, I. M., & Weber, C. (2023). Credits in California’s Offset and Biofuel Programs for Anaerobic Digesters. Choices, 38, 6. Retrieved from https://www.choicesmagazine.org/choices-magazine/submitted-articles/credits-in-californias-offset-and-biofuel-programs-for-anaerobic-digesters  
+
+Oswalt, S. N., Smith, W., Miles, P. D., & Pugh, S. A. (2019, March). Forest Resources of the United States, 2017: A Technical Document Supporting the Forest Service 2020 RPA Assessment. Retrieved from USDA: https://www.fs.usda.gov/research/publications/gtr/gtr_wo97.pdf  
+
+Pannell, D. J. (2020). The Roles of Adoption and Behavior Change. Applied Economic Perspectives and Policy, 31-41.  
+
+Parkhurst, R. T., Moore, L., Wright, R., & Perez, M. (2023, August). Agricultural Carbon Programs: From Chaos to Systems Change [White paper]. Retrieved from American Farmland Trust: https://farmlandinfo.org/publications/ag-carbon-programs-chaos-to-systems-change/  
+
+Proville, J., Parkhurst, R., Koller, S., Kroopf, S., Baker, J., & Salas, W. (2020). Agricultural Offset Potential in the United States: Economic and Geospatial Insights. SSRN, https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3699751.  
+
+Rathi, A., White, N., & Pogkas, D. (2022, November 20). Junk Carbon Offsets Are What Make These Big Companies 'Carbon Neutral'. Bloomberg Green, pp. https://www.bloomberg.com/graphics/2022-carbon-offsets-renewable-energy/#xj4y7vzkg.  
+
+RGGI. (n.d.-a). The Regional Greenhouse Gas Initiative. Retrieved from RGGI: https://www.rggi.org/  
+
+RGGI. (n.d.-b). Offsets. Retrieved from RGGI: https://www.rggi.org/allowance-tracking/offsets  
+
+RGGI. (n.d.-c). Public: Offsets. Retrieved from RGGI CO2 Allowance Tracking System: https://rggi-coats.org/eats/rggi/index.cfm?fuseaction=search.project_offset&clearfuseattribs=true  
+
+RIBITS. (n.d.). Rogue Valley. Retrieved from Regulatory In-lieu Fee and Bank Information Tracking System: https://ribits.ops.usace.army.mil/ords/f?p=107:10:5295484795722::NO::P10_BANK_ID:2589  
+
+Santos, J., Monzini Taccone di Sitizano, J., Pedersen, E., & Borgomeo, E. (2022). Investing in carbon neutrality – Utopia or the new green wave? Challenges and opportunities for agrifood systems. Rome: FAO.  
+
+Sass, E. C. (2022). United States Family Forest Owners’ Awareness of and Participation in Carbon Sequestration Programs: Initial Findings from the USDA Forest Service National Woodland Owner Survey. Forest Science, 68(5-6), 447-451.  
+
+Securing Northeast Forest Carbon Program. (n.d.). Retrieved from Securing Northeast Forest Carbon Program: https://www.northeastforestcarbon.org/  
+
+Smith, J., & Parkhurst, R. (2018). Opportunities for Agricultural Producers to Participate in Compliance and Voluntary Carbon Markets. SocArXiv Papers, https://osf.io/preprints/socarxiv/yrfgz/.  
+
+So, I. S., Haya, B. K., & Elias, M. (2023, May). Voluntary Registry Offsets Database v8. Retrieved from Berkeley Carbon Trading Project: https://gspp.berkeley.edu/faculty-and-impact/centers/cepp/projects/berkeley-carbon-trading-project/offsets-database  
+
+Stapp, J. R. (2022). Early indications of effectiveness in California's forest offset program. UC Berkeley.  
+
+Taylor, A. (n.d.). How to integrate remote sensing into the forest carbon market, the right way. Retrieved from American Carbon Registry: https://americancarbonregistry.org/news-events/program-announcements/how-to-integrate-remote-sensing-into-the-forest-carbon-market-the-right-way  
+
+The Environmental Trading Network. (n.d.). WQT and Offset Programs by State. Retrieved from http://www.envtn.org/water-quality-trading/state-programs  
+
+Trouwloon, D., Streck, C., Chagas, T., & Martinus, G. (2023). Understanding the Use of Carbon Credits by Companies: A Review of the Defining Elements of Corporate Climate Claims. Global Challenges.  
+
+Trust in Food. (2021, May). Farmer Perspectives on Data 2021: Actionable insights to empowering businesses and farmers to scale farm-level production data activities. Retrieved from Trust in Food: https://www.trustinfood.com/wp-content/uploads/2021/05/Farmer-Perspectives-on-Data-2021.pdf  
+
+Trust in Food. (2022). Ready or Not? Ag Carbon Markets and U.S. Farmers. Farm Journal. Retrieved from https://www.trustinfood.com/insights-reports/ag-carbon-markets-and-u-s-farmers/?queryargument=carbon-2022  
+
+Twidale, S., & McFarlane, S. (2023, September 1). Carbon credit market confidence ebbs as big names retreat. Reuters, pp. https://www.reuters.com/sustainability/carbon-credit-market-confidence-ebbs-big-names-retreat-2023-09-01/.  
+
+U.S. Fish & Wildlife Service. (n.d.-a). Conservation Banking. Retrieved from https://www.fws.gov/service/conservation-banking  
+
+U.S. Fish & Wildlife Service. (n.d.-b). Endangered Species Act Section 10. Exceptions. Retrieved from https://www.fws.gov/laws/endangered-species-act/section-10  
+
+U.S. Forest Service. (n.d.). Inflation Reduction Act Forest Landowner Support. Retrieved from https://www.fs.usda.gov/about-agency/state-private-forestry/coop-forestry/ira-forest-landowner-support  
+
+UNDP. (2022, December). Report on CORSIA implications and carbon market development (Deliverable 3.2.). Retrieved from UNDP: https://www.undp.org/sites/g/files/zskgke326/files/2023-02/Report%20on%20CORSIA%20implications%20and%20carbon%20market%20development%20%28Deliverable%203.2.%29.pdf  
+
+United Soybean Board. (n.d.). Carbon Market Programs. Retrieved from United Soybean Board: https://www.unitedsoybean.org/usb-carbon-toolbox/carbon-programs/  
+
+US GAO. (2017). Water Pollution: Some States Have Trading Programs to Help Address Nutrient Pollution, but Use Has Been Limited. Retrieved from Report to the Honorable Sheldon Whitehouse, U.S. Senate: https://www.gao.gov/assets/gao-18-84.pdf  
+
+USDA. (2014). Quantifying Greenhouse Gas Fluxes in Agriculture and Forestry: Methods for Entity-Scale Inventory. Retrieved from https://www.usda.gov/sites/default/files/documents/USDATB1939_07072014.pdf  
+
+USDA. (2019, April). 2017 Census of Agriculture. Retrieved from USDA: https://www.nass.usda.gov/Publications/AgCensus/2017/Full_Report/Volume_1,_Chapter_1_US/usv1.pdf  
+
+USDA ERS. (n.d.). Farmland Ownership and Tenure. Retrieved from USDA ERS: https://ers.usda.gov/topics/farm-economy/land-use-land-value-tenure/farmland-ownership-and-tenure  
+
+USDA Farm Service Agency. (2023). Conservation Reserve Program. Retrieved from https://www.fsa.usda.gov/programs-and-services/conservation-programs/conservation-reserve-program/index  
+
+USDA Farm Service Agency. (n.d.). Conservation Programs. Retrieved from https://www.fsa.usda.gov/programs-and-services/conservation-programs/index  
+
+USDA. (n.d.-a). Bringing Greenhouse Gas Benefits to Market: Nutrient Management for Nitrous Oxide Reductions. Retrieved from https://cig.sc.egov.usda.gov/projects/bringing-greenhouse-gas-benefits-market-nutrient-management-nitrous-oxide-reductions  
+
+USDA. (n.d.-b). Demonstrating GHG Emission Reductions in California and Midsouth Rice Production Conservation Innovation Grant. Retrieved from https://cig.sc.egov.usda.gov/projects/demonstrating-greenhouse-gas-emissions-reductions-california-and-midsouth-rice-production  
+
+USDA. (n.d.-c). Ducks Unlimited Avoided Grassland Conversion Carbon Project. Retrieved from https://cig.sc.egov.usda.gov/projects/ducks-unlimited-avoided-grassland-conversion-carbon-project  
+
+USDA. (n.d.-d). Environmental Markets. Retrieved from https://www.usda.gov/oce/energy-and-environment/markets  
+
+USDA. (n.d.-e). ReConnect Loan and Grant Program. Retrieved from https://www.usda.gov/reconnect  
+
+USDA. (n.d.-f). Retrieved from https://cig.sc.egov.usda.gov/projects/adaptation-forest-carbon-protocol-include-tribal-lands  
+
+USDA NRCS. (n.d.). Conservation Stewardship Program. Retrieved from https://www.nrcs.usda.gov/programs-initiatives/csp-conservation-stewardship-program  
+
+USDA NRCS. (n.d.). Environmental Quality Incentives Program. Retrieved from https://www.nrcs.usda.gov/programs-initiatives/eqip-environmental-quality-incentives  
+
+USEPA. (1972). Summary of the Clean Water Act. Retrieved from https://www.epa.gov/laws-regulations/summary-clean-water-act  
+
+USEPA. (2009). Water Quality Trading Toolkit for Permit Writers. Retrieved from https://www3.epa.gov/npdes/pubs/wqtradingtoolkit.pdf  
+
+USEPA. (2021). Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990-2019. Retrieved from https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks-1990-2019  
+
+USEPA. (2022). Water Quality Trading Policy. Retrieved from https://www.epa.gov/npdes/water-quality-trading-policy-0  
+
+USEPA. (n.d.-a). Clean Water Act Section 502: General Definitions. Retrieved from https://www.epa.gov/cwa-404/clean-water-act-section-502-general-definitions  
+
+VCMI. (n.d.). About. Retrieved from VCMI: https://vcmintegrity.org/about/  
+
+VCS. (2023, August 29). AFOLU Non-Permanence Risk Tool. Retrieved from American Carbon Registry: https://verra.org/wp-content/uploads/2023/08/AFOLU-Non-Permanence-Risk-Tool-v4.1.pdf  
+
+Verra. (2022a, April 1). Additional Background Information on Tonne-Year Accounting. Retrieved from Verra: https://verra.org/wp-content/uploads/2022/04/Tonne-year-additional-background-2022.04.01.pdf  
+
+Verra. (2022b, June 22). Verra Defers Updates to the VCS Program. Retrieved from Verra: https://verra.org/verra-defers-updates-to-the-vcs-program/  
+
+Verra. (2022c, October 26). Methodology for Improved Forest Management Using Dynamic Matched Baselines from National Forest Inventories. Retrieved from Verra: https://verra.org/wp-content/uploads/2022/12/VM0045-IFM-Dynamic-Matched-Baselines-v1.0.pdf  
+
+Verra. (2023, May 30). VM0042 Methodology for Improved Agricultural Land Management, v2.0. Retrieved from Verra: https://verra.org/methodologies/vm0042-methodology-for-improved-agricultural-land-management-v2-0/  
+
+Verra. (2023a, August 29). VCS Standard, v4.5. Retrieved from Verra: https://verra.org/wp-content/uploads/2023/08/VCS-Standard-v4.5.pdf  
+
+Verra. (2023b, June 28). Verra Statement on the Launch of the VCMI Claims Code of Practice. Retrieved from Verra: https://verra.org/launch-of-the-vcmi-claims-code-of-practice/  
+
+Verra. (n.d.). VCS Methodologies. Retrieved from Verra: https://verra.org/methodologies-main/#vcs-methodologies  
+
+Waggoner, L. W. (1986). The Uniform Statutory Rule Against Perpetuities. Real Prop. Prob. & Tr. J., 569-602.  
+
+Wallander, S., Smith, D., Bowman, M., & Claassen, R. (2021). Cover Crop Trends, Programs, and Practices in the United States. Washington D.C.: USDA, Economic Research Service. Retrieved from https://www.ers.usda.gov/publications/pub-details/?pubid=100550  
+
+White, N. (2023, September 14). Offset Market Hit by Fresh Allegations of False CO2 Claims. Bloomberg, pp. https://www.bloomberg.com/news/articles/2023-09-14/popular-carbon-credits-fail-to-offset-emissions-probe-shows#xj4y7vzkg.  
+
+Wildlands. (n.d.). Retrieved from https://www.wildlandsinc.com/map-search/  
+
+Willamette Partnership, World Resources Institute, and the National Network on Water Quality Trading. (2015). Building a Water Quality Trading Program: Options and Considerations. Retrieved from http://willamettepartnership.org/wp-content/uploads/2015/06/BuildingaWQTProgram-NNWQT.pdf  
+
+World Bank. (2023). State and Trends of Carbon Pricing 2023. Retrieved from https://openknowledge.worldbank.org/handle/10986/39796  
+
+WRI. (n.d.). Carbon Removal. Retrieved from WRI: https://www.wri.org/initiatives/carbon-removal  
+
+Wu, B. M. (2023). Challenges and opportunities in remote sensing-based crop monitoring: a review. National Science Review, 10(4).  
+
+Yeh, S., Witcover, J., Lade, G., & Sperling, D. (2016). A review of low carbon fuel policies: Principles, program status and future directions. Energy Policy(97), 220-234.  

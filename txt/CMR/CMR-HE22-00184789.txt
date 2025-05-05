@@ -1,0 +1,45 @@
+American Psychiatric Association (APA). Diagnostic and Statistical Manual of Mental Disorders, 5th ed. Arlington, VA: APA, 2013.
+
+Benjamini, Y., and Y. Hochberg. "Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing." Journal of the Royal Statistical Society, vol. 57, no. 1, 1995, pp. 289-300.
+
+Centers for Disease Control and Prevention. "Drug and Opioid-Involved Overdose Deaths—United States, 2013-2017." Morbidity and Mortality Weekly Report, vol. 67, no. 5152, January 4, 2019, pp. 1419-1427. Available at https://www.cdc.gov/mmwr/volumes/67/wr/mm675152e1.htm. Accessed October 19, 2020.
+
+Centers for Medicare & Medicaid Services. DQ Atlas. n.d. Available at https://www.medicaid.gov/dq-atlas/. Accessed March 2023.
+
+Centers for Medicare & Medicaid Services. "Medicaid Managed Care Enrollment and Program Characteristics, 2020." 2022. Available at https://www.medicaid.gov/medicaid/managed-care/downloads/2020-medicaid-managed-care-enrollment-report.pdf. Accessed June 5, 2023.
+
+Chacon, N.C., N. Walia, A. Allen, A. Sciancalepore, J. Tiong, R. Quick, S. Mada, et al. "Substance Use During COVID-19 Pandemic: Impact on the Underserved Communities." 2021.
+
+Fentem, A., R. Riordan, C. Doroshenko, X. Li, E. Kasson, D. Banks, R.P. Winograd, et al. "Impact of the COVID-19 Pandemic on Burnout and Perceived Workplace Quality Among Addiction Treatment Providers." Addiction Science & Clinical Practice, vol. 18, no. 5, 2023. https://doi.org/10.1186/s13722-023-00361-6.
+
+Friedman, J., N.C. Mann, H. Hansen, P. Bourgois, J. Braslow, A.A.T. Bui, L. Beletsky, and D.L. Schriger. "Racial/Ethnic, Social, and Geographic Trends in Overdose-Associated Cardiac Arrests Observed by US Emergency Medical Services During the COVID-19 Pandemic." JAMA Psychiatry, vol. 78, no. 8, 2021, pp. 886-895. doi:10.1001/jamapsychiatry.2021.0967.
+
+Jones, K.F., and D.J. Mason. "The False Dichotomy of Pain and Opioid Use Disorder." JAMA Health Forum, vol. 3, no. 4, 2022, e221406. Doi:10.1001/jamahealthforum.2022.1406. Accessed May 4, 2023.
+
+Karmali, R., B. Seifert, M. Stewart, R. Seita, B. Manteuffel, A. Kolbe, J. White, et al. "Flexibilities in Controlled Substances Prescribing and Dispensing During the COVID-19 Pandemic." Washington, DC: Office of the Assistant Secretary for Planning and Evaluation, U.S. Department of Health and Human Services, August 2022. Accessed June 5, 2023.
+
+Lagisetty P, C. Garpestad, A. Larkin, C. Macleod, D. Antoku, S. Slat, J. Thomas, et al. "Identifying Individuals with Opioid Use Disorder: Validity of International Classification of Diseases Diagnostic Codes for Opioid Use, Dependence and Abuse." Drug and Alcohol Dependence, vol. 221, p. 108583, April 1, 2021. doi: 10.1016/j.drugalcdep.2021.108583. Accessed May 4, 2023.
+
+Medicaid and CHIP Payment and Access Commission. "Chapter 2: Medicaid and the Opioid Epidemic." In Report to Congress on Medicaid and CHIP. Washington, DC: MACPAC, June 2017. Available at https://www.macpac.gov/wp-content/uploads/2017/06/June-2017-Report-to-Congress-on-Medicaid-and-CHIP.pdf. Accessed October 19, 2020.
+
+Medicaid and CHIP Payment and Access Commission. "Chapter 6: Substance Use Disorder and Maternal and Infant Health." In Report to Congress on Medicaid and CHIP. Washington, DC: MACPAC, June 2020. Available at https://www.macpac.gov/wp-content/uploads/2020/06/Chapter-6-Substance-Use-Disorder-and-Maternal-and-Infant-Health.pdf. Accessed October 21, 2021.
+
+National Conference of State Legislatures. "Substance Use Disorder Treatment Database 2021." Available at https://www.ncsl.org/research/health/substance-use-disorder-sud-treatment-database. Accessed March 22, 2023.
+
+National Governors Association. "State Strategies to Support Access to Substance Use Disorder Treatment Services through the COVID-19 Pandemic." Available at https://www.nga.org/wp-content/uploads/2020/07/NGA-Issue-Brief-SUD-Treatment-Access-COVID-19.pdf. Accessed March 15, 2023.
+
+National Institute on Drug Abuse (NIDA). "Addiction and Health." National Institutes of Health, March 22, 2022. Retrieved from https://nida.nih.gov/publications/drugs-brains-behavior-science-addiction/addiction-health. Accessed March 15, 2023.
+
+Spencer, M.R., A.M. Miniño, and M. Warner. "Drug Overdose Deaths in the United States, 2001-2021." NCHS Data Brief, no 457. Hyattsville, MD: National Center for Health Statistics, 2022. DOI: https://dx.doi.org/10.15620/cdc:122556.
+
+Substance Abuse and Mental Health Services Administration. "Key Substance Use and Mental Health Indicators in the United States: Results from the 2021 National Survey on Drug Use and Health." (HHS Publication No. PEP22-07-01-005, NSDUH Series H-57). Center for Behavioral Health Statistics and Quality, 2022(a). Available at https://www.samhsa.gov/data/sites/default/files/reports/rpt39443/2021NSDUHFFRRev010323.pdf. Accessed March 15, 2023.
+
+Substance Abuse and Mental Health Services Administration. "NSDUH Table 5.15B (Received Substance Use Treatment in Past Year: Among People Aged 12 or Older; by Geographic and Socioeconomic Characteristics, Percentages, 2021)." (b). Available at https://www.samhsa.gov/data/report/2021-nsduh-detailed-tables. Accessed March 15, 2023.
+
+Taylor, S., M.M. Paluszek, G.S. Rachor, D. McKay, and G.J.G. Asmundson. Substance Use and Abuse, COVID-19-Related Distress, and Disregard for Social Distancing: A Network Analysis. Psychology of Addictive Behaviors, 2021. doi: 10.1016/j.addbeh.2020.106754.
+
+The President's Commission on Combating Drug Addiction and the Opioid Crisis, November 1, 2017. Available at https://trumpwhitehouse.archives.gov/sites/whitehouse.gov/files/images/Final_Report_Draft_11-15-2017.pdf. Accessed January 19, 2022.
+
+United States Government Accountability Office. "Behavioral Health and COVID-19: Higher-Risk Populations and Related Federal Relief Funding." Available at https://www.gao.gov/assets/720/717988.pdf. Accessed October 28, 2022.
+
+Wang, Q., D. Kaelber, R. Zu, and N. Volkow. "COVID-19 Risk and Outcomes in Patients with Substance Use Disorders: Analyses from Electronic Health Records in the United States." Molecular Psychiatry, vol. 26, no. 1, 2021, pp. 30-39. Available at https://www.nature.com/articles/s41380-020-00880-7. Accessed March 26, 2023.

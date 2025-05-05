@@ -1,0 +1,35 @@
+Biden, J.R., 2021, Tackling the climate crisis at home and abroad—Executive Order 14008 of January 27, 2021: Federal Register, v. 86, no. 19, p. 7619–7633, https://www.govinfo.gov/content/pkg/FR-2021-02-01/pdf/2021-02177.pdf.
+
+Federal Data Strategy Development Team, 2020, Federal Data Strategy—2020 action plan: Office of Management and Budget, 48 p., https://strategy.data.gov/assets/docs/2021-Federal-Data-Strategy-Action-Plan.pdf.
+
+Federal Data Strategy Development Team, 2021, Federal Data Strategy—2021 action plan: Office of Management and Budget, 20 p., https://strategy.data.gov/assets/docs/2021-Federal-Data-Strategy-Action-Plan.pdf.
+
+Federal Data Strategy Team, 2020–21, Federal Data Strategy: Office of Management and Budget and the Federal Chief Data Officers Council, https://strategy.data.gov/.
+
+Federal Geographic Data Committee, 2021, Geospatial Data Act report to Congress—Phase 2 report: Reston, Va., Federal Geographic Data Committee, June, 5 p. plus 2 appendixes, https://www.fgdc.gov/gda/gda-reports/gda-report-to-congress-phase-2-june-2021.pdf.
+
+Federal Geographic Data Committee, 2022, FGDC summary of the covered agency and lead covered agency annual reports for FY 2021—Fulfilling requirements of the Geospatial Data Act of 2018: Reston, Va., Federal Geographic Data Committee, June, 9 p., accessed August 2, 2023, at https://www.fgdc.gov/gda/gda-reports/fgdc-gda-summary-report-fy-2021.pdf.
+
+Federal Geographic Data Committee, 2023, FGDC summary of the covered agency and lead covered agency annual reports for FY 2022—Fulfilling requirements of the Geospatial Data Act of 2018: Reston, Va., Federal Geographic Data Committee, July, 12 p., accessed August 2, 2023, at https://www.fgdc.gov/gda/gda-reports/fgdc-gda-summary-report-fy-2022.pdf.
+
+Miller, J., 2022, Updates on the President's management agenda: Office of Management and Budget Blog, February 17, 2022, https://assets.performance.gov/PMA/Biden-Harris_Management_Agenda_Vision_11-18.pdf.
+
+National Geospatial Advisory Committee, 2019a, Comments on the revision of OMB Circular A–16: Reston, Va., National Geospatial Advisory Committee, June, 2 p., https://www.fgdc.gov/ngac/meetings/june-2019/ngac-paper-comments-on-the-revision-of-omb.pdf.
+
+National Geospatial Advisory Committee, 2019b, Initial comments on Geospatial Data Act implementation: Reston, Va., National Geospatial Advisory Committee, May, 5 p., https://www.fgdc.gov/ngac/meetings/may-2019/ngac-paper-initial-comments-on-geospatial-data-act.pdf.
+
+National Geospatial Advisory Committee, 2020a, Recommendations on the 2020 National Spatial Data Infrastructure strategic plan: Reston, Va., National Geospatial Advisory Committee, June, 2 p., https://www.fgdc.gov/ngac/meetings/june-2020/ngac-paper-recommendations-on-the-2020-nsdi.pdf.
+
+National Geospatial Advisory Committee, 2020b, Summary of 2020 use cases: Reston, Va., National Geospatial Advisory Committee, June, 2 p., https://www.fgdc.gov/ngac/meetings/june-2020/ngac-summary-of-2020-use-cases-ngac-june-2020.pdf.
+
+National Geospatial Advisory Committee, 2021, NGAC comments on FY 2020 FGDC summary of GDA annual reports: Reston, Va., National Geospatial Advisory Committee, 4 p., https://fgdc.gov/ngac/meetings/april-2021/ngac-comments-on-fy-2020-fgdc-summary-of-gda.pdf.
+
+National Geospatial Advisory Committee, 2022, NGAC comments on FY 2021 FGDC summary of GDA annual reports: Reston, Va., National Geospatial Advisory Committee, May, 5 p., https://www.fgdc.gov/ngac/meetings/may-2022/ngac-paper-ngac-comments-on-fy-2021-fgdc-summary.pdf.
+
+National Geospatial Advisory Committee, 2023a, Evaluation of Geospatial Data Act implementation—High level summary: Reston, Va., National Geospatial Advisory Committee, April, 11 p., https://www.fgdc.gov/ngac/meetings/april-2023/ngac-paper-evaluation-of-gda-implementation-april.pdf.
+
+National Geospatial Advisory Committee, 2023b, NGAC Comments on FY 2022 FGDC summary of GDA annual reports: Reston, Va., National Geospatial Advisory Committee, April, 12 p., accessed August 2, 2023, at https://www.fgdc.gov/ngac/meetings/april-2023/ngac-paper-ngac-comments-on-fy-2022-fgdc-summary.pdf.
+
+Office of Management and Budget, 2002, Coordination of geographic information and related spatial data activities: Office of Management and Budget Circular A–16, August 19, https://obamawhitehouse.archives.gov/omb/circulars_a016_rev/.
+
+President's Management Council, 2021, The Biden-Harris management agenda vision: Office of Management and Budget, November 18, 45 p., https://assets.performance.gov/PMA/Biden-Harris_Management_Agenda_Vision_11-18.pdf.

@@ -5,8 +5,8 @@ from typing import Union
 from typing import Optional
 
 BASE_URL='https://api.govinfo.gov/'
-header_key = {'X-Api-key': 'ARqzwi0cCCjsdpdoeVv2Iv4I0FbhTVoSo7urYs1e'} # PPP
-#header_key = {'X-Api-key': '0y40jiRIp8yg6cnZXVKI9cZqo1izWnExmDjNIKdm'} # CPD
+header_key = {'X-Api-key': 'ARqzwi0cCCjsdpdoeVv2Iv4I0FbhTVoSo7urYs1e'}
+
 class GovInfo:
 
     def gpo_collections(
@@ -61,7 +61,7 @@ class GovInfo:
             url += f"/{start_date}"
         if end_date:
             url += f"/{end_date}"
-            
+
         # Making the API request
         headers = {"X-Api-Key": header_key['X-Api-key']} if header_key['X-Api-key'] else {}
         response = requests.get(url, headers=headers, params={k: v for k, v in params.items() if v is not None})
@@ -118,7 +118,7 @@ class GovInfo:
         #file_type= "pdfLink"#input("Which file type do you want? ")
         #link = summary['download'][file_type]
         return summary # link
-
+    
     def package_data_verbose(package_id):
         '''request JSON summary of the package and return list of download options'''
         response = requests.get(
@@ -147,3 +147,4 @@ class GovInfo:
         )
         response.raise_for_status()  # Raise an error if the request fails
         return response
+

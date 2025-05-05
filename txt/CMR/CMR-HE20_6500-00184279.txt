@@ -1,0 +1,495 @@
+U.S. Census Bureau. Quick Facts, United States (v2021). https://www.census.gov/quickfacts/. Accessed October 23, 2023.
+
+Johnson RW. ASPE Research Brief. What Is the Lifetime Risk of Needing and Receiving Long-Term Services and Supports? Washington, DC: Office of the Assistant Secretary for Planning and Evaluation; April 2019. https://aspe.hhs.gov/reports/what-lifetime-risk-needing-receiving-long-term-services-supports-0. Accessed October 23, 2023.
+
+Fulmer T, Reuben DB, Auerbach J, Fick DM, Galambos C, Johnson KS. Actualizing better health and health care for older adults. Health Aff (Millwood). 2021 Feb;40(2):219-225. https://doi.org/10.1377/hlthaff.2020.01470. Accessed October 23, 2023.
+
+Smith AS, Trevelyan E. The Older Population in Rural America: 2012-2016. American Community Survey Reports. ACS-41. Washington, DC: U.S. Census Bureau; September 2019. https://www.census.gov/content/dam/Census/library/publications/2019/acs/acs-41.pdf. Accessed October 23, 2023.
+
+Hill L, Ndugga N, Artiga S. Key Data on Health and Health Care by Race and Ethnicity. Kaiser Family Foundation; March 15, 2023. https://www.kff.org/racial-equity-and-health-policy/report/key-data-on-health-and-health-care-by-race-and-ethnicity/. Accessed October 23, 2023.
+
+Dobis EA, Krumel Jr TP, Cromartie J, Conley KL, Sanders A, Ortiz R. Rural America at a Glance. 2021 Edition. Economic Information Bulletin Number 230. Washington, DC: U.S. Department of Agriculture, Economic Research Service; November 2021. https://www.ers.usda.gov/webdocs/publications/102576/eib-230.pdf?v=4409. Accessed October 23, 2023.
+
+Centers for Disease Control and Prevention. NCHS Urban-Rural Classification Scheme for Counties. Last reviewed June 2017. https://www.cdc.gov/nchs/data_access/urban_rural.htm. Accessed October 23, 2023.
+
+Kurani N, Wager E. How does the quality of the U.S. health system compare to other countries? Peterson-KFF Health System Tracker; September 30, 2021. https://www.healthsystemtracker.org/chart-collection/quality-u-s-healthcare-system-compare-countries/. Accessed October 23, 2023.
+
+Arias E, Tejada-Vera B, Kochanek KD, Ahmad FB. Provisional life expectancy estimates for 2021. Vital Statistics Rapid Release; no 23. Hyattsville, MD: National Center for Health Statistics; August 2022. https://dx.doi.org/10.15620/cdc:118999. Accessed October 23, 2023.
+
+National Academies of Sciences, Engineering, and Medicine. High and Rising Mortality Rates Among Working-Age Adults. Washington, DC: National Academies Press; 2021. https://nap.nationalacademies.org/catalog/25976/high-and-rising-mortality-rates-among-working-age-adults. Accessed October 23, 2023.
+
+Buxbaum JD, Chernew ME, Fendrick AM, Cutler DM. Contributions of public health, pharmaceuticals, and other medical care to U.S. life expectancy changes, 1990-2015. Health Aff (Millwood). 2020 Sep;39(9):1546-1556. https://doi.org/10.1377/hlthaff.2020.00284. Accessed October 23, 2023.
+
+Magnan, S. Social Determinants of Health 101 for Health Care: Five Plus Five. NAM Perspectives. Washington, DC: National Academy of Medicine; 2017. https://nam.edu/social-determinants-of-health-101-for-health-care-five-plus-five/. Accessed October 23, 2023.
+
+Sommers BD, Gawande AA, Baicker K. Health insurance coverage and health - what the recent evidence tells us. N Engl J Med. 2017 Aug 10;377(6):586-593. https://www.nejm.org/doi/10.1056/NEJMsb1706645. Accessed October 23, 2023.
+
+Allen H, Baicker K, Finkelstein A, Taubman S, Wright BJ; Oregon Health Study Group. What the Oregon Health Study can tell us about expanding Medicaid. Health Aff (Millwood). 2010 Aug;29(8):1498-1506. https://www.healthaffairs.org/doi/10.1377/hlthaff.2010.0191. Accessed October 23, 2023.
+
+James J. The Oregon Health Insurance Experiment. Health Affairs Health Policy Brief; July 16, 2015. https://www.healthaffairs.org/do/10.1377/hpb20150716.236899/. Accessed October 23, 2023.
+
+Sommers BD, Blendon RJ, Orav EJ, Epstein AM. Changes in utilization and health among low-income adults after Medicaid expansion or expanded private insurance. JAMA Intern Med. 2016 Oct 1;176(10):1501-1509. https://doi.org/10.1001/jamainternmed.2016.4419. Accessed October 23, 2023.
+
+American Hospital Association. Importance of Health Coverage. October 2019. https://www.aha.org/guidesreports/report-importance-health-coverage. Accessed October 23, 2023.
+
+Institute of Medicine Committee on the Consequences of Uninsurance. The Difference Coverage Could Make to the Health of Uninsured Adults. In: Care Without Coverage: Too Little, Too Late. Washington, DC: National Academies Press; 2002. https://www.ncbi.nlm.nih.gov/books/NBK220633/. Accessed October 23, 2023.
+
+Oh EG, Huang AW, Nguyen KH. Inequities in patient access to care among Asian American, Native Hawaiian, and Pacific Islander adults in Medicaid. J Racial Ethn Health Disparities. 2023 Jul 25. https://doi.org/10.1007/s40615-023-01719-x. Accessed November 17, 2023.
+
+Khullar D, Chokshi DA. Health, Income, & Poverty: Where We Are & What Could Help. Health Affairs Health Policy Brief; October 4, 2018. https://www.healthaffairs.org/do/10.1377/hpb20180817.901935/full/. Accessed October 23, 2023.
+
+Larrimore J. Does a higher income have positive health effects? Using the earned income tax credit to explore the income-health gradient. Milbank Q. 2011 Dec;89(4):694-727. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3250638/. Accessed October 23, 2023.
+
+Shaw KM, Theis KA, Self-Brown S, Roblin DW, Barker L. Chronic disease disparities by county economic status and metropolitan classification, Behavioral Risk Factor Surveillance System, 2013. Prev Chronic Dis. 2016 Sep 1;13:E119. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5008860/. Accessed October 23, 2023.
+
+Bor J, Cohen GH, Galea S. Population health in an era of rising income inequality: USA, 1980-2015. Lancet. 2017 Apr 8;389(10077):1475-1490. https://doi.org/10.1016/S0140-6736(17)30571-8. Accessed October 23, 2023.
+
+Office of the Assistant Secretary for Planning and Evaluation, U.S. Department of Health and Human Services. U.S. Federal Poverty Guidelines Used To Determine Financial Eligibility for Certain Programs. https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines. Accessed October 23, 2023.
+
+American Community Survey, 5-year estimates, 2020, Table DP02. https://data.census.gov/table?q=United+States&g=010XX00US&tid=ACSDP5Y2020.DP02. Accessed October 23, 2023.
+
+American Community Survey, 5-year estimates, 2020, Table S1601. https://data.census.gov/table?q=United+States&g=010XX00US&tid=ACSST5Y2020.S1601. Accessed October 23, 2023.
+
+American Community Survey, 5-year estimates, 2020, Table S1501. https://data.census.gov/table?q=United+States&g=010XX00US&tid=ACSST5Y2020.S1501. Accessed October 23, 2023.
+
+American Community Survey, 5-year estimates, 2020, Table S2801. https://data.census.gov/table?q=internet&tid=ACSST5Y2020.S2801. Accessed October 23, 2023.
+
+National Library of Medicine. Telehealth 101: What Libraries Need To Know. https://www.nnlm.gov/training/class-catalog/telehealth-101-what-libraries-need-know. Accessed November 13, 2023.
+
+U.S. Bureau of Labor Statistics. Occupational Outlook Handbook. https://www.bls.gov/ooh/. Accessed October 23, 2023.
+
+Adjaye-Gbewonyo D, Boersma P. Early Release of Selected Estimates Based on Data From the 2021 National Health Interview Survey. Hyattsville, MD: National Center for Health Statistics; April 2022. https://www.cdc.gov/nchs/data/nhis/earlyrelease/earlyrelease202204.pdf. Accessed October 23, 2023.
+
+Summary Health Statistics: National Health Interview Survey. Table P-10a. Hyattsville, MD: National Center for Health Statistics; 2018. https://ftp.cdc.gov/pub/Health_Statistics/NCHS/NHIS/SHS/2018_SHS_Table_P-10.pdf. Accessed October 23, 2023.
+
+National Ambulatory Medical Care Survey: 2018 National Summary Tables. Hyattsville, MD: National Center for Health Statistics. https://www.cdc.gov/nchs/data/ahcd/namcs_summary/2018-namcs-web-tables-508.pdf. Accessed October 23, 2023.
+
+Health Resources and Services Administration. Primary Care Workforce Projections. Last reviewed August 2022. https://bhw.hrsa.gov/data-research/projecting-health-workforce-supply-demand/primary-health. Accessed October 23, 2023.
+
+Health Resources and Services Administration. Health Professional Shortage Area Dashboard. https://data.hrsa.gov/topics/health-workforce/shortage-areas. Accessed October 23, 2023.
+
+Rural Health Information Hub. Population in Primary Care HPSAs (Health Professional Shortage Area) for Metro and Nonmetro Counties, 2022. https://www.ruralhealthinfo.org/charts/6.
+
+Schuur JD, Venkatesh AK. The growing role of emergency departments in hospital admissions. N Engl J Med. 2012;367(5):391-393. https://www.nejm.org/doi/10.1056/NEJMp1204431. Accessed October 23, 2023.
+
+Fields WW, Asplin BR, Larkin GL, Marco CA, Johnson LA, Yeh C, Ghezzi KT, Rapp M. The Emergency Medical Treatment and Labor Act as a federal health care safety net program. Acad Emerg Med. 2001;8(11):1064-1069. https://pubmed.ncbi.nlm.nih.gov/11691669/. Accessed October 23, 2023.
+
+National Hospital Ambulatory Medical Care Survey: 2021 Emergency Department Summary Tables. Hyattsville, MD: National Center for Health Statistics. https://www.cdc.gov/nchs/data/nhamcs/web_tables/2021-nhamcs-ed-web-tables-508.pdf. Accessed October 23, 2023.
+
+Gutierrez C, Lindor RA, Baker O, Cutler D, Schuur JD. State regulation of freestanding emergency departments varies widely, affecting location, growth, and services provided. Health Aff (Millwood). 2016 Oct 1;35(10):1857-1866. https://www.healthaffairs.org/doi/10.1377/hlthaff.2016.0412. Accessed October 23, 2023.
+
+Liu JB, Kelz RR. Types of hospitals in the United States. JAMA. 2018 Sep 11;320(10):1074. https://doi.org/10.1001/jama.2018.9471. Accessed October 23, 2023.
+
+Rural Health Information Hub. Critical Access Hospitals (CAHs). Last reviewed September 2021. https://www.ruralhealthinfo.org/topics/critical-access-hospitals. Accessed October 23, 2023.
+
+Rural Hospital Closures: Affected Residents Had Reduced Access to Healthcare Services. GAO-21-93. Washington, DC: U.S. Government Accountability Office; December 2020. https://www.gao.gov/products/gao-21-93. Accessed October 23, 2023.
+
+Fast Facts: U.S. Health Systems. Chicago, IL: American Hospital Association; 2020. https://www.aha.org/system/files/media/file/2022/06/Fast-Facts-US-Health-Systems-2022-with-FY20-Data.pdf. Accessed October 23, 2023.
+
+Patient Protection and Affordable Care Act, P.L. 111-148. https://www.govinfo.gov/content/pkg/PLAW-111publ148/pdf/PLAW-111publ148.pdf. Accessed November 13, 2023.
+
+National Center for Health Statistics. NPALS – About the National Post-acute and Long-term Care Study. https://www.cdc.gov/nchs/npals/about_npals.htm. Accessed November 13, 2023.
+
+Tian W. An All-Payer View of Hospital Discharge to Postacute Care, 2013. HCUP Statistical Brief #205. Rockville, MD: Agency for Healthcare Research and Quality; May 2016. http://www.hcup-us.ahrq.gov/reports/statbriefs/sb205-Hospital-Discharge-Postacute-Care.pdf. Accessed October 23, 2023.
+
+Werner RM, Konetzka RT. Trends in post-acute care use among Medicare beneficiaries: 2000 to 2015. JAMA. 2018 Apr 17;319(15):1616-1617. https://doi.org/10.1001/jama.2018.2408. Accessed October 23, 2023.
+
+Massachusetts Health & Hospital Association. A Clogged System: Keeping Patients Moving Through Their Care Journey. June 2023. https://mhalink.informz.net/mhalink/data/images/ACloggedSystemMHAReport.pdf. Accessed October 23, 2023.
+
+Johnson RW. What Is the Lifetime Risk of Needing and Receiving Long-Term Services and Supports? Washington, DC: U.S. Department of Health and Human Services, Office of the Assistant Secretary for Planning and Evaluation; April 3, 2019. https://aspe.hhs.gov/reports/what-lifetime-risk-needing-receiving-long-term-services-supports-0. Accessed October 23, 2023.
+
+Chidambaram P, Burns A. 10 things about long-term services and supports (LTSS). Kaiser Family Foundation. September 15, 2022. https://www.kff.org/medicaid/issue-brief/10-things-about-long-term-services-and-supports-ltss/. Accessed August 15, 2023.
+
+Johnson RW, Favreault MM. Economic Hardship and Medicaid Enrollment in Later Life: Assessing the Impact of Disability, Health, and Marital Status Shocks. Washington, DC: U.S. Department of Health and Human Services, Assistant Secretary for Planning and Evaluation. January 31, 2021. https://aspe.hhs.gov/reports/economic-hardship-medicaid-enrollment-later-life. Accessed October 23, 2023.
+
+AARP and National Alliance for Caregiving. Caregiving in the United States 2020. Washington, DC: AARP. May 2020. https://www.aarp.org/ppi/info-2020/caregiving-in-the-united-states.html. Accessed August 15, 2023.
+
+Tang KL, Ghali WA. Patient navigation—exploring the undefined. JAMA Health Forum. 2021 Nov 2;2(11):e213706. https://doi.org/10.1001/jamahealthforum.2021.3706. Accessed October 23, 2023.
+
+Centers for Medicare & Medicaid Services. National Health Expenditure Accounts: Methodology Paper, 2018: Definitions, Sources, and Methods. https://www.cms.gov/files/document/definitions-sources-and-methods.pdf. Accessed October 23, 2023.
+
+Sutherland G, Supreme Court of the United States. U.S. Reports: New State Ice Co. v. Liebmann, 285 U.S. 262 (1932). https://www.loc.gov/item/usrep285262/. Accessed October 23, 2023.
+
+Centers for Disease Control and Prevention. CDC Museum COVID-19 Timeline. March 15, 2023. https://www.cdc.gov/museum/timeline/covid19.html. Accessed October 23, 2023.
+
+Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. Erratum in: Lancet. 2020 Jan 30. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7159299/. Accessed October 23, 2023.
+
+Coronaviridae Study Group of the International Committee on Taxonomy of Viruses. The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2. Nat Microbiol. 2020 Apr;5(4):536-544. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7095448/. Accessed October 23, 2023.
+
+World Health Organization. Naming the Coronavirus Disease (COVID-19) and the Virus That Causes It. Technical Guidance. February 2020. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/naming-the-coronavirus-disease-(covid-2019)-and-the-virus-that-causes-it. Accessed October 23, 2023.
+
+Hu B, Guo H, Zhou P, Shi ZL. Characteristics of SARS-CoV-2 and COVID-19. Nat Rev Microbiol. 2021 Mar;19(3):141-154. Erratum in: Nat Rev Microbiol. 2022 May;20(5):315. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7537588/. Accessed October 23, 2023.
+
+Wang C, Horby PW, Hayden FG, Gao GF. A novel coronavirus outbreak of global health concern. Lancet. 2020 Feb 15;395(10223):470-473. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7135038/. Accessed October 23, 2023.
+
+Chan JF, Yuan S, Kok KH, et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet. 2020 Feb 15;395(10223):514-523. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7159286/. Accessed October 23, 2023.
+
+Phan LT, Nguyen TV, Luong QC, Nguyen TV, Nguyen HT, Le HQ, Nguyen TT, Cao TM, Pham QD. Importation and human-to-human transmission of a novel coronavirus in Vietnam. N Engl J Med. 2020 Feb 27;382(9):872-874. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7121428/. Accessed October 23, 2023.
+
+Holshue ML, DeBolt C, Lindquist S, et al.; Washington State 2019-nCoV Case Investigation Team. First case of 2019 novel coronavirus in the United States. N Engl J Med. 2020 Mar 5;382(10):929-936. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7092802/. Accessed October 23, 2023.
+
+Rothe C, Schunk M, Sothmann P, et al. Transmission of 2019-nCoV infection from an asymptomatic contact in Germany. N Engl J Med. 2020 Mar 5;382(10):970-971. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7120970/. Accessed October 23, 2023.
+
+Cucinotta D, Vanelli M. WHO declares COVID-19 a pandemic. Acta Biomed. 2020 Mar 19;91(1):157-160. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7569573/. Accessed October 23, 2023.
+
+Morens DM, Taubenberger JK, Fauci AS. A centenary tale of two pandemics: the 1918 influenza pandemic and COVID-19, Part I. Am J Public Health. 2021 Jun;111(6):1086-1094. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8101587/. Accessed October 23, 2023.
+
+Azar AM. PHE Declarations. Determination That a Public Health Emergency Exists. January 31, 2023. https://aspr.hhs.gov/legal/PHE/Pages/2019-nCoV.aspx. Accessed October 23, 2023.
+
+Zhu N, Zhang D, Wang W, et al. A novel coronavirus from patients with pneumonia in China, 2019. N Engl J Med. 2020 Feb 20;382(8):727-733. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7092803/. Accessed October 23, 2023.
+
+Perlman S. Another decade, another coronavirus. N Engl J Med. 2020 Feb 20;382(8):760-762. https://www.nejm.org/doi/10.1056/NEJMe2001126. Accessed October 24, 2023.
+
+Oran DP, Topol EJ. The proportion of SARS-CoV-2 infections that are asymptomatic: a systematic review. Ann Intern Med. 2021 May;174(5):655-662. https://www.acpjournals.org/doi/full/10.7326/M20-6976. Accessed October 24, 2023.
+
+Stokes EK, Zambrano LD, Anderson KN, et al. Coronavirus disease 2019 case surveillance - United States, January 22-May 30, 2020. MMWR Morb Mortal Wkly Rep. 2020 Jun 19;69(24):759-765. https://www.cdc.gov/mmwr/volumes/69/wr/mm6924e2.htm. Accessed October 24, 2023.
+
+Centers for Disease Control and Prevention. Disease Burden of Flu. Last reviewed October 2022. https://www.cdc.gov/flu/about/burden/index.html. Accessed October 24, 2023.
+
+Wiersinga WJ, Rhodes A, Cheng AC, Peacock SJ, Prescott HC. Pathophysiology, transmission, diagnosis, and treatment of coronavirus disease 2019 (COVID-19): a review. JAMA. 2020 Aug 25;324(8):782-793. https://doi.org/10.1001/jama.2020.12839. Accessed October 24, 2023.
+
+Krumholz HM. Post-hospital syndrome – a condition of generalized risk. N Engl J Med. 2013 Jan 10;368(2):100-102. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3688067/. Accessed October 24, 2023.
+
+Katz GM, Bach K, Bobos P, et al. Understanding how post-COVID-19 condition affects adults and health care systems. JAMA Health Forum. 2023 Jul 7;4(7):e231933. https://doi.org/10.1001/jamahealthforum.2023.1933. Accessed October 24, 2023.
+
+U.S. Census Bureau; Centers for Disease Control and Prevention, National Center for Health Statistics. Long COVID: Household Pulse Survey. July 19, 2023. https://www.cdc.gov/nchs/covid19/pulse/long-covid.htm. Accessed August 15, 2023.
+
+Cascella M, Rajnik M, Aleem A, et al. Features, Evaluation, and Treatment of Coronavirus (COVID-19) [Updated 2023 Jan 9]. In: StatPearls [Internet]. Treasure Island, FL: StatPearls Publishing; 2023. https://www.ncbi.nlm.nih.gov/books/NBK554776/. Accessed October 24, 2023.
+
+Polack FP, Thomas SJ, Kitchin N, et al.; C4591001 Clinical Trial Group. Safety and efficacy of the BNT162b2 mRNA Covid-19 vaccine through 6 months. N Engl J Med. 2021 Nov 4;385(19):1761-1773. https://www.nejm.org/doi/10.1056/NEJMoa2110345. Accessed October 24, 2023.
+
+Baden LR, El Sahly HM, Essink B, et al.; COVE Study Group. Efficacy and safety of the mRNA-1273 SARS-CoV-2 vaccine. N Engl J Med. 2021 Feb 4;384(5):403-416. https://www.nejm.org/doi/10.1056/NEJMoa2035389. Accessed October 24, 2023.
+
+Holtkamp N, Kolbe A, Beleche T. COVID-19 Vaccination Associated With Reductions in COVID-19 Mortality and Morbidity in the United States, and an Approach to Valuing These Benefits. Washington, DC: U.S. Department of Health and Human Services, Office of the Assistant Secretary for Planning and Evaluation; December 2021. https://aspe.hhs.gov/reports/economic-health-benefits-covid-19-vaccination. Accessed October 24, 2023.
+
+Lin DY, Gu Y, Xu Y, Wheeler B, Young H, Sunny SK, Moore Z, Zeng D. Association of primary and booster vaccination and prior infection with SARS-CoV-2 infection and severe COVID-19 outcomes. JAMA. 2022 Oct 11;328(14):1415-1426. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9513711/. Accessed October 24, 2023.
+
+Fitzpatrick MC, Moghadas SM, Pandey A, Galvani AP. Two Years of U.S. COVID-19 Vaccines Have Prevented Millions of Hospitalizations and Deaths. Commonwealth Fund Blog, December 13, 2022. https://www.commonwealthfund.org/blog/2022/two-years-covid-vaccines-prevented-millions-deaths-hospitalizations. Accessed October 24, 2023.
+
+Anderson RM, Vegvari C, Truscott J, Collyer BS. Challenges in creating herd immunity to SARS-CoV-2 infection by mass vaccination. Lancet. 2020 Nov 21;396(10263):1614-1616. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7836302/. Accessed October 24, 2023.
+
+The White House. President Biden to announce goal to administer at least one vaccine shot to 70% of the U.S. adult population by July 4th. May 4, 2021. https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/04/fact-sheet-president-biden-to-announce-goal-to-administer-at-least-one-vaccine-shot-to-70-of-the-u-s-adult-population-by-july-4th/. Accessed October 24, 2023.
+
+Silver D, Kim Y, McNeill E, Piltch-Loeb R, Wang V, Abramson D. Association between COVID-19 vaccine hesitancy and trust in the medical profession and public health officials. Prev Med. 2022 Nov;164:107311. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9580241/. Accessed October 24, 2023.
+
+Viskupič F, Wiltse DL, Meyer BA. Trust in physicians and trust in government predict COVID-19 vaccine uptake. Soc Sci Q. 2022 May;103(3):509-520. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9115527/. Accessed October 24, 2023.
+
+Kirzinger A, Munana C, Brodie M. Vaccine hesitancy in rural America. Kaiser Family Foundation; 2021. https://www.kff.org/coronavirus-covid-19/poll-finding/vaccine-hesitancy-in-rural-america/. Accessed October 24, 2023.
+
+Kiang MV, Carlasare LE, Thadaney Israni S, Norcini JJ, Zaman JAB, Bibbins-Domingo K. Excess mortality among U.S. physicians during the COVID-19 pandemic. JAMA Intern Med. 2023 Apr 1;183(4):374-376. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10071333/. Accessed October 24, 2023.
+
+Centers for Disease Control and Prevention. COVID Data Tracker. Cases & Deaths Among Healthcare Personnel. February 1, 2023.
+
+Lost on the Frontline. The Guardian, Kaiser Health News, 2021. https://www.theguardian.com/us-news/ng-interactive/2020/aug/11/lost-on-the-frontline-covid-19-coronavirus-us-healthcare-workers-deaths-database. Accessed October 24, 2023.
+
+Shiels MS, Haque AT, Haozous EA, et al. Racial and ethnic disparities in excess deaths during the COVID-19 pandemic, March to December 2020. Ann Intern Med. 2021 Dec;174(12):1693-1699. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8489677/. Accessed October 24, 2023.
+
+Mackey K, Ayers CK, Kondo KK, et al. Racial and ethnic disparities in COVID-19-related infections, hospitalizations, and deaths : a systematic review. Ann Intern Med. 2021 Mar;174(3):362-373. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7772883/. Accessed October 24, 2023.
+
+Pilishvili T, Fleming-Dutra KE, Farrar JL, et al. Interim estimates of vaccine effectiveness of Pfizer-BioNTech and Moderna COVID-19 vaccines among health care personnel — 33 U.S. sites, January–March 2021. MMWR Morb Mortal Wkly Rep. 2021;70:753-758. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8136422/. Accessed October 24, 2023.
+
+Dagan N, Barda N, Kepten E, et al. BNT162b2 mRNA Covid-19 vaccine in a nationwide mass vaccination setting. N Engl J Med. 2021 Apr 15;384(15):1412-1423. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7944975/. Accessed October 24, 2023.
+
+Plans-Rubió P. Percentages of vaccination coverage required to establish herd immunity against SARS-CoV-2. Vaccines (Basel). 2022 May 8;10(5):736. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9144560/. Accessed October 24, 2023.
+
+Gonzales A, Lee EC, Grigrescu V, et al. Overview of Barriers and Facilitators in COVID-19 Vaccine Outreach. (Research Report No. HP-2021-19). Washington, DC: U.S. Department of Health and Human Services, Office of the Assistant Secretary for Planning and Evaluation; September 2021. https://aspe.hhs.gov/reports/covid-19-vaccine-outreach. Accessed October 24, 2023.
+
+Ndugga N, Artiga S, Pham O. How Are States Addressing Racial Equity in COVID-19 Vaccine Efforts? Kaiser Family Foundation; March 10, 2021. https://www.kff.org/racial-equity-and-health-policy/issue-brief/how-are-states-addressing-racial-equity-in-covid-19-vaccine-efforts/. Accessed October 24, 2023.
+
+French G, Hulse M, Nguyen D, et al. Impact of hospital strain on excess deaths during the COVID-19 pandemic — United States, July 2020–July 2021. MMWR Morb Mortal Wkly Rep. 2021;70:1613-1616. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8601411/. Accessed October 24, 2023.
+
+Agency for Healthcare Research and Quality. Impact of the COVID-19 pandemic on patient safety. AHRQ Patient Safety Network Annual Perspective; March 30, 2021. https://psnet.ahrq.gov/perspective/ahrq-psnet-annual-perspective-impact-covid-19-pandemic-patient-safety. Accessed October 24, 2023.
+
+Centers for Disease Control and Prevention. Implementation of Mitigation Strategies for Communities With Local COVID-19 Transmission. Updated May 23, 2021.
+
+Centers for Disease Control and Prevention. How COVID-19 Spreads. Last updated August 11, 2022. https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html. Accessed October 27, 2023.
+
+Jacobsen GD, Jacobsen KH. Statewide COVID-19 stay-at-home orders and population mobility in the United States. World Med Health Policy. 2020 Dec;12(4):347-356. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7405141/. Accessed October 27, 2023.
+
+Czeisler MÉ, Marynak K, Clarke KE, et al. Delay or avoidance of medical care because of COVID-19–related concerns — United States, June 2020. MMWR Morb Mortal Wkly Rep. 2020;69:1250-1257. http://dx.doi.org/10.15585/mmwr.mm6936a4. Accessed October 27, 2023.
+
+Clarke KEN, Hong K, Schoonveld M, et al. Severity of coronavirus disease 2019 hospitalization outcomes and patient disposition differ by disability status and disability type. Clin Infect Dis. 2023 Mar 4;76(5):871-880. https://doi.org/10.1093/cid/ciac826. Accessed October 27, 2023.
+
+Wong R, Lovier MA. Relationship between dementia, COVID-19 risk, and adherence to COVID-19 mitigation behaviors among older adults in the United States. Int J Geriatr Psychiatry. 2022 Jun;37(6):10.1002/gps.5735. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9348266/. Accessed November 20, 2023.
+
+Bronskill SE, Maclagan LC, Maxwell CJ, et al. Trends in health service use for Canadian adults with dementia and Parkinson disease during the first wave of the COVID-19 pandemic. JAMA Health Forum. 2022;3(1):e214599. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8903126/. Accessed November 20, 2023.
+
+Hartnett KP, Kite-Powell A, DeVies J, et al. Impact of the COVID-19 pandemic on emergency department visits — United States, January1, 2019–May 30, 2020. MMWR Morb Mortal Wkly Rep. 2020;69:699-704. http://dx.doi.org/10.15585/mmwr.mm6923e1.
+
+Jain S, Self WH, Wunderink RG, et al.; CDC EPIC Study Team. Community-acquired pneumonia requiring hospitalization among U.S. adults. N Engl J Med. 2015 Jul 30;373(5):415-427. https://www.nejm.org/doi/10.1056/NEJMoa1500245. Accessed October 27, 2023.
+
+Weiner SG, Venkatesh AK. Despite CMS reporting policies, emergency department boarding is still a big problem—the right quality measures can help fix it. Health Affairs Forefront. 2022 Mar 29. https://www.healthaffairs.org/content/forefront/despite-cms-reporting-policies-emergency-department-boarding-still-big-problem-right. Accessed November 20, 2023.
+
+French G, Hulse M, Nguyen D, et al. Impact of hospital strain on excess deaths during the COVID-19 pandemic — United States, July 2020–July 2021. MMWR Morb Mortal Wkly Rep. 2021;70:1613-1616. http://dx.doi.org/10.15585/mmwr.mm7046a5. Accessed October 27, 2023.
+
+Eldridge N, Wang Y, Metersky M, et al. Trends in adverse event rates in hospitalized patients, 2010-2019. JAMA. 2022;328(2):173-183. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9277501/. Accessed November 20, 2023.
+
+Fleisher L, Schreiber M, Cardo D, Srinivasan A. Health care safety during the pandemic and beyond - building a system that ensures resilience. N Engl J Med. 2022;386(7):609-611. https://www.nejm.org/doi/10.1056/NEJMp2118285. Accessed November 27, 2023.
+
+Weiner-Lastinger LM, Pattabiraman V, Konnor RY, et al. The impact of coronavirus disease 2019 (COVID-19) on healthcare-associated infections in 2020: a summary of data reported to the National Healthcare Safety Network. Infect Control Hosp Epidemiol. 2022 Jan;43(1):12-25. https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology/article/impact-of-coronavirus-disease-2019-covid19-on-healthcareassociated-infections-in-2020-a-summary-of-data-reported-to-the-national-healthcare-safety-network/8197F323F4840D233A0C62F4726287E1. Accessed November 20, 2023.
+
+Isaacs K. How PPE for COVID-19 impacts patient communication. RDH. 2021 Mar 1. https://www.rdhmag.com/infection-control/article/14189079/how-personal-protective-equipment-ppe-for-covid19-impacts-patient-communication. Accessed November 27, 2023.
+
+Agency for Healthcare Research and Quality. PSNet. Patient Safety Events and the Role of Patient Safety Organizations During the COVID-19 Pandemic. https://psnet.ahrq.gov/perspective/patient-safety-events-and-role-patient-safety-organizations-during-covid-19-pandemic. Accessed November 27, 2023.
+
+Agency for Healthcare Research and Quality. User Notification on COVID-19 Impact on AHRQ QI Software. July 2020. https://qualityindicators.ahrq.gov/Downloads/Resources/User_note_COVID.pdf. Accessed November 27, 2023.
+
+Huggins A, Husaini M, Wang F, et al. Care disruption during COVID-19: a national survey of hospital leaders. J Gen Intern Med. 2023 Apr;38(5):1232-1238. https://doi.org/10.1007/s11606-022-08002-5. Accessed October 27, 2023.
+
+Woodruff A, Frakt AB. COVID-19 pandemic leads to decrease in emergency department wait times. JAMA Health Forum. 2020;1(9):e201172. https://doi.org/10.1001/jamahealthforum.2020.1172. Accessed October 27, 2023.
+
+Agency for Healthcare Research and Quality. Ambulatory Care. Last reviewed February 2018. https://www.ahrq.gov/patient-safety/settings/ambulatory/tools.html. Accessed October 27, 2023.
+
+Centers for Medicare & Medicaid Services. Quick Definitions for National Health Expenditure Accounts (NHEA) Categories. https://www.cms.gov/files/document/quick-definitions-national-health-expenditures-accounts-nhea-categories.pdf. Accessed October 27, 2023.
+
+Centers for Medicare & Medicaid Services. NHE Fact Sheet, including NHE tables. Last modified September 2023. https://www.cms.gov/research-statistics-data-and-systems/statistics-trends-and-reports/nationalhealthexpenddata/nhe-fact-sheet. Accessed October 27, 2023.
+
+Centers for Medicare & Medicaid Services. CMS Releases Recommendations on Adult Elective Surgeries, Non-Essential Medical, Surgical, and Dental Procedures During COVID-19 Response. March 18, 2020. https://www.cms.gov/newsroom/press-releases/cms-releases-recommendations-adult-elective-surgeries-non-essential-medical-surgical-and-dental. Accessed October 27, 2023.
+
+Czeisler MÉ, Marynak K, Clarke KEN, Salah Z, Shakya I, Thierry JM, Ali N, McMillan H, Wiley JF, Weaver MD, Czeisler CA, Rajaratnam SMW, Howard ME. Delay or avoidance of medical care because of COVID-19–related concerns — United States, June 2020. MMWR Morb Mortal Wkly Rep 2020;69:1250-1257. https://www.cdc.gov/mmwr/volumes/69/wr/mm6936a4.htm?s_cid=mm6936a4_w. Accessed October 27, 2023.
+
+Mefford MT, Wei R, Lustigova E, Martin JP, Reynolds K. Incidence of diabetes among youth before and during the COVID-19 pandemic. JAMA Netw Open. 2023 Sep 5;6(9):e2334953. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10514735/. Accessed November 20, 2023.
+
+Khunti K, Aroda VR, Aschner P, Chan JCN, Del Prato S, Hambling CE, Harris S, Lamptey R, McKee M, Tandon N, Valabhji J, Seidu S. The impact of the COVID-19 pandemic on diabetes services: planning for a global recovery. Lancet Diabetes Endocrinol. 2022 Dec;10(12):890-900. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9640202/. Accessed October 27, 2023.
+
+Bancks MP, Lin M-Y, Bertoni A, Futrell WM, Liu Z, Ostasiewski B, Wells BJ, Hanchate A. Impact of the COVID-19 pandemic on diabetes care among a North Carolina patient population. Clin Diabetes. 2022;40(4):467-476. https://doi.org/10.2337/cd21-0136. Accessed October 27, 2023.
+
+Mohseni M, Ahmadi S, Azami-Aghdash S, Mousavi Isfahani H, Moosavi A, Fardid M, Etemadi M, Ghazanfari F. Challenges of routine diabetes care during COVID-19 era: a systematic search and narrative review. Prim Care Diabetes. 2021 Dec;15(6):918-922. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8326007/. Accessed October 27, 2023.
+
+Floyd JS, Walker RL, Kuntz JL, Shortreed SM, Fortmann SP, Bayliss EA, Harrington LB, Fuller S, Albertson-Junkans LH, Powers JD, Lee MH, Temposky LA, Dublin S. Association between diabetes severity and risks of COVID-19 infection and outcomes. J Gen Intern Med. 2023;38:1484-1492. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9933797/. Accessed October 27, 2023.
+
+Centers for Disease Control and Prevention. U.S. Cancer Statistics: Data Visualizations. Cancer Statistics At a Glance. https://gis.cdc.gov/Cancer/USCS/#/AtAGlance/. Accessed October 27, 2023.
+
+Ma Z, Richardson LC. Cancer screening prevalence and associated factors among US adults. Prev Chronic Dis. 2022 Apr 21;19:220063. http://dx.doi.org/10.5888/pcd19.220063. Accessed October 27, 2023.
+
+Sharma KP, Grosse SD, Maciosek MV, Djenaba J, Roy K, Richardson LC, Jaffe H. Preventing breast, cervical, and colorectal cancer deaths: assessing the impact of increased screening. Preventing Chronic Disease. 2020 Oct 8;17. https://doi.org/10.5888/pcd17.200039. Accessed October 27, 2023.
+
+Wang L. Working To Close the Cancer Screening Gap Caused by COVID. Cancer Currents Blog. 2022 May 17. National Cancer Institute. https://www.cancer.gov/news-events/cancer-currents-blog/2022/covid-increasing-cancer-screening
+
+Sharpless NE. COVID-19 and cancer. Science 2020 Jun 19;368(6497). https://www.science.org/doi/10.1126/science.abd3377. Accessed October 27, 2023.
+
+Cancino RS, Su Z, Mesa R, Tomlinson GE, Wang J. The impact of COVID-19 on cancer screening: challenges and opportunities. JMIR Cancer. 2020;6(2):e21697. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7599065/. Accessed October 27, 2023.
+
+Baum A, Kaboli PJ, Schwartz MD. Reduced in-person and increased telehealth outpatient visits during the COVID-19 pandemic. Ann Intern Med. 2021;174(1):129-131. https://www.acpjournals.org/doi/full/10.7326/M20-3026. Accessed October 27, 2023.
+
+McBain RK, Cantor JH, Jena AB, Pera MF, Bravata DM, Whaley CM. Decline and rebound in routine cancer screening rates during the COVID-19 pandemic. J Gen Intern Med. 2021 Jun;36(6):1829-1831. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7978463/. Accessed October 27, 2023.
+
+AHRQ’s Role in Nursing Home COVID-19 Response. https://www.ahrq.gov/sites/default/files/wysiwyg/nursing-home/materials/ahrq-network-factsheet.pdf. Accessed October 27, 2023.
+
+Chidambaram P. Over 200,000 residents and staff in long-term care facilities have died from COVID-19. KFF Policy Watch; February 3, 2022. https://www.kff.org/policy-watch/over-200000-residents-and-staff-in-long-term-care-facilities-have-died-from-covid-19/. Accessed October 27, 2023.
+
+U.S. Department of Health and Human Services, Office of Inspector General. More Than a Thousand Nursing Homes Reached Infection Rates of 75 Percent or More in the First Year of the COVID-19 Pandemic; Better Protections Are Needed for Future Emergencies. January 19, 2023. OEI-02-20-00491. https://oig.hhs.gov/oei/reports/OEI-02-20-00491.asp#:~:text=AddThis%20Sharing%20Buttons-,More%20Than%20a%20Thousand%20Nursing%20Homes%20Reached%20Infection%20Rates%20of,Are%20Needed%20for%20Future%20Emergencies. Accessed October 27, 2023.
+
+Bureau of Labor Statistics. Labor Force Statistics From the Current Population Survey. Last modified January 2023. https://www.bls.gov/cps/cpsaat18b.htm. Accessed October 27, 2023.
+
+Sengupta M, Lendon JP, Caffrey C, Melekin A, Singh P. Post-Acute and Long-Term Care Providers and Services Users in the United States, 2017-2018. Vital Health Stat 3. 2022 May;47:1-93. https://www.cdc.gov/nchs/data/series/sr_03/sr03-047.pdf. Accessed October 27, 2023.
+
+Yuan Y, Thierry JM, Bull-Otterson L, Yeargin-Allsopp M, Clark KEN, Rice C, Ritchey M, Ryerson AB. COVID-19 cases and hospitalizations among Medicare beneficiaries with and without disabilities — United States, January 1, 2020–November 20, 2021. MMWR Morb Mortal Wkly Rep. 2022;71:791-796. https://www.cdc.gov/mmwr/volumes/71/wr/mm7124a3.htm. Accessed November 7, 2023.
+
+Gorges RJ, Konetzka RT. Factors associated with racial differences in deaths among nursing home residents with COVID-19 infection in the U.S. JAMA Netw Open. 2021 Feb 1;4(2):e2037431. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7876590/. Accessed October 27, 2023.
+
+CMS Newsroom. CMS Will Require Nursing Homes To Vaccinate Residents Against the Flu. October 7, 2005. https://www.cms.gov/newsroom/press-releases/cms-will-require-nursing-homes-vaccinate-residents-against-flu#:~:text=Nursing%20homes%20serving%20Medicare%20and,CMS%20in%20today's%20Federal%20Register. Accessed October 27, 2023.
+
+U.S. Department of Health and Human Services. COVID-19 Vaccines. Last reviewed September 2023. https://www.hhs.gov/coronavirus/covid-19-vaccines/index.html. Accessed October 27, 2023.
+
+Centers for Disease Control and Prevention. COVID-19 Vaccines for Long-Term Care Residents. Last updated September 2023. https://www.cdc.gov/coronavirus/2019-ncov/vaccines/recommendations/LTCF-residents.html. Accessed October 27, 2023.
+
+Laise E. Vaccine Push at Nursing Homes Meets Resistance. Barron’s. 2020 Dec 17. https://www.barrons.com/articles/crisis-hit-care-homes-face-covid-vaccine-challenge-51608192341.
+
+Infection Control. 42 CFR §483.80. https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-G/part-483/subpart-B/section-483.80. Accessed October 27, 2023.
+
+U.S. Department of Health and Human Services, Office of Inspector General. COVID-19 Vaccination Status of Nursing Home Staff. https://oig.hhs.gov/reports-and-publications/workplan/summary/wp-summary-0000664.asp#:~:text=CMS%20amended%20Federal%20regulations%20at,specific%20medical%20and%20religious%20reasons). Accessed October 27, 2023.
+
+Chidambaram P, Musumeci MB. Nursing Facility Staff Vaccinations, Boosters, and Shortages After Vaccination Deadlines Passed. KFF; May 16, 2022. https://www.kff.org/coronavirus-covid-19/issue-brief/nursing-facility-staff-vaccinations-boosters-and-shortages-after-vaccination-deadlines-passed/#:~:text=As%20of%20the%20end%20of,25%25%20(Figure%205). Accessed October 27, 2023.
+
+Yurkofsky M, Ouslander JG. COVID-19: Management in Nursing Homes. UpToDate. 2023 Oct 2. https://www.uptodate.com/contents/covid-19-management-in-nursing-homes.
+
+U.S. Nursing Assistants Employed in Nursing Homes: Key Facts. New York: PHI; 2019. https://www.phinational.org/resource/u-s-nursing-assistants-employed-in-nursing-homes-key-facts-2019/. October 27, 2023.
+
+Inadequate Training in Nursing Homes: Patients Pay the Price for the Poor Training of Nursing Home Staff. Last modified September 2023. https://nursinghomesabuse.org/nursing-home-neglect/inadequate-training/#:~:text=Staff%20who%20are%20untrained%20in,to%20neglect%20important%20patient%20needs. Accessed October 27, 2023.
+
+Fry R. Some Gender Disparities Widened in the U.S. Workforce During the Pandemic. Pew Research Center; January 13, 2022. Richard Fry. https://www.pewresearch.org/short-reads/2022/01/14/some-gender-disparities-widened-in-the-u-s-workforce-during-the-pandemic/. Accessed October 27, 2023.
+
+Centers for Medicare & Medicaid Services. Memorandum on Nursing Home Visitation – COVID-19. Ref: QSO-20-39-NH; September 17, 2020, revised May 8, 2023. https://www.cms.gov/files/document/qso-20-39-nh-revised.pdf. Accessed October 27, 2023.
+
+Andersen LE, Tripp L, Perz JF, Stone ND, Viall AH, Ling SM, Fleisher LA. Protecting nursing home residents from COVID-19: federal strike team findings and lessons learned. NEJM Catalyst. 2021 June 28. https://catalyst.nejm.org/doi/full/10.1056/CAT.21.0144. Accessed October 27, 2023.
+
+U.S. Department of Health and Human Services. Getting Started With Telehealth. Last updated July 2023. https://telehealth.hhs.gov/providers/getting-started. Accessed October 30, 2023.
+
+Institute of Medicine Committee on Quality of Health Care in America. Crossing the Quality Chasm: A New Health System for the 21st Century. Washington, DC: National Academies Press; 2001. https://www.nap.edu/catalog/10027/crossing-the-quality-chasm-a-newhealth-system-for-the. Accessed October 30, 2023.
+
+Weinstein RS, Lopez AM, Joseph BA, Erps KA, Holcomb M, Barker GP, Krupinski EA. Telemedicine, telehealth, and mobile health applications that work: opportunities and barriers. Am J Med. 2014;127(3):183-187. https://doi.org/10.1016/j.amjmed.2013.09.032. Accessed October 30, 2023.
+
+Bashshur RL, Howell JD, Krupinski EA, Harms KM, Bashshur N, Doarn DR. The empirical foundations of telemedicine interventions in primary care. Telemed J E Health. 2016;22(5):342-375. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4860623/. Accessed October 30, 2023.
+
+Amwell. Telehealth Index: 2019 Consumer Survey. https://resources.amwell.com/white-papers/millennials-are-the-most-likely-age-group-to-use-telehealth-especially-for-mental-health (registration required for full report). Accessed October 30, 2023.
+
+Becevic M, Boren S, Mutrux R, Shah Z, Banerjee S. User satisfaction with telehealth: study of patients, providers, and coordinators. Health Care Manag (Frederick). 2015;34(4):337-349. https://pubmed.ncbi.nlm.nih.gov/26506296/. Accessed October 30, 2023.
+
+Polinski JM, Barker T, Gagliano N, Sussman A, Brennan TA, Shrank WH. Patients’ satisfaction with and preference for telehealth visits. J Gen Intern Med. 2016 Mar;31:269-275. https://doi.org/10.1007/s11606-015-3489-x. Accessed October 30, 2023.
+
+Orlando JF, Beard M, Kumar S. Systematic review of patient and caregivers’ satisfaction with telehealth videoconferencing as a mode of service delivery in managing patients’ health. PLoS One. 2019 Aug 30;14(8):e0221848. https://doi.org/10.1371/journal.pone.0221848. Accessed October 30, 2023.
+
+Shaver J. The state of telehealth before and after the COVID-19 pandemic. Prim Care. 2022 Dec;49(4):517-530. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9035352/. Accessed October 30, 2023.
+
+Weinstein RS, Lopez AM, Krupinski EA. Telemedicine: news from the front lines. Am J Med. 2014 Mar;127(3):172-173. https://doi.org/10.1016/j.amjmed.2013.09.033. Accessed October 30, 2023.
+
+Ellimoottil C, An L, Moyer M, Sossong S, Hollander JE. Challenges and opportunities faced by large health systems implementing telehealth. Health Aff (Millwood). 2018;37(12):1955-1959. https://www.healthaffairs.org/doi/10.1377/hlthaff.2018.05099. Accessed October 30, 2023.
+
+Harris J, Newell B, Serafini WB, Hoagland GW, Ruff J. The Future of Telehealth After COVID-19: New Opportunities and Challenges. Bipartisan Policy Center. 2022. https://bipartisanpolicy.org/report/future-of-telehealth/. Accessed October 30, 2023.
+
+Pew Research Center. Mobile Fact Sheet. April 7, 2021. http://www.pewinternet.org/fact-sheet/mobile/. Accessed November 21, 2023.
+
+Pew Research Center. Mobile Technology and Home Broadband 2021. June 3, 2021. https://www.pewresearch.org/internet/2021/06/03/mobile-technology-and-home-broadband-2021/. Accessed November 21, 2023.
+
+Vogels E. Some digital divides persist between rural, urban and suburban America. Washington, DC: Pew Research Center; August 2021. https://pewresearch-org-preprod.go-vip.co/fact-tank/2021/08/19/some-digital-divides-persist-between-rural-urban-and-suburban-america/. Accessed October 30, 2023.
+
+Gertz AH, Pollack CC, Schultheiss MD, Brownstein JS. Delayed medical care and underlying health in the United States during the COVID-19 pandemic: a cross-sectional study. Prev Med Rep. 2022 Aug;28:101882. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9254505/. Accessed October 30, 2023.
+
+Bosworth A, Ruhter J, Samson LW, Sheingold S, Taplin C, Tarazi W, Zuckerman R. Medicare Beneficiary Use of Telehealth Visits: Early Data From the Start of COVID-19 Pandemic. Washington, DC: U.S. Department of Health and Human Services, Office of the Assistant Secretary for Planning and Evaluation; July 28, 2020. https://aspe.hhs.gov/sites/default/files/migrated_legacy_files/198331/hp-issue-brief-medicare-telehealth.pdf. Accessed October 30, 2023.
+
+Koonin LM, Hoots B, Tsang CA, Leroy Z, Farris K, Jolly T, Antall P, McCabe B, Zelis CBR, Tong I, Harris AM. Trends in the use of telehealth during the emergence of the COVID-19 pandemic - United States, January-March 2020. MMWR Morb Mortal Wkly Rep. 2020 Oct 30;69(43):1595-1599. https://www.cdc.gov/mmwr/volumes/69/wr/mm6943a3.htm?s_cid=mm6943a3_w. Accessed October 30, 2023.
+
+U.S. Department of Health and Human Services, Office of the Inspector General. Data Brief: Telehealth Was Critical for Providing Services to Medicare Beneficiaries During the First Year of the COVID-19 Pandemic. March 2022, OEI-02-20-00520. https://oig.hhs.gov/oei/reports/OEI-02-20-00520.pdf. Accessed October 30, 2023.
+
+Ellimoottil C, Zhu Z, Dunn RL, Thompson MP. Trends in telehealth use by Medicare fee-for-service beneficiaries and its impact on overall volume of healthcare services. medRxiv. 2022 Jun 15;22276468. https://doi.org/10.1101/2022.06.15.22276468. Accessed October 30, 2023.
+
+Mehrotra A, Chernew ME, Linetsky D, Hatch H, Cutler DM, Schneider EC. The Impact of COVID-19 on Outpatient Visits in 2020: Visits Remained Stable, Despite a Late Surge in Cases. New York, NY: The Commonwealth Fund; February 2021. https://www.commonwealthfund.org/publications/2021/feb/impact-covid-19-outpatient-visits-2020-visits-stable-despite-late-surge. Accessed October 30, 2023.
+
+Mulia N, Ye Y, Greenfield TK, Martinez P, Patterson D, Kerr WC, Karriker-Jaffe KJ. Inequitable access to general and behavioral healthcare in the U.S. during the COVID-19 pandemic: a role for telehealth? Prev Med. 2023;169:107426. https://doi.org/10.1016/j.ypmed.2023.107426. Accessed October 30, 2023.
+
+Samson L, Tarazi W, Turrini G, Sheingold S. Medicare Beneficiaries’ Use of Telehealth Services in 2020 – Trends by Beneficiary Characteristics and Location. Issue Brief No. HP-2021-27. U.S. Department of Health and Human Services, Office of the Assistant Secretary for Planning and Evaluation; December 3, 2021. https://aspe.hhs.gov/reports/medicare-beneficiaries-use-telehealth-2020. Accessed October 30, 2023.
+
+Samson LW, Couture SJ, Jacobus-Kantor L, Creedon TB, Sheingold S. Updated Medicare FFS Telehealth Trends by Beneficiary Characteristics, Visit Specialty and State, 2019-2021. Issue Brief No. HP-2023-18. U.S. Department of Health and Human Services, Office of the Assistant Secretary for Planning and Evaluation; July 20, 2023. https://aspe.hhs.gov/reports/updated-medicare-ffs-telehealth-trends. Accessed October 30, 2023.
+
+Schorn MN, Myers CR, Barroso J, Hande K, Hudson T, Kim J, Kleinpell R. Changes in telehealth experienced by advanced practice RNs during COVID-19: US survey results. Comput Inform Nurs. 2023 Jul 1;41(7):507-513. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10332511/. Accessed November 21, 2023.
+
+Lo J, Rae M, Amin K, Cox C, Panchal N, Miller BF. Telehealth Has Played an Outsized Role Meeting Mental Health Needs During the COVID-19 Pandemic. Washington, DC: KFF; 2022. https://www.kff.org/coronavirus-covid-19/issue-brief/telehealth-has-played-an-outsized-role-meeting-mental-health-needs-during-the-covid-19-pandemic/. Accessed October 30, 2023.
+
+Hatef E, Wilson RF, Hannum SM, Zhang A, Kharrazi H, Weiner JP, Davis SA, Robinson KA. Use of Telehealth During the COVID-19 Era. Systematic Review. Rockville, MD: Agency for Healthcare Research and Quality; January 2023. AHRQ Publication No. 23-EHC005. https://effectivehealthcare.ahrq.gov/products/virtual-health-covid/research. Accessed October 30, 2023.
+
+Katzow MW, Steinway C, Jan S. Telemedicine and health disparities during COVID-19. Pediatrics. 2020;146(2):e20201586. https://publications.aap.org/pediatrics/article/146/2/e20201586/36919/Telemedicine-and-Health-Disparities-During-COVID. Accessed October 30, 2023.
+
+Reed ME, Huang J, Graetz I, Lee C, Muelly E, Kennedy C, Kim E. Patient characteristics associated with choosing a telemedicine visit vs. office visit with the same primary care clinicians. JAMA Netw Open. 2020;3:e205873. https://doi.org/10.1001/jamanetworkopen.2020.5873. Accessed October 30, 2023.
+
+Weiner JP, Bandeian S, Hatef E, Lans D, Liu A, Lemke KW. In-person and telehealth ambulatory contacts and costs in a large U.S. insured cohort before and during the COVID-19 pandemic. JAMA Netw Open. 2021 Mar 1;4(3):e212618. https://doi.org/10.1001/jamanetworkopen.2021.2618. Accessed October 30, 2023.
+
+Creating a Framework To Support Measure Development for Telehealth (funded by the Department of Health and Human Services under contract HHSM-500-2012-00009I, Task Order HHSM-500-T0022). Washington, DC: National Quality Forum; 2017. https://www.qualityforum.org/Publications/2017/08/Creating_a_Framework_to_Support_Measure_Development_for_Telehealth.aspx. Accessed October 30, 2023.
+
+Hatef E, Lans D, Bandeian S, Lasser EC, Goldsack J, Weiner JP. Outcomes of in-person and telehealth ambulatory encounters during COVID-19 within a large commercially insured cohort. JAMA Netw Open. 2022 Apr 1;5(4):e228954. https://doi.org/10.1001/jamanetworkopen.2022.8954. Accessed October 30, 2023.
+
+Koonin LM, Hoots B, Tsang CA, Leroy Z, Farris K, Jolly T, Antall P, McCabe B, Zelis CBR, Tong I, Harris AM. Trends in the use of telehealth during the emergence of the COVID-19 pandemic – United States, January-March 2020. MMWR Morb Mortal Wkly Rep. 2020 Oct 30;69(43):1595-1599. https://www.cdc.gov/mmwr/volumes/69/wr/mm6943a3.htm?s_cid=mm6943a3_w. Accessed October 30, 2023.
+
+Mansour O, Tajanlangit M, Heyward J, Mojtabai R, Alexander GC. Telemedicine and office-based care for behavioral and psychiatric conditions during the COVID-19 pandemic in the United States. Ann Intern Med. 2021 Mar;174(3):428-430. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7711651/. Accessed October 30, 2023.
+
+Ferguson JM, Jacobs J, Yefimova M, Greene L, Heyworth L, Zulman DM. Virtual care expansion in the Veterans Health Administration during the COVID-19 pandemic: clinical services and patient characteristics associated with utilization. J Am Med Inform Assoc. 2021 Mar 1;28(3):453-462. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7665538/. Accessed October 30, 2023.
+
+Gilson SF, Umscheid CA, Laiteerapong N, Ossey G, Nunes KJ, Shah SD. Growth of ambulatory virtual visits and differential use by patient sociodemographics at one urban academic medical center during the COVID-19 pandemic: retrospective analysis. JMIR Med Inform. 2020;8(12):e24544. https://medinform.jmir.org/2020/12/e24544/. Accessed October 30, 2023.
+
+Lee EC, Grigorescu V, Enogieru I, Smith SR, Samson LW, Conmy A, De Lew N. Updated National Survey Trends in Telehealth Utilization and Modality: 2021-2022. Issue Brief No. HP-2023-09. Washington, DC: U.S. Department of Health and Human Services, Office of the Assistant Secretary for Planning and Evaluation; April 2023. https://aspe.hhs.gov/sites/default/files/documents/7d6b4989431f4c70144f209622975116/household-pulse-survey-telehealth-covid-ib.pdf. Accessed October 30, 2023.
+
+O’Konnor K. CMS Issues New Rule Allowing Billing for Audio-Only Telehealth. Psychiatric News. 2020 May 28. https://doi.org/10.1176/appi.pn.2020.6a21. Accessed October 30, 2023.
+
+United States Census Bureau. Table S2801 Types of Computers and Internet Subscriptions. 2015-2020. https://data.census.gov/table/ACSST5Y2020.S2801?q=internet. Accessed November 21, 2023.
+
+Chen J, Li KY, Andino J, Hill CE, Ng S, Steppe E, Ellimoottil C. Predictors of audio-only versus video telehealth visits during the COVID-19 pandemic. J Gen Intern Med. 2022;37(5):1138-1144. https://doi.org/10.1007/s11606-021-07172-y. Accessed October 30, 2023.
+
+Broadband: Observations on Past and Ongoing Efforts To Expand Access and Improve Mapping Data. GAO-20-535. Washington, DC: U.S. Government Accountability Office; June 25, 2020. https://www.gao.gov/products/gao-20-535. Accessed October 30, 2023.
+
+Eyrich NW, Andino JJ, Fessell DP. Bridging the digital divide to avoid leaving the most vulnerable behind. JAMA Surg. 2021;156(8):703-704. https://doi.org/10.1001/jamasurg.2021.1143. Accessed October 30, 2023.
+
+Chen A, Ayub MH, Mishuris RG, Rodriguez JA, Gwynn K, Lo MC, Noronha C, Henry TL, Jones D, Lee WW, Varma M, Cuevas E, Onumah C, Gupta R, Goodson J, Lu AD, Syed Q, Suen LW, Heiman E, Salhi BA, Khoong EC, Schmidt S. Telehealth Policy, Practice, and Education: a Position Statement of the Society of General Internal Medicine. J Gen Intern Med. 2023 Aug;38:2613-2620. https://doi.org/10.1007/s11606-023-08190-8. Accessed October 30, 2023.
+
+Federal Communications Commission. Emergency Broadband Benefit. https://www.fcc.gov/broadbandbenefit. Accessed November 21, 2023.
+
+DeGuzman PB, Jain N, Loureiro CG. Public Libraries as Partners in Telemedicine Delivery: A Review and Research Agenda, Public Library Quarterly. 2022. 41:3, 294-304, DOI: 10.1080/01616846.2021.1877080
+
+Chiricuzio S. Public Libraries Tackle Telehealth Challenges. Library Journal. 2022. https://www.libraryjournal.com/story/Public-Libraries-Tackle-Telehealth-Challenges
+
+Settles C. Telehealth Services and Public Libraries: Life-Changing and Life-Saving Opportunities for Libraries to Power Telehealth Solutions in the Communities. Every Library Institute. 2021. https://www.everylibraryinstitute.org/teleheath_and_libraries_report. Accessed November 27, 2023.
+
+Haque SN. Telehealth beyond COVID-19. Psychiatr Serv. 2021;72:100-103. https://doi.org/10.1176/appi.ps.202000368. Accessed October 30, 2023.
+
+Larson AE, Zahnd WE, Davis MM, Stange KC, Yoon J, Heintzman JD, Harvey SM. Before and during pandemic telemedicine use: an analysis of rural and urban safety-net clinics. Am J Prev Med. 2022 Dec;63(6):1031-1036. https://doi.org/10.1016/j.amepre.2022.06.012. Accessed October 30, 2023.
+
+Hicks L. Public Comments on CONNECT for Health Act. Alexandria, VA: Society of General Internal Medicine; January 30, 2023. https://www.sgim.org/File%20Library/SGIM/Communities/Advocacy/Legislative%20Endorsements/CONNECT-118th-Comments_FINAL.pdf. Accessed October 30, 2023.
+
+Totten AM, Womack DM, Eden KB, McDonagh MS, Griffin JC, Grusing S, Hersh WR. Telehealth: Mapping the Evidence for Patient Outcomes From Systematic Reviews. Technical Brief No. 26. Rockville, MD: Agency for Healthcare Research and Quality; June 2016. AHRQ Publication No.16-EHC034-EF. https://effectivehealthcare.ahrq.gov/sites/default/files/pdf/telehealth_technical-brief.pdf. Accessed October 30, 2023.
+
+Ahmad FB, Cisewski JA, Xu J, Anderson RN. Provisional mortality data - United States, 2022. MMWR Morb Mortal Wkly Rep. 2023 May 5;72(18):488-492. https://www.cdc.gov/mmwr/volumes/72/wr/mm7218a3.htm?s_cid=mm7218a3_w. Accessed October 10, 2023.
+
+Silk BJ, Scobie HM, Duck WM, et al. COVID-19 Surveillance After Expiration of the Public Health Emergency Declaration ― United States, May 11, 2023. MMWR Morb Mortal Wkly Rep. 2023;72:523-528. https://www.cdc.gov/mmwr/volumes/72/wr/mm7219e1.htm?s_cid=mm7219e1_w. Accessed October 10, 2023.
+
+Cutler DM, Summers LH. The COVID-19 Pandemic and the $16 Trillion Virus. JAMA. 2020;324(15):1495-1496. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7604733/. Accessed October 10, 2023.
+
+Institute of Medicine, Committee on Monitoring Access to Personal Health Care Services. Access to Health Care in America. Millman M, ed. Washington, DC: National Academies Press; 1993. https://www.ncbi.nlm.nih.gov/books/NBK235882/. Accessed October 10, 2023.
+
+Office of Disease Prevention and Health Promotion. HealthyPeople 2030. Health Care Access and Quality. https://health.gov/healthypeople/objectives-and-data/browse-objectives/health-care-access-and-quality. Accessed October 10, 2023.
+
+Kullgren JT, McLaughlin CG, Mitra N, Armstrong K. Nonfinancial barriers and access to care for U.S. adults. Health Serv Res. 2012;47(1 Pt 2):462-85. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3393009/. Accessed October 10, 2023.
+
+Wilper AP, Woolhandler S, Lasser KE, McCormick D, Bor DH, Himmelstein DU. Health insurance and mortality in U.S. adults. Am J Public Health. 2009;99(12):2289-95. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775760/. Accessed October 10, 2023.
+
+Institute of Medicine; Committee on the Consequences of Uninsurance. Care Without Coverage: Too Little, Too Late. Washington, DC: National Academies Press; 2002. https://www.nap.edu/catalog/10367/carewithout-coverage-too-little-too-late. Accessed October 10, 2023.
+
+Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion. Chronic Diseases in America. Last reviewed January 2021. https://www.cdc.gov/chronicdisease/resources/infographic/chronic-diseases.htm. Accessed October 11, 2023.
+
+Raghupathi W, Raghupathi V. An empirical study of chronic diseases in the United States: a visual analytics approach. Int J Environ Res Public Health. 2018 Mar;15(3):431. https://doi.org/10.3390/ijerph15030431. Accessed October 11, 2023.
+
+Centers for Disease Control and Prevention. Leading Causes of Death. https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm Accessed October 11, 2023.
+
+Tsao CW, Aday AW, Almarzooq ZI, Anderson CAM, et al. and on behalf of the American Heart Association Council on Epidemiology and Prevention Statistics Committee and Stroke Statistics Subcommittee. Heart disease and stroke statistics—2023 update: a report from the American Heart Association Circulation. 2023 Feb 21;147(8):e93-e621. https://www.ahajournals.org/doi/10.1161/CIR.0000000000001123. Accessed October 11, 2023.
+
+Mariotto AB, Enewold L, Zhao J, Zeruto CA, Yabroff KR. Medical care costs associated with cancer survivorship in the United States. Cancer Epidemiol Biomarkers Prev. 2020 Jul;29(7):1304-1312. https://doi.org/10.1158/1055-9965.EPI-19-1534. Accessed October 11, 2023.
+
+Peterson C, Miller GF, Barnett SB, Florence C. Economic cost of injury — United States, 2019. MMWR Morb Mortal Wkly Rep. 2021;70:1655-1659. https://www.cdc.gov/mmwr/volumes/70/wr/mm7048a1.htm. Accessed October 11, 2023.
+
+Centers for Disease Control and Prevention. Chronic Obstructive Pulmonary Disease. COPD Costs. Last reviewed February 2018. https://www.cdc.gov/copd/infographics/copd-costs.html. Accessed October 11, 2023.
+
+Nurmagambetov T, Kuwahara R, Garbe P. The economic burden of asthma in the United States, 2008-2013. Ann Am Thorac Soc. 2018 Mar;15(3):348-356. https://www.atsjournals.org/doi/10.1513/AnnalsATS.201703-259OC. Accessed October 11, 2023.
+
+2021 Alzheimer’s Disease Facts and Figures. Alzheimer’s Impact Movement; Alzheimer’s Association. March 2021. https://alz-journals.onlinelibrary.wiley.com/pb-assets/hub-assets/alz-journals/Facts-2021-Infographic-1623213302.png. Accessed October 11, 2023.
+
+American Diabetes Association. Economic costs of diabetes in the U.S. in 2017. Diabetes Care. 2018;41(5):917-928. https://diabetesjournals.org/care/article/41/5/917/36518/Economic-Costs-of-Diabetes-in-the-U-S-in-2017. Accessed October 11, 2023.
+
+Chronic Kidney Disease Basics. https://www.cdc.gov/kidneydisease/basics.html#print. Accessed October 11, 2023.
+
+Kohn LT, Corrigan JM, Donaldson MS, eds.; Committee on Quality of Health Care in America, Institute of Medicine. To Err Is Human: Building a Safer Health System. Washington, DC: National Academies Press; 2000. http://www.nap.edu/catalog/9728.html. Accessed October 10, 2023.
+
+Committee on Diagnostic Error in Health Care; Board on Health Care Services; Institute of Medicine; National Academies of Sciences, Engineering, and Medicine. Improving Diagnosis in Health Care. Balogh EP, Miller BT, Ball JR, eds. Washington, DC: National Academies Press; December 2015. http://nap.edu/21794. Accessed October 10, 2023.
+
+Hall WJ, Chapman MV, Lee KM, Merino YM, Thomas TW, Payne BK, Eng E, Day SH, Coyne-Beasley T. Implicit racial/ethnic bias among health care professionals and its influence on health care outcomes: a systematic review. Am J Public Health. 2015;105(12):e60-e76. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4638275/. Accessed October 10, 2023.
+
+Sunshine JE, Meo N, Kassebaum NJ, Collison ML, Mokdad AH, Naghavi M. Association of adverse effects of medical treatment with mortality in the United States: a secondary analysis of the Global Burden of Diseases, Injuries, and Risk Factors Study. JAMA Netw Open. 2019;2(1):e187041. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6484545/. Accessed October 10, 2023.
+
+AHRQ National Scorecard on Hospital-Acquired Conditions: Final Results for 2014 Through 2017. https://www.ahrq.gov/sites/default/files/wysiwyg/professionals/quality-patient-safety/pfp/Updated-hacreportFInal2017data.pdf. Accessed October 10, 2023.
+
+Bailey MK, Weiss AJ, Barrett ML, Jiang HJ. Characteristics of 30-day readmissions, 2010-2016. HCUP Statistical Brief #248. Rockville, MD: Agency for Healthcare Research and Quality; February 2019. https://hcup-us.ahrq.gov/reports/statbriefs/sb248-Hospital-Readmissions-2010-2016.jsp. Accessed October 10, 2023.
+
+Lastinger L, Alvarez C, Kofman A, Konnor R, Kuhar D, Nkwata A, Patel P, Pattabiraman V, Xu S, Dudeck M. Continued increases in the incidence of healthcare-associated infection (HAI) during the second year of the coronavirus disease 2019 (COVID-19) pandemic. Infect Control Hosp Epidemiol. 2023 Jun;44(6):997-1001. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9237489/. Accessed October 10, 2023.
+
+Institute of Medicine Committee on Quality of Health Care in America. Crossing the Quality Chasm: A New Health System for the 21st Century. Washington, DC: National Academies Press; 2001. https://nap.nationalacademies.org/catalog/10027/crossing-the-quality-chasm-a-new-health-system-for-the. Accessed October 10, 2023.
+
+Institute of Medicine Committee on the National Quality Report on Health Care Delivery. Envisioning the National Health Care Quality Report. Hurtado MP, Swift EK, Corrigan JM, eds. Washington, DC: National Academies Press; 2001. http://nap.edu/10073. Accessed October 10, 2023.
+
+Holmes-Rovner M, Montgomery JS, Rovner DR, Scherer LD, Whitfield J, Kahn VC, Merkle EC, Ubel PA, Fagerlin A. Informed decision making: assessment of the quality of physician communication about prostate cancer diagnosis and treatment. Med Decis Mak. 2015;35(8):999-1009. https://doi.org/10.1177/0272989X15597226. Accessed October 10, 2023.
+
+Weiner SJ, Schwartz A, Sharma G, Binns-Calvey A, Ashley N, Kelly B, Dayal A, Patel S, Weaver FM, Harris I. Patient-centered decision making and health care outcomes: an observational study. Ann Intern Med. 2013;158(8):573-579. https://www.acpjournals.org/doi/10.7326/0003-4819-158-8-201304160-00001. Accessed October 10, 2023.
+
+Okunrintemi V, Spatz ES, Di Capua P, Salami JA, Valero-Elizondo J, Warraich H, Virani SS, Blaha MJ, Blankstein R, Butt AA, Borden WB, Dharmarajan K, Ting H, Krumholz HM, Nasir K. Patient-provider communication and health outcomes among individuals with atherosclerotic cardiovascular disease in the United States: Medical Expenditure Panel Survey 2010 to 2013. Circ Cardiovasc Qual Outcomes. 2017;10(4):1-8. https://www.ahajournals.org/doi/full/10.1161/CIRCOUTCOMES.117.003635. Accessed October 10, 2023.
+
+Chou C. Time to start using evidence-based approaches to patient engagement. NEJM Catalyst. 2018;4(2).
+
+Øvretveit J. Do Changes to Patient-Provider Relationships Improve Quality and Save Money? A Review of the Evidence About Value Improvements Made by Changing Communication, Collaboration, and Support for Self-Care. London, UK: The Health Foundation; June 2012. https://www.health.org.uk/publications/do-changes-to-patient-provider-relationships-improve-quality-and-save-money. Accessed October 10, 2023.
+
+Bertakis KD, Azari R. Patient-centered care is associated with decreased health care utilization. J Am Board Fam Med. 2011;24(3):229-39. https://www.jabfm.org/content/24/3/229.long. Accessed October 10, 2023.
+
+Slota C, Davis SA, Blalock SJ, Carpenter DM, Muir KW, Robin AL, Sleath B. Patient-physician communication on medication cost during glaucoma visits. Optom Vis Sci. 2017;94(12):1095-1101. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5726412/. Accessed October 10, 2023.
+
+Peterson K, Anderson J, Bourne D, Boundy E. Scoping Brief: Care Coordination Theoretical Models and Frameworks. Washington, DC: Department of Veterans Affairs; 2018. https://www.ncbi.nlm.nih.gov/books/NBK525002/. Accessed October 10, 2023.
+
+Powell-Davies G, Williams AM, Larsen K, Perkins D, Roland M, Harris MF. Coordinating primary health care: an analysis of the outcomes of a systematic review. Med J Aust. 2008 Apr 21;188(8 Suppl):S65-68. https://www.ncbi.nlm.nih.gov/pubmed/18429740. Accessed October 10, 2023.
+
+Zhou F, Santoli J, Messonnier ML, Yusuf HR, Shefer A, Chu SY, Rodewald L, Harpaz R. Economic evaluation of the 7-vaccine routine childhood immunization schedule in the United States, 2001. Arch Pediatr Adolesc Med. 2005 Dec;159(12):1136-44. https://www.ncbi.nlm.nih.gov/pubmed/16330737. Accessed October 11, 2023.
+
+Leidner AJ, Murthy N, Chesson HW, Biggerstaff M, Stoecker C, Harris AM, Acosta A, Dooling K, Bridges CB. Cost-effectiveness of adult vaccinations: a systematic review. Vaccine. 2019;37(2):226-234. https://doi.org/10.1016/j.vaccine.2018.11.056. Accessed October 11, 2023.
